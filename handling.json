@@ -270,7 +270,7 @@
             "z": "1.000000"
         }
     },
-    "AMBULAN": {
+    "AMBULANCE": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.510000",
         "fAntiRollBarForce": "0.650000",
@@ -330,7 +330,7 @@
             "z": "1.300000"
         }
     },
-    "ANNIHL": {
+    "ANNIHILATOR": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CFlyingHandlingData": {
@@ -477,7 +477,7 @@
             "z": "1.000000"
         }
     },
-    "ARMYTRAILER": {
+    "FREIGHTTRAILER": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CTrailerHandlingData": {
@@ -550,7 +550,7 @@
             "z": "1.000000"
         }
     },
-    "ASEA": {
+    "ASEA2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -1213,7 +1213,7 @@
             "z": "2.000000"
         }
     },
-    "BATI": {
+    "BATI2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CBikeHandlingData": {
@@ -1357,7 +1357,7 @@
             "z": "1.400000"
         }
     },
-    "BFINJECT": {
+    "BFINJECTION": {
         "AIHandling": "CRAP",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -1484,7 +1484,7 @@
             "z": "2.200000"
         }
     },
-    "BISON": {
+    "BISON3": {
         "AIHandling": "TRUCK",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -1618,7 +1618,7 @@
             "z": "2.000000"
         }
     },
-    "BLAZER": {
+    "BLAZER3": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CBikeHandlingData": {
@@ -2249,7 +2249,7 @@
             "z": "1.300000"
         }
     },
-    "BOXVILLE": {
+    "BOXVILLE3": {
         "AIHandling": "TRUCK",
         "fAntiRollBarBiasFront": "0.500000",
         "fAntiRollBarForce": "0.700000",
@@ -2309,7 +2309,7 @@
             "z": "1.200000"
         }
     },
-    "BUCCANEE": {
+    "BUCCANEER": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -2510,7 +2510,7 @@
             "z": "1.600000"
         }
     },
-    "BULLDOZE": {
+    "BULLDOZER": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CVehicleWeaponHandlingData": {
@@ -2680,55 +2680,55 @@
             "z": "1.700000"
         }
     },
-    "BURRITO": {
+    "GBURRITO": {
         "AIHandling": "TRUCK",
-        "fAntiRollBarBiasFront": "0.540000",
-        "fAntiRollBarForce": "0.500000",
-        "fBrakeBiasFront": "0.640000",
-        "fBrakeForce": "0.600000",
+        "fAntiRollBarBiasFront": "0.000000",
+        "fAntiRollBarForce": "0.000000",
+        "fBrakeBiasFront": "0.650000",
+        "fBrakeForce": "0.800000",
         "fCamberStiffnesss": "0.000000",
-        "fClutchChangeRateScaleDownShift": "1.400000",
+        "fClutchChangeRateScaleDownShift": "1.300000",
         "fClutchChangeRateScaleUpShift": "1.300000",
         "fCollisionDamageMult": "1.000000",
         "fDeformationDamageMult": "0.800000",
         "fDriveBiasFront": "0.000000",
-        "fDriveInertia": "1.200000",
+        "fDriveInertia": "1.000000",
         "fEngineDamageMult": "1.500000",
-        "fHandBrakeForce": "0.500000",
+        "fHandBrakeForce": "0.800000",
         "fInitialDragCoeff": "6.000000",
-        "fInitialDriveForce": "0.160000",
-        "fInitialDriveMaxFlatVel": "130.000000",
-        "fLowSpeedTractionLossMult": "0.800000",
+        "fInitialDriveForce": "0.300000",
+        "fInitialDriveMaxFlatVel": "150.000000",
+        "fLowSpeedTractionLossMult": "1.000000",
         "fMass": "2500.000000",
         "fOilVolume": "5.000000",
         "fPercentSubmerged": "80.000000",
-        "fPetrolTankVolume": "60.000000",
-        "fRollCentreHeightFront": "0.500000",
-        "fRollCentreHeightRear": "0.500000",
+        "fPetrolTankVolume": "65.000000",
+        "fRollCentreHeightFront": "0.200000",
+        "fRollCentreHeightRear": "0.200000",
         "fSeatOffsetDistX": "0.000000",
         "fSeatOffsetDistY": "0.000000",
         "fSeatOffsetDistZ": "0.000000",
-        "fSteeringLock": "35.000000",
+        "fSteeringLock": "40.000000",
         "fSuspensionBiasFront": "0.500000",
-        "fSuspensionCompDamp": "0.700000",
+        "fSuspensionCompDamp": "0.800000",
         "fSuspensionForce": "1.200000",
         "fSuspensionLowerLimit": "-0.140000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "1.200000",
+        "fSuspensionReboundDamp": "0.900000",
         "fSuspensionUpperLimit": "0.100000",
         "fTractionBiasFront": "0.490000",
-        "fTractionCurveLateral": "22.000000",
-        "fTractionCurveMax": "1.950000",
-        "fTractionCurveMin": "1.700000",
+        "fTractionCurveLateral": "22.500000",
+        "fTractionCurveMax": "2.250000",
+        "fTractionCurveMin": "1.800000",
         "fTractionLossMult": "1.000000",
         "fTractionSpringDeltaMax": "0.150000",
         "fWeaponDamageMult": "1.000000",
-        "handlingName": "BURRITO",
+        "handlingName": "GBURRITO",
         "nInitialDriveGears": "5",
         "nMonetaryValue": "22000",
         "strDamageFlags": "0",
         "strHandlingFlags": "0",
-        "strModelFlags": "444018",
+        "strModelFlags": "4010",
         "vecCentreOfMassOffset": {
             "x": "0.000000",
             "y": "0.000000",
@@ -2736,8 +2736,8 @@
         },
         "vecInertiaMultiplier": {
             "x": "1.000000",
-            "y": "1.300000",
-            "z": "1.600000"
+            "y": "1.000000",
+            "z": "1.300000"
         }
     },
     "BUS": {
@@ -3282,7 +3282,7 @@
             "z": "1.400000"
         }
     },
-    "CARBON": {
+    "CARBONRS": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CBikeHandlingData": {
@@ -3366,7 +3366,7 @@
             "z": "1.000000"
         }
     },
-    "CARBONIZ": {
+    "CARBONIZZARE": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -3433,7 +3433,7 @@
             "z": "1.400000"
         }
     },
-    "CARGOBOB": {
+    "CARGOBOB3": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CFlyingHandlingData": {
@@ -3644,7 +3644,7 @@
             "z": "1.000000"
         }
     },
-    "CAVCADE": {
+    "CAVALCADE2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -3905,7 +3905,7 @@
             "z": "2.000000"
         }
     },
-    "COMET": {
+    "COMET2": {
         "AIHandling": "SPORTS_CAR",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -4439,7 +4439,7 @@
             "z": "1.500000"
         }
     },
-    "DILETTANTE": {
+    "DILETTANTE2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -5130,7 +5130,7 @@
             "z": "1.000000"
         }
     },
-    "DUBSTA": {
+    "DUBSTA2": {
         "AIHandling": "TRUCK",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -5556,7 +5556,7 @@
             "z": "1.300000"
         }
     },
-    "EMPEROR": {
+    "EMPEROR3": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -5824,7 +5824,7 @@
             "z": "1.400000"
         }
     },
-    "FAGGIO": {
+    "FAGGIO2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CBikeHandlingData": {
@@ -5975,7 +5975,7 @@
             "z": "1.600000"
         }
     },
-    "FBI2": {
+    "SHERIFF2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -6243,7 +6243,7 @@
             "z": "1.600000"
         }
     },
-    "FELTZER": {
+    "FELTZER2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -6685,7 +6685,7 @@
             "z": "1.500000"
         }
     },
-    "FREIGHT": {
+    "TANKERCAR": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.000000",
         "fAntiRollBarForce": "0.000000",
@@ -6805,7 +6805,7 @@
             "z": "1.000000"
         }
     },
-    "FROGGER": {
+    "FROGGER2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CFlyingHandlingData": {
@@ -7221,67 +7221,7 @@
             "z": "1.600000"
         }
     },
-    "GBURRITO": {
-        "AIHandling": "TRUCK",
-        "fAntiRollBarBiasFront": "0.000000",
-        "fAntiRollBarForce": "0.000000",
-        "fBrakeBiasFront": "0.650000",
-        "fBrakeForce": "0.800000",
-        "fCamberStiffnesss": "0.000000",
-        "fClutchChangeRateScaleDownShift": "1.300000",
-        "fClutchChangeRateScaleUpShift": "1.300000",
-        "fCollisionDamageMult": "1.000000",
-        "fDeformationDamageMult": "0.800000",
-        "fDriveBiasFront": "0.000000",
-        "fDriveInertia": "1.000000",
-        "fEngineDamageMult": "1.500000",
-        "fHandBrakeForce": "0.800000",
-        "fInitialDragCoeff": "6.000000",
-        "fInitialDriveForce": "0.300000",
-        "fInitialDriveMaxFlatVel": "150.000000",
-        "fLowSpeedTractionLossMult": "1.000000",
-        "fMass": "2500.000000",
-        "fOilVolume": "5.000000",
-        "fPercentSubmerged": "80.000000",
-        "fPetrolTankVolume": "65.000000",
-        "fRollCentreHeightFront": "0.200000",
-        "fRollCentreHeightRear": "0.200000",
-        "fSeatOffsetDistX": "0.000000",
-        "fSeatOffsetDistY": "0.000000",
-        "fSeatOffsetDistZ": "0.000000",
-        "fSteeringLock": "40.000000",
-        "fSuspensionBiasFront": "0.500000",
-        "fSuspensionCompDamp": "0.800000",
-        "fSuspensionForce": "1.200000",
-        "fSuspensionLowerLimit": "-0.140000",
-        "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "0.900000",
-        "fSuspensionUpperLimit": "0.100000",
-        "fTractionBiasFront": "0.490000",
-        "fTractionCurveLateral": "22.500000",
-        "fTractionCurveMax": "2.250000",
-        "fTractionCurveMin": "1.800000",
-        "fTractionLossMult": "1.000000",
-        "fTractionSpringDeltaMax": "0.150000",
-        "fWeaponDamageMult": "1.000000",
-        "handlingName": "GBURRITO",
-        "nInitialDriveGears": "5",
-        "nMonetaryValue": "22000",
-        "strDamageFlags": "0",
-        "strHandlingFlags": "0",
-        "strModelFlags": "4010",
-        "vecCentreOfMassOffset": {
-            "x": "0.000000",
-            "y": "0.000000",
-            "z": "0.000000"
-        },
-        "vecInertiaMultiplier": {
-            "x": "1.000000",
-            "y": "1.000000",
-            "z": "1.300000"
-        }
-    },
-    "GRAINTRAIL": {
+    "GRAINTRAILER": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CTrailerHandlingData": {
@@ -8319,7 +8259,7 @@
             "z": "1.800000"
         }
     },
-    "ISSI": {
+    "ISSI2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -8784,7 +8724,7 @@
             "z": "1.500000"
         }
     },
-    "KHAMEL": {
+    "KHAMELION": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -9722,7 +9662,7 @@
             "z": "1.000000"
         }
     },
-    "MESA": {
+    "MESA3": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -10163,7 +10103,7 @@
             "z": "2.000000"
         }
     },
-    "MULE": {
+    "MULE2": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.500000",
         "fAntiRollBarForce": "0.300000",
@@ -10307,7 +10247,7 @@
             "z": "1.000000"
         }
     },
-    "NINEF": {
+    "NINEF2": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.510000",
         "fAntiRollBarForce": "1.400000",
@@ -11100,7 +11040,7 @@
             "z": "1.400000"
         }
     },
-    "POLICE": {
+    "POLICE4": {
         "AIHandling": "SPORTS_CAR",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -11385,7 +11325,7 @@
             "z": "1.000000"
         }
     },
-    "POLICEOL2": {
+    "POLICEOLD2": {
         "AIHandling": "SPORTS_CAR",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -11452,7 +11392,7 @@
             "z": "1.600000"
         }
     },
-    "POLICEOLD": {
+    "POLICEOLD1": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -11727,7 +11667,7 @@
             "z": "1.000000"
         }
     },
-    "PONY": {
+    "PONY2": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.550000",
         "fAntiRollBarForce": "0.300000",
@@ -12468,7 +12408,7 @@
             "z": "1.000000"
         }
     },
-    "RANCHERXL": {
+    "RANCHERXL2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -12535,7 +12475,7 @@
             "z": "1.450000"
         }
     },
-    "RAPIDGT": {
+    "RAPIDGT2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -12602,7 +12542,7 @@
             "z": "1.900000"
         }
     },
-    "REBEL": {
+    "REBEL2": {
         "AIHandling": "TRUCK",
         "fAntiRollBarBiasFront": "0.500000",
         "fAntiRollBarForce": "0.000000",
@@ -13021,7 +12961,7 @@
             "z": "1.000000"
         }
     },
-    "RLOADER": {
+    "RATLOADER": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.600000",
         "fAntiRollBarForce": "0.700000",
@@ -13419,7 +13359,7 @@
             "z": "1.600000"
         }
     },
-    "RUMPO": {
+    "RUMPO2": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.550000",
         "fAntiRollBarForce": "0.500000",
@@ -13546,7 +13486,7 @@
             "z": "1.600000"
         }
     },
-    "SADLER": {
+    "SADLER2": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.520000",
         "fAntiRollBarForce": "0.000000",
@@ -13606,7 +13546,7 @@
             "z": "1.450000"
         }
     },
-    "SANCHEZ": {
+    "SANCHEZ2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CBikeHandlingData": {
@@ -13690,7 +13630,7 @@
             "z": "1.000000"
         }
     },
-    "SANDKING": {
+    "SANDKING2": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.400000",
         "fAntiRollBarForce": "0.400000",
@@ -13817,7 +13757,7 @@
             "z": "1.800000"
         }
     },
-    "SCHWARZE": {
+    "SCHWARZER": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -14028,7 +13968,7 @@
             "z": "1.400000"
         }
     },
-    "SEASHARK": {
+    "SEASHARK2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CBikeHandlingData": {
@@ -14215,7 +14155,7 @@
             "z": "1.900000"
         }
     },
-    "SENTINEL": {
+    "SENTINEL2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -14836,7 +14776,7 @@
             "z": "1.000000"
         }
     },
-    "SPEEDO": {
+    "SPEEDO2": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.300000",
         "fAntiRollBarForce": "0.500000",
@@ -15624,7 +15564,7 @@
             "z": "1.600000"
         }
     },
-    "STOCKADE": {
+    "STOCKADE3": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.500000",
         "fAntiRollBarForce": "0.600000",
@@ -16292,7 +16232,7 @@
             "z": "1.800000"
         }
     },
-    "SURFER": {
+    "SURFER2": {
         "AIHandling": "CRAP",
         "fAntiRollBarBiasFront": "0.630000",
         "fAntiRollBarForce": "0.200000",
@@ -16479,7 +16419,7 @@
             "z": "1.100000"
         }
     },
-    "TAILGATE": {
+    "TAILGATER": {
         "AIHandling": "SPORTS_CAR",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -16619,7 +16559,7 @@
             "z": "1.000000"
         }
     },
-    "TAXI2": {
+    "TAXI": {
         "AIHandling": "SPORTS_CAR",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -16911,7 +16851,7 @@
             "z": "1.000000"
         }
     },
-    "TORNADO": {
+    "TORNADO4": {
         "AIHandling": "CRAP",
         "SubHandlingData": {
             "CCarHandlingData": {
@@ -17158,7 +17098,7 @@
             "z": "1.800000"
         }
     },
-    "TR2": {
+    "TR4": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CTrailerHandlingData": {
@@ -17364,7 +17304,7 @@
             "z": "1.000000"
         }
     },
-    "TRACTOR2": {
+    "TRACTOR3": {
         "AIHandling": "CRAP",
         "fAntiRollBarBiasFront": "0.650000",
         "fAntiRollBarForce": "0.900000",
@@ -17424,19 +17364,19 @@
             "z": "1.400000"
         }
     },
-    "TRAILER": {
+    "TRFLAT": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CTrailerHandlingData": {
-                "fAttachLimitPitch": "50.000000",
-                "fAttachLimitRoll": "15.000000",
+                "fAttachLimitPitch": "34.000000",
+                "fAttachLimitRoll": "14.000000",
                 "fAttachLimitYaw": "-1.000000",
-                "fAttachRaiseZ": "0.200000",
+                "fAttachRaiseZ": "0.000000",
                 "fAttachedMaxDistance": "-0.000000",
                 "fAttachedMaxPenetration": "0.000000",
-                "fPosConstraintMassRatio": "3.000000",
-                "fUprightDampingConstant": "5.000000",
-                "fUprightSpringConstant": "-6.000000"
+                "fPosConstraintMassRatio": "1.000000",
+                "fUprightDampingConstant": "2.000000",
+                "fUprightSpringConstant": "-0.500000"
             }
         },
         "fAntiRollBarBiasFront": "0.000000",
@@ -17446,7 +17386,7 @@
         "fCamberStiffnesss": "0.000000",
         "fClutchChangeRateScaleDownShift": "1.300000",
         "fClutchChangeRateScaleUpShift": "1.300000",
-        "fCollisionDamageMult": "0.800000",
+        "fCollisionDamageMult": "1.000000",
         "fDeformationDamageMult": "0.200000",
         "fDriveBiasFront": "0.000000",
         "fDriveInertia": "0.300000",
@@ -17456,7 +17396,7 @@
         "fInitialDriveForce": "0.000000",
         "fInitialDriveMaxFlatVel": "105.000000",
         "fLowSpeedTractionLossMult": "0.000000",
-        "fMass": "3500.000000",
+        "fMass": "2500.000000",
         "fOilVolume": "0.000000",
         "fPercentSubmerged": "80.000000",
         "fPetrolTankVolume": "0.000000",
@@ -17467,7 +17407,7 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "40.000000",
         "fSuspensionBiasFront": "0.500000",
-        "fSuspensionCompDamp": "1.000000",
+        "fSuspensionCompDamp": "0.600000",
         "fSuspensionForce": "1.200000",
         "fSuspensionLowerLimit": "-0.200000",
         "fSuspensionRaise": "0.000000",
@@ -17480,7 +17420,7 @@
         "fTractionLossMult": "1.000000",
         "fTractionSpringDeltaMax": "0.150000",
         "fWeaponDamageMult": "1.000000",
-        "handlingName": "TRAILER",
+        "handlingName": "TRFLAT",
         "nInitialDriveGears": "1",
         "nMonetaryValue": "40000",
         "strDamageFlags": "30",
@@ -17489,7 +17429,7 @@
         "vecCentreOfMassOffset": {
             "x": "0.000000",
             "y": "-1.000000",
-            "z": "-1.600000"
+            "z": "-0.100000"
         },
         "vecInertiaMultiplier": {
             "x": "1.000000",
@@ -17570,7 +17510,7 @@
             "z": "1.000000"
         }
     },
-    "TRAILERL": {
+    "TRAILERLOGS": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CTrailerHandlingData": {
@@ -17776,80 +17716,7 @@
             "z": "1.400000"
         }
     },
-    "TRFLAT": {
-        "AIHandling": "AVERAGE",
-        "SubHandlingData": {
-            "CTrailerHandlingData": {
-                "fAttachLimitPitch": "34.000000",
-                "fAttachLimitRoll": "14.000000",
-                "fAttachLimitYaw": "-1.000000",
-                "fAttachRaiseZ": "0.000000",
-                "fAttachedMaxDistance": "-0.000000",
-                "fAttachedMaxPenetration": "0.000000",
-                "fPosConstraintMassRatio": "1.000000",
-                "fUprightDampingConstant": "2.000000",
-                "fUprightSpringConstant": "-0.500000"
-            }
-        },
-        "fAntiRollBarBiasFront": "0.000000",
-        "fAntiRollBarForce": "0.000000",
-        "fBrakeBiasFront": "0.500000",
-        "fBrakeForce": "0.700000",
-        "fCamberStiffnesss": "0.000000",
-        "fClutchChangeRateScaleDownShift": "1.300000",
-        "fClutchChangeRateScaleUpShift": "1.300000",
-        "fCollisionDamageMult": "1.000000",
-        "fDeformationDamageMult": "0.200000",
-        "fDriveBiasFront": "0.000000",
-        "fDriveInertia": "0.300000",
-        "fEngineDamageMult": "1.500000",
-        "fHandBrakeForce": "0.500000",
-        "fInitialDragCoeff": "10.000000",
-        "fInitialDriveForce": "0.000000",
-        "fInitialDriveMaxFlatVel": "105.000000",
-        "fLowSpeedTractionLossMult": "0.000000",
-        "fMass": "2500.000000",
-        "fOilVolume": "0.000000",
-        "fPercentSubmerged": "80.000000",
-        "fPetrolTankVolume": "0.000000",
-        "fRollCentreHeightFront": "0.400000",
-        "fRollCentreHeightRear": "0.400000",
-        "fSeatOffsetDistX": "0.000000",
-        "fSeatOffsetDistY": "0.000000",
-        "fSeatOffsetDistZ": "0.000000",
-        "fSteeringLock": "40.000000",
-        "fSuspensionBiasFront": "0.500000",
-        "fSuspensionCompDamp": "0.600000",
-        "fSuspensionForce": "1.200000",
-        "fSuspensionLowerLimit": "-0.200000",
-        "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "1.000000",
-        "fSuspensionUpperLimit": "0.200000",
-        "fTractionBiasFront": "0.500000",
-        "fTractionCurveLateral": "20.000000",
-        "fTractionCurveMax": "3.300000",
-        "fTractionCurveMin": "3.300000",
-        "fTractionLossMult": "1.000000",
-        "fTractionSpringDeltaMax": "0.150000",
-        "fWeaponDamageMult": "1.000000",
-        "handlingName": "TRFLAT",
-        "nInitialDriveGears": "1",
-        "nMonetaryValue": "40000",
-        "strDamageFlags": "30",
-        "strHandlingFlags": "0",
-        "strModelFlags": "20220048",
-        "vecCentreOfMassOffset": {
-            "x": "0.000000",
-            "y": "-1.000000",
-            "z": "-0.100000"
-        },
-        "vecInertiaMultiplier": {
-            "x": "1.000000",
-            "y": "2.000000",
-            "z": "1.000000"
-        }
-    },
-    "TRIBIKE": {
+    "TRIBIKE3": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CBikeHandlingData": {
@@ -18099,7 +17966,7 @@
             "z": "1.000000"
         }
     },
-    "UTILTRUC": {
+    "UTILLITRUCK": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.600000",
         "fAntiRollBarForce": "0.500000",
@@ -18159,7 +18026,7 @@
             "z": "1.600000"
         }
     },
-    "UTILTRUC2": {
+    "UTILLITRUCK2": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.600000",
         "fAntiRollBarForce": "0.500000",
@@ -18219,7 +18086,7 @@
             "z": "1.500000"
         }
     },
-    "UTILTRUC3": {
+    "UTILLITRUCK3": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.500000",
         "fAntiRollBarForce": "0.500000",
@@ -18863,7 +18730,7 @@
             "z": "1.800000"
         }
     },
-    "ZION": {
+    "ZION2": {
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
