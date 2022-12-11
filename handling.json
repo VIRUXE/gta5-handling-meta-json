@@ -240,11 +240,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "42.000000",
         "fSuspensionBiasFront": "0.530000",
-        "fSuspensionCompDamp": "5.000000",
+        "fSuspensionCompDamp": "2.480000",
         "fSuspensionForce": "7.000000",
         "fSuspensionLowerLimit": "-0.160000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "9.400000",
+        "fSuspensionReboundDamp": "4.950000",
         "fSuspensionUpperLimit": "0.200000",
         "fTractionBiasFront": "0.465000",
         "fTractionCurveLateral": "22.500000",
@@ -738,11 +738,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "35.000000",
         "fSuspensionBiasFront": "0.470000",
-        "fSuspensionCompDamp": "5.000000",
+        "fSuspensionCompDamp": "2.500000",
         "fSuspensionForce": "7.000000",
         "fSuspensionLowerLimit": "-0.120000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "9.400000",
+        "fSuspensionReboundDamp": "5.000000",
         "fSuspensionUpperLimit": "0.050000",
         "fTractionBiasFront": "0.450000",
         "fTractionCurveLateral": "20.000000",
@@ -979,9 +979,60 @@
         "AIHandling": "SPORTS_CAR",
         "SubHandlingData": {
             "CCarHandlingData": {
+                "AdvancedData": [
+                    {
+                        "Index": {
+                            "value": "0"
+                        },
+                        "Slot": {
+                            "value": "20"
+                        },
+                        "Value": {
+                            "value": "0.13"
+                        },
+                        "type": "CAdvancedData"
+                    },
+                    {
+                        "Index": {
+                            "value": "1"
+                        },
+                        "Slot": {
+                            "value": "20"
+                        },
+                        "Value": {
+                            "value": "0.16"
+                        },
+                        "type": "CAdvancedData"
+                    },
+                    {
+                        "Index": {
+                            "value": "2"
+                        },
+                        "Slot": {
+                            "value": "20"
+                        },
+                        "Value": {
+                            "value": "0.20"
+                        },
+                        "type": "CAdvancedData"
+                    },
+                    {
+                        "Index": {
+                            "value": "0"
+                        },
+                        "Slot": {
+                            "value": "22"
+                        },
+                        "Value": {
+                            "value": "19"
+                        },
+                        "type": "CAdvancedData"
+                    }
+                ],
                 "fBackEndPopUpBuildingImpulseMult": "0.030000",
                 "fBackEndPopUpCarImpulseMult": "0.100000",
-                "fBackEndPopUpMaxDeltaSpeed": "0.600000"
+                "fBackEndPopUpMaxDeltaSpeed": "0.600000",
+                "strAdvancedFlags": "20000000"
             }
         },
         "fAntiRollBarBiasFront": "0.550000",
@@ -1216,11 +1267,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "45.000000",
         "fSuspensionBiasFront": "0.490000",
-        "fSuspensionCompDamp": "5.500000",
+        "fSuspensionCompDamp": "2.56000",
         "fSuspensionForce": "7.500000",
         "fSuspensionLowerLimit": "-0.160000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "10.800000",
+        "fSuspensionReboundDamp": "5.130000",
         "fSuspensionUpperLimit": "0.200000",
         "fTractionBiasFront": "0.450000",
         "fTractionCurveLateral": "22.500000",
@@ -1922,14 +1973,14 @@
                 "fInAirSteerMult": "-9.000000",
                 "fJumpForce": "4.000000",
                 "fLeanBakCOMMult": "0.000000",
-                "fLeanBakForceMult": "17.000000",
+                "fLeanBakForceMult": "40.000000",
                 "fLeanFwdCOMMult": "0.000000",
-                "fLeanFwdForceMult": "28.000000",
+                "fLeanFwdForceMult": "28.500000",
                 "fMaxBankAngle": "20.000000",
-                "fRearBalanceMult": "45.000000",
+                "fRearBalanceMult": "200.000000",
                 "fStickLeanMult": "1.000000",
                 "fStoppieBalancePoint": "-10.000000",
-                "fWheelieBalancePoint": "10.000000",
+                "fWheelieBalancePoint": "8.000000",
                 "fWheelieSteerMult": "-0.500000"
             }
         },
@@ -1963,10 +2014,10 @@
         "fSuspensionBiasFront": "0.500000",
         "fSuspensionCompDamp": "8.000000",
         "fSuspensionForce": "8.500000",
-        "fSuspensionLowerLimit": "-0.050000",
+        "fSuspensionLowerLimit": "-0.100000",
         "fSuspensionRaise": "-0.007000",
         "fSuspensionReboundDamp": "8.600000",
-        "fSuspensionUpperLimit": "0.080000",
+        "fSuspensionUpperLimit": "0.100000",
         "fTractionBiasFront": "0.470000",
         "fTractionCurveLateral": "20.000000",
         "fTractionCurveMax": "1.850000",
@@ -3285,11 +3336,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "40.000000",
         "fSuspensionBiasFront": "0.530000",
-        "fSuspensionCompDamp": "5.000000",
+        "fSuspensionCompDamp": "2.500000",
         "fSuspensionForce": "7.000000",
         "fSuspensionLowerLimit": "-0.150000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "9.400000",
+        "fSuspensionReboundDamp": "5.000000",
         "fSuspensionUpperLimit": "0.120000",
         "fTractionBiasFront": "0.470000",
         "fTractionCurveLateral": "22.500000",
@@ -4358,11 +4409,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "40.000000",
         "fSuspensionBiasFront": "0.520000",
-        "fSuspensionCompDamp": "5.000000",
+        "fSuspensionCompDamp": "2.500000",
         "fSuspensionForce": "7.000000",
         "fSuspensionLowerLimit": "-0.150000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "9.400000",
+        "fSuspensionReboundDamp": "5.000000",
         "fSuspensionUpperLimit": "0.100000",
         "fTractionBiasFront": "0.470000",
         "fTractionCurveLateral": "21.500000",
@@ -4747,12 +4798,12 @@
         "fCollisionDamageMult": "1.000000",
         "fDeformationDamageMult": "0.800000",
         "fDriveBiasFront": "0.000000",
-        "fDriveInertia": "0.800000",
+        "fDriveInertia": "1.250000",
         "fEngineDamageMult": "1.500000",
         "fHandBrakeForce": "0.400000",
         "fInitialDragCoeff": "9.000000",
         "fInitialDriveForce": "0.170000",
-        "fInitialDriveMaxFlatVel": "125.000000",
+        "fInitialDriveMaxFlatVel": "100.000000",
         "fLowSpeedTractionLossMult": "0.800000",
         "fMass": "2100.000000",
         "fOilVolume": "5.000000",
@@ -5049,11 +5100,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "40.000000",
         "fSuspensionBiasFront": "0.530000",
-        "fSuspensionCompDamp": "5.000000",
+        "fSuspensionCompDamp": "2.500000",
         "fSuspensionForce": "7.000000",
         "fSuspensionLowerLimit": "-0.160000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "9.400000",
+        "fSuspensionReboundDamp": "5.000000",
         "fSuspensionUpperLimit": "0.200000",
         "fTractionBiasFront": "0.470000",
         "fTractionCurveLateral": "22.500000",
@@ -5486,7 +5537,7 @@
         "fTractionCurveMax": "2.700000",
         "fTractionCurveMin": "2.500000",
         "fTractionLossMult": "1.000000",
-        "fTractionSpringDeltaMax": "0.150000",
+        "fTractionSpringDeltaMax": "0.050000",
         "fWeaponDamageMult": "1.000000",
         "handlingName": "ELEGY2",
         "nInitialDriveGears": "6",
@@ -5541,7 +5592,7 @@
         "fSeatOffsetDistY": "0.000000",
         "fSeatOffsetDistZ": "0.250000",
         "fSteeringLock": "40.000000",
-        "fSuspensionBiasFront": "0.570000",
+        "fSuspensionBiasFront": "0.500000",
         "fSuspensionCompDamp": "0.800000",
         "fSuspensionForce": "1.800000",
         "fSuspensionLowerLimit": "-0.140000",
@@ -5792,7 +5843,7 @@
                 "fLeanFwdCOMMult": "0.000000",
                 "fLeanFwdForceMult": "11.750000",
                 "fMaxBankAngle": "30.000000",
-                "fRearBalanceMult": "15.000000",
+                "fRearBalanceMult": "25.000000",
                 "fStickLeanMult": "1.000000",
                 "fStoppieBalancePoint": "-10.000000",
                 "fWheelieBalancePoint": "5.000000",
@@ -5827,11 +5878,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "28.000000",
         "fSuspensionBiasFront": "0.500000",
-        "fSuspensionCompDamp": "3.500000",
+        "fSuspensionCompDamp": "1.900000",
         "fSuspensionForce": "4.100000",
         "fSuspensionLowerLimit": "-0.100000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "4.500000",
+        "fSuspensionReboundDamp": "3.800000",
         "fSuspensionUpperLimit": "0.100000",
         "fTractionBiasFront": "0.490000",
         "fTractionCurveLateral": "20.000000",
@@ -6225,7 +6276,7 @@
         "fRollCentreHeightFront": "0.390000",
         "fRollCentreHeightRear": "0.400000",
         "fSeatOffsetDistX": "0.000000",
-        "fSeatOffsetDistY": "0.000000",
+        "fSeatOffsetDistY": "0.100000",
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "38.000000",
         "fSuspensionBiasFront": "0.500000",
@@ -6778,6 +6829,7 @@
                 "fRollMult": "1.680000",
                 "fRollStabilise": "0.011000",
                 "fSideSlipMult": "0.004000",
+                "fSubmergeLevelToPullHeliUnderwater": "0.01",
                 "fThrust": "0.560000",
                 "fThrustFallOff": "0.035000",
                 "fThrustVectoring": "0.400000",
@@ -7217,7 +7269,7 @@
         "nMonetaryValue": "22000",
         "strDamageFlags": "0",
         "strHandlingFlags": "0",
-        "strModelFlags": "4018",
+        "strModelFlags": "4010",
         "vecCentreOfMassOffset": {
             "x": "0.000000",
             "y": "0.000000",
@@ -7677,11 +7729,11 @@
         "fSeatOffsetDistZ": "0.350000",
         "fSteeringLock": "35.000000",
         "fSuspensionBiasFront": "0.500000",
-        "fSuspensionCompDamp": "5.000000",
+        "fSuspensionCompDamp": "2.500000",
         "fSuspensionForce": "7.000000",
         "fSuspensionLowerLimit": "-0.100000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "9.400000",
+        "fSuspensionReboundDamp": "5.000000",
         "fSuspensionUpperLimit": "0.100000",
         "fTractionBiasFront": "0.480000",
         "fTractionCurveLateral": "22.500000",
@@ -7905,6 +7957,298 @@
         "vecInertiaMultiplier": {
             "x": "1.300000",
             "y": "1.300000",
+            "z": "1.300000"
+        }
+    },
+    "INNOVAT": {
+        "AIHandling": "AVERAGE",
+        "SubHandlingData": {
+            "CBikeHandlingData": {
+                "fBikeGroundSideFrictionMult": "1.400000",
+                "fBikeOnStandLeanAngle": "-10.000000",
+                "fBikeOnStandSteerAngle": "0.300000",
+                "fBikeWheelGroundSideFrictionMult": "1.100000",
+                "fBrakingStabilityMult": "-1.000000",
+                "fDesLeanReturnFrac": "0.180000",
+                "fFrontBalanceMult": "85.000000",
+                "fFullAnimAngle": "38.000000",
+                "fInAirSteerMult": "-2.500000",
+                "fJumpForce": "0.000000",
+                "fLeanBakCOMMult": "0.000000",
+                "fLeanBakForceMult": "11.500000",
+                "fLeanFwdCOMMult": "0.000000",
+                "fLeanFwdForceMult": "7.250000",
+                "fMaxBankAngle": "35.000000",
+                "fRearBalanceMult": "60.000000",
+                "fStickLeanMult": "1.000000",
+                "fStoppieBalancePoint": "-10.000000",
+                "fWheelieBalancePoint": "10.000000",
+                "fWheelieSteerMult": "-0.500000"
+            }
+        },
+        "fAntiRollBarBiasFront": "0.000000",
+        "fAntiRollBarForce": "0.000000",
+        "fBrakeBiasFront": "0.650000",
+        "fBrakeForce": "1.000000",
+        "fCamberStiffnesss": "1.000000",
+        "fClutchChangeRateScaleDownShift": "1.300000",
+        "fClutchChangeRateScaleUpShift": "1.300000",
+        "fCollisionDamageMult": "0.500000",
+        "fDeformationDamageMult": "0.800000",
+        "fDriveBiasFront": "0.000000",
+        "fDriveInertia": "1.000000",
+        "fEngineDamageMult": "1.500000",
+        "fHandBrakeForce": "1.200000",
+        "fInitialDragCoeff": "9.500000",
+        "fInitialDriveForce": "0.320000",
+        "fInitialDriveMaxFlatVel": "135.000000",
+        "fLowSpeedTractionLossMult": "0.800000",
+        "fMass": "250.000000",
+        "fOilVolume": "5.000000",
+        "fPercentSubmerged": "95.000000",
+        "fPetrolTankVolume": "65.000000",
+        "fRollCentreHeightFront": "0.100000",
+        "fRollCentreHeightRear": "0.100000",
+        "fSeatOffsetDistX": "0.000000",
+        "fSeatOffsetDistY": "0.000000",
+        "fSeatOffsetDistZ": "0.350000",
+        "fSteeringLock": "37.000000",
+        "fSuspensionBiasFront": "0.50000",
+        "fSuspensionCompDamp": "5.000000",
+        "fSuspensionForce": "7.000000",
+        "fSuspensionLowerLimit": "-0.100000",
+        "fSuspensionRaise": "0.000000",
+        "fSuspensionReboundDamp": "9.400000",
+        "fSuspensionUpperLimit": "0.100000",
+        "fTractionBiasFront": "0.48000",
+        "fTractionCurveLateral": "22.500000",
+        "fTractionCurveMax": "1.90000",
+        "fTractionCurveMin": "1.800000",
+        "fTractionLossMult": "1.000000",
+        "fTractionSpringDeltaMax": "0.060000",
+        "fWeaponDamageMult": "1.000000",
+        "handlingName": "INNOVAT",
+        "nInitialDriveGears": "4",
+        "nMonetaryValue": "12000",
+        "strDamageFlags": "20",
+        "strHandlingFlags": "1",
+        "strModelFlags": "440010",
+        "vecCentreOfMassOffset": {
+            "x": "0.000000",
+            "y": "0.1000000",
+            "z": "-0.050000"
+        },
+        "vecInertiaMultiplier": {
+            "x": "1.000000",
+            "y": "1.400000",
+            "z": "1.600000"
+        }
+    },
+    "INSURGENT": {
+        "AIHandling": "AVERAGE",
+        "SubHandlingData": {
+            "CVehicleWeaponHandlingData": {
+                "WeaponSeats": [
+                    "8",
+                    "0",
+                    "0"
+                ],
+                "fBulletVelocityForGravity": [
+                    "0.000000",
+                    "0.000000"
+                ],
+                "fMiscGadgetVar": "0.000000",
+                "fTurretCamPitchMax": [
+                    "0.000000",
+                    "0.000000"
+                ],
+                "fTurretCamPitchMin": [
+                    "-0.500000",
+                    "0.000000"
+                ],
+                "fTurretPitchForwardMin": [
+                    "-1.000000",
+                    "0.000000"
+                ],
+                "fTurretPitchMax": [
+                    "0.707000",
+                    "0.000000"
+                ],
+                "fTurretPitchMin": [
+                    "-1.000000",
+                    "0.000000"
+                ],
+                "fTurretSpeed": [
+                    "10.000000",
+                    "0.000000"
+                ],
+                "fUvAnimationMult": "0.000000",
+                "fWheelImpactOffset": "0.000000",
+                "uWeaponHash": [
+                    "VEHICLE_WEAPON_TURRET_INSURGENT",
+                    []
+                ]
+            }
+        },
+        "fAntiRollBarBiasFront": "0.600000",
+        "fAntiRollBarForce": "0.500000",
+        "fBrakeBiasFront": "0.650000",
+        "fBrakeForce": "0.600000",
+        "fCamberStiffnesss": "0.000000",
+        "fClutchChangeRateScaleDownShift": "1.500000",
+        "fClutchChangeRateScaleUpShift": "1.500000",
+        "fCollisionDamageMult": "0.100000",
+        "fDeformationDamageMult": "0.150000",
+        "fDriveBiasFront": "0.40000",
+        "fDriveInertia": "0.900000",
+        "fEngineDamageMult": "0.200000",
+        "fHandBrakeForce": "0.450000",
+        "fInitialDragCoeff": "13.000000",
+        "fInitialDriveForce": "0.24000",
+        "fInitialDriveMaxFlatVel": "130.000000",
+        "fLowSpeedTractionLossMult": "0.850000",
+        "fMass": "8600.000000",
+        "fOilVolume": "8.000000",
+        "fPercentSubmerged": "85.000000",
+        "fPetrolTankVolume": "80.000000",
+        "fRollCentreHeightFront": "0.450000",
+        "fRollCentreHeightRear": "0.430000",
+        "fSeatOffsetDistX": "0.000000",
+        "fSeatOffsetDistY": "0.000000",
+        "fSeatOffsetDistZ": "0.000000",
+        "fSteeringLock": "34.000000",
+        "fSuspensionBiasFront": "0.500000",
+        "fSuspensionCompDamp": "0.900000",
+        "fSuspensionForce": "1.400000",
+        "fSuspensionLowerLimit": "-0.180000",
+        "fSuspensionRaise": "0.000000",
+        "fSuspensionReboundDamp": "1.400000",
+        "fSuspensionUpperLimit": "0.300000",
+        "fTractionBiasFront": "0.500000",
+        "fTractionCurveLateral": "18.000000",
+        "fTractionCurveMax": "2.000000",
+        "fTractionCurveMin": "1.700000",
+        "fTractionLossMult": "0.000000",
+        "fTractionSpringDeltaMax": "0.130000",
+        "fWeaponDamageMult": "0.100000",
+        "handlingName": "INSURGENT",
+        "nInitialDriveGears": "6",
+        "nMonetaryValue": "50000",
+        "strDamageFlags": "0",
+        "strHandlingFlags": "4220000",
+        "strModelFlags": "2220010",
+        "vecCentreOfMassOffset": {
+            "x": "0.000000",
+            "y": "0.000000",
+            "z": "-0.1"
+        },
+        "vecInertiaMultiplier": {
+            "x": "1.000000",
+            "y": "1.000000",
+            "z": "1.200000"
+        }
+    },
+    "INSURGENT2": {
+        "AIHandling": "AVERAGE",
+        "SubHandlingData": {
+            "CVehicleWeaponHandlingData": {
+                "WeaponSeats": [
+                    "8",
+                    "0",
+                    "0"
+                ],
+                "fBulletVelocityForGravity": [
+                    "0.000000",
+                    "0.000000"
+                ],
+                "fMiscGadgetVar": "0.000000",
+                "fTurretCamPitchMax": [
+                    "0.000000",
+                    "0.000000"
+                ],
+                "fTurretCamPitchMin": [
+                    "-0.500000",
+                    "0.000000"
+                ],
+                "fTurretPitchForwardMin": [
+                    "-0.080000",
+                    "0.000000"
+                ],
+                "fTurretPitchMax": [
+                    "0.707000",
+                    "0.000000"
+                ],
+                "fTurretPitchMin": [
+                    "-1.000000",
+                    "0.000000"
+                ],
+                "fTurretSpeed": [
+                    "10.000000",
+                    "0.000000"
+                ],
+                "fUvAnimationMult": "0.000000",
+                "fWheelImpactOffset": "0.000000",
+                "uWeaponHash": [
+                    "VEHICLE_WEAPON_TURRET_INSURGENT",
+                    []
+                ]
+            }
+        },
+        "fAntiRollBarBiasFront": "0.600000",
+        "fAntiRollBarForce": "0.500000",
+        "fBrakeBiasFront": "0.650000",
+        "fBrakeForce": "0.600000",
+        "fCamberStiffnesss": "0.000000",
+        "fClutchChangeRateScaleDownShift": "1.500000",
+        "fClutchChangeRateScaleUpShift": "1.500000",
+        "fCollisionDamageMult": "0.100000",
+        "fDeformationDamageMult": "0.150000",
+        "fDriveBiasFront": "0.40000",
+        "fDriveInertia": "0.900000",
+        "fEngineDamageMult": "0.200000",
+        "fHandBrakeForce": "0.450000",
+        "fInitialDragCoeff": "13.000000",
+        "fInitialDriveForce": "0.24000",
+        "fInitialDriveMaxFlatVel": "130.000000",
+        "fLowSpeedTractionLossMult": "0.850000",
+        "fMass": "8600.000000",
+        "fOilVolume": "8.000000",
+        "fPercentSubmerged": "85.000000",
+        "fPetrolTankVolume": "80.000000",
+        "fRollCentreHeightFront": "0.450000",
+        "fRollCentreHeightRear": "0.430000",
+        "fSeatOffsetDistX": "0.000000",
+        "fSeatOffsetDistY": "0.000000",
+        "fSeatOffsetDistZ": "0.000000",
+        "fSteeringLock": "34.000000",
+        "fSuspensionBiasFront": "0.500000",
+        "fSuspensionCompDamp": "0.900000",
+        "fSuspensionForce": "1.400000",
+        "fSuspensionLowerLimit": "-0.180000",
+        "fSuspensionRaise": "0.000000",
+        "fSuspensionReboundDamp": "1.400000",
+        "fSuspensionUpperLimit": "0.300000",
+        "fTractionBiasFront": "0.500000",
+        "fTractionCurveLateral": "18.000000",
+        "fTractionCurveMax": "2.000000",
+        "fTractionCurveMin": "1.700000",
+        "fTractionLossMult": "0.000000",
+        "fTractionSpringDeltaMax": "0.130000",
+        "fWeaponDamageMult": "0.100000",
+        "handlingName": "INSURGENT2",
+        "nInitialDriveGears": "6",
+        "nMonetaryValue": "50000",
+        "strDamageFlags": "0",
+        "strHandlingFlags": "4220000",
+        "strModelFlags": "2220010",
+        "vecCentreOfMassOffset": {
+            "x": "0.000000",
+            "y": "0.000000",
+            "z": "-0.05"
+        },
+        "vecInertiaMultiplier": {
+            "x": "1.000000",
+            "y": "1.000000",
             "z": "1.300000"
         }
     },
@@ -9254,6 +9598,7 @@
                 "fRollMult": "1.700000",
                 "fRollStabilise": "0.010000",
                 "fSideSlipMult": "0.004000",
+                "fSubmergeLevelToPullHeliUnderwater": "0.01",
                 "fThrust": "0.520000",
                 "fThrustFallOff": "0.035000",
                 "fThrustVectoring": "0.400000",
@@ -9932,11 +10277,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "38.000000",
         "fSuspensionBiasFront": "0.530000",
-        "fSuspensionCompDamp": "5.000000",
+        "fSuspensionCompDamp": "2.500000",
         "fSuspensionForce": "7.000000",
         "fSuspensionLowerLimit": "-0.160000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "9.400000",
+        "fSuspensionReboundDamp": "5.000000",
         "fSuspensionUpperLimit": "0.200000",
         "fTractionBiasFront": "0.470000",
         "fTractionCurveLateral": "22.500000",
@@ -10397,11 +10742,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "42.000000",
         "fSuspensionBiasFront": "0.500000",
-        "fSuspensionCompDamp": "4.000000",
+        "fSuspensionCompDamp": "2.300000",
         "fSuspensionForce": "6.000000",
         "fSuspensionLowerLimit": "-0.160000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "4.800000",
+        "fSuspensionReboundDamp": "4.600000",
         "fSuspensionUpperLimit": "0.200000",
         "fTractionBiasFront": "0.470000",
         "fTractionCurveLateral": "22.500000",
@@ -10930,8 +11275,8 @@
         "fSuspensionForce": "2.200000",
         "fSuspensionLowerLimit": "-0.120000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "2.000000",
-        "fSuspensionUpperLimit": "0.090000",
+        "fSuspensionReboundDamp": "2.400000",
+        "fSuspensionUpperLimit": "0.110000",
         "fTractionBiasFront": "0.485000",
         "fTractionCurveLateral": "22.500000",
         "fTractionCurveMax": "2.570000",
@@ -10943,7 +11288,7 @@
         "nInitialDriveGears": "5",
         "nMonetaryValue": "25000",
         "strDamageFlags": "0",
-        "strHandlingFlags": "20000000",
+        "strHandlingFlags": "20000",
         "strModelFlags": "440010",
         "vecCentreOfMassOffset": {
             "x": "0.000000",
@@ -11010,11 +11355,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "40.000000",
         "fSuspensionBiasFront": "0.470000",
-        "fSuspensionCompDamp": "5.000000",
+        "fSuspensionCompDamp": "2.500000",
         "fSuspensionForce": "7.000000",
         "fSuspensionLowerLimit": "-0.130000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "9.400000",
+        "fSuspensionReboundDamp": "5.000000",
         "fSuspensionUpperLimit": "0.200000",
         "fTractionBiasFront": "0.470000",
         "fTractionCurveLateral": "20.000000",
@@ -11258,6 +11603,7 @@
                 "fRollMult": "1.850000",
                 "fRollStabilise": "0.010000",
                 "fSideSlipMult": "0.004000",
+                "fSubmergeLevelToPullHeliUnderwater": "0.01",
                 "fThrust": "0.530000",
                 "fThrustFallOff": "0.035000",
                 "fThrustVectoring": "0.400000",
@@ -11645,7 +11991,7 @@
                 "fAquaplanePushWaterMult": "0.400000",
                 "fBoxFrontMult": "0.900000",
                 "fBoxRearMult": "0.700000",
-                "fBoxSideMult": "0.900000",
+                "fBoxSideMult": "1.200000",
                 "fDinghySphereBuoyConst": "0.000000",
                 "fDragCoefficient": "11.000000",
                 "fImpellerForceMult": "0.100000",
@@ -11766,8 +12112,8 @@
         "strModelFlags": "8000000",
         "vecCentreOfMassOffset": {
             "x": "0.000000",
-            "y": "-0.500000",
-            "z": "-0.500000"
+            "y": "-0.800000",
+            "z": "-0.900000"
         },
         "vecInertiaMultiplier": {
             "x": "1.000000",
@@ -12523,13 +12869,13 @@
         "fSeatOffsetDistY": "0.000000",
         "fSeatOffsetDistZ": "0.500000",
         "fSteeringLock": "40.000000",
-        "fSuspensionBiasFront": "0.500000",
-        "fSuspensionCompDamp": "1.200000",
+        "fSuspensionBiasFront": "0.470000",
+        "fSuspensionCompDamp": "1.320000",
         "fSuspensionForce": "2.000000",
         "fSuspensionLowerLimit": "-0.180000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "1.900000",
-        "fSuspensionUpperLimit": "0.180000",
+        "fSuspensionReboundDamp": "2.6500000",
+        "fSuspensionUpperLimit": "0.300000",
         "fTractionBiasFront": "0.500000",
         "fTractionCurveLateral": "35.500000",
         "fTractionCurveMax": "2.500000",
@@ -12550,9 +12896,9 @@
             "z": "-0.300000"
         },
         "vecInertiaMultiplier": {
-            "x": "1.600000",
-            "y": "1.600000",
-            "z": "1.800000"
+            "x": "1.000000",
+            "y": "1.000000",
+            "z": "1.000000"
         }
     },
     "RIOT": {
@@ -12976,11 +13322,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "40.000000",
         "fSuspensionBiasFront": "0.500000",
-        "fSuspensionCompDamp": "5.000000",
+        "fSuspensionCompDamp": "2.500000",
         "fSuspensionForce": "7.000000",
         "fSuspensionLowerLimit": "-0.160000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "9.400000",
+        "fSuspensionReboundDamp": "5.000000",
         "fSuspensionUpperLimit": "0.200000",
         "fTractionBiasFront": "0.480000",
         "fTractionCurveLateral": "22.500000",
@@ -13314,11 +13660,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "36.000000",
         "fSuspensionBiasFront": "0.500000",
-        "fSuspensionCompDamp": "4.500000",
+        "fSuspensionCompDamp": "1.5000",
         "fSuspensionForce": "6.000000",
         "fSuspensionLowerLimit": "-0.200000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "8.800000",
+        "fSuspensionReboundDamp": "3.0000",
         "fSuspensionUpperLimit": "0.210000",
         "fTractionBiasFront": "0.480000",
         "fTractionCurveLateral": "22.500000",
@@ -13873,9 +14219,60 @@
         "AIHandling": "AVERAGE",
         "SubHandlingData": {
             "CCarHandlingData": {
+                "AdvancedData": [
+                    {
+                        "Index": {
+                            "value": "0"
+                        },
+                        "Slot": {
+                            "value": "20"
+                        },
+                        "Value": {
+                            "value": "0.11"
+                        },
+                        "type": "CAdvancedData"
+                    },
+                    {
+                        "Index": {
+                            "value": "1"
+                        },
+                        "Slot": {
+                            "value": "20"
+                        },
+                        "Value": {
+                            "value": "0.13"
+                        },
+                        "type": "CAdvancedData"
+                    },
+                    {
+                        "Index": {
+                            "value": "2"
+                        },
+                        "Slot": {
+                            "value": "20"
+                        },
+                        "Value": {
+                            "value": "0.15"
+                        },
+                        "type": "CAdvancedData"
+                    },
+                    {
+                        "Index": {
+                            "value": "0"
+                        },
+                        "Slot": {
+                            "value": "22"
+                        },
+                        "Value": {
+                            "value": "14"
+                        },
+                        "type": "CAdvancedData"
+                    }
+                ],
                 "fBackEndPopUpBuildingImpulseMult": "0.030000",
                 "fBackEndPopUpCarImpulseMult": "0.100000",
-                "fBackEndPopUpMaxDeltaSpeed": "0.600000"
+                "fBackEndPopUpMaxDeltaSpeed": "0.600000",
+                "strAdvancedFlags": "20000000"
             }
         },
         "fAntiRollBarBiasFront": "0.620000",
@@ -14340,6 +14737,105 @@
             "z": "1.000000"
         }
     },
+    "SPEEDER": {
+        "AIHandling": "AVERAGE",
+        "SubHandlingData": {
+            "CBoatHandlingData": {
+                "fAquaplaneForce": "3.600000",
+                "fAquaplanePushWaterApply": "0.002000",
+                "fAquaplanePushWaterCap": "3.500000",
+                "fAquaplanePushWaterMult": "0.500000",
+                "fBoxFrontMult": "0.900000",
+                "fBoxRearMult": "0.700000",
+                "fBoxSideMult": "0.900000",
+                "fDeepWaterSampleBuoyancyMult": "5.0",
+                "fDinghySphereBuoyConst": "0.000000",
+                "fDragCoefficient": "7.000000",
+                "fImpellerForceMult": "0.100000",
+                "fImpellerOffset": "0.600000",
+                "fKeelSphereSize": "0.000000",
+                "fLook_L_R_CamHeight": "4.000000",
+                "fLowLodAngOffset": "0.021897",
+                "fLowLodDraughtOffset": "0.290662",
+                "fPropRadius": "0.200000",
+                "fProwRaiseMult": "0.200000",
+                "fRudderForce": "1.800000",
+                "fRudderOffsetForce": "0.000000",
+                "fRudderOffsetForceZMult": "0.800000",
+                "fRudderOffsetSubmerge": "0.000000",
+                "fSampleBottom": "0.300000",
+                "fSampleTop": "0.300000",
+                "fWaveAudioMult": "4.000000",
+                "vecMoveResistance": {
+                    "x": "9.200000",
+                    "y": "500.000000",
+                    "z": "80.000000"
+                },
+                "vecTurnResistance": {
+                    "x": "2.340000",
+                    "y": "1.300000",
+                    "z": "0.020000"
+                }
+            }
+        },
+        "fAntiRollBarBiasFront": "0.000000",
+        "fAntiRollBarForce": "0.000000",
+        "fBrakeBiasFront": "0.600000",
+        "fBrakeForce": "0.400000",
+        "fCamberStiffnesss": "0.000000",
+        "fClutchChangeRateScaleDownShift": "1.300000",
+        "fClutchChangeRateScaleUpShift": "1.300000",
+        "fCollisionDamageMult": "0.500000",
+        "fDeformationDamageMult": "0.800000",
+        "fDriveBiasFront": "0.000000",
+        "fDriveInertia": "1.500000",
+        "fEngineDamageMult": "1.500000",
+        "fHandBrakeForce": "0.700000",
+        "fInitialDragCoeff": "1.000000",
+        "fInitialDriveForce": "16.000000",
+        "fInitialDriveMaxFlatVel": "133.000000",
+        "fLowSpeedTractionLossMult": "0.000000",
+        "fMass": "2400.000000",
+        "fOilVolume": "3.000000",
+        "fPercentSubmerged": "55.000000",
+        "fPetrolTankVolume": "10.000000",
+        "fRollCentreHeightFront": "0.000000",
+        "fRollCentreHeightRear": "0.000000",
+        "fSeatOffsetDistX": "0.000000",
+        "fSeatOffsetDistY": "0.000000",
+        "fSeatOffsetDistZ": "0.000000",
+        "fSteeringLock": "35.000000",
+        "fSuspensionBiasFront": "0.000000",
+        "fSuspensionCompDamp": "3.000000",
+        "fSuspensionForce": "1.000000",
+        "fSuspensionLowerLimit": "0.100000",
+        "fSuspensionRaise": "0.000000",
+        "fSuspensionReboundDamp": "0.000000",
+        "fSuspensionUpperLimit": "0.100000",
+        "fTractionBiasFront": "0.950000",
+        "fTractionCurveLateral": "6.000000",
+        "fTractionCurveMax": "0.000000",
+        "fTractionCurveMin": "0.000000",
+        "fTractionLossMult": "1.000000",
+        "fTractionSpringDeltaMax": "0.100000",
+        "fWeaponDamageMult": "1.000000",
+        "handlingName": "speeder",
+        "nInitialDriveGears": "1",
+        "nMonetaryValue": "40000",
+        "strDamageFlags": "20",
+        "strHandlingFlags": "0",
+        "strModelFlags": "8000000",
+        "vecCentreOfMassOffset": {
+            "x": "0.000000",
+            "y": "-0.900000",
+            "z": "-0.350000"
+        },
+        "vecInertiaMultiplier": {
+            "x": "1.000000",
+            "y": "1.000000",
+            "z": "1.000000"
+        }
+    },
     "SPEEDO": {
         "AIHandling": "AVERAGE",
         "fAntiRollBarBiasFront": "0.300000",
@@ -14791,6 +15287,140 @@
             "x": "1.000000",
             "y": "1.000000",
             "z": "1.000000"
+        }
+    },
+    "STALION": {
+        "AIHandling": "AVERAGE",
+        "SubHandlingData": {
+            "CCarHandlingData": {
+                "fBackEndPopUpBuildingImpulseMult": "0.250000",
+                "fBackEndPopUpCarImpulseMult": "0.500000",
+                "fBackEndPopUpMaxDeltaSpeed": "1.750000"
+            }
+        },
+        "fAntiRollBarBiasFront": "0.660000",
+        "fAntiRollBarForce": "0.400000",
+        "fBrakeBiasFront": "0.650000",
+        "fBrakeForce": "0.700000",
+        "fCamberStiffnesss": "0.000000",
+        "fClutchChangeRateScaleDownShift": "1.900000",
+        "fClutchChangeRateScaleUpShift": "1.900000",
+        "fCollisionDamageMult": "0.700000",
+        "fDeformationDamageMult": "0.700000",
+        "fDriveBiasFront": "0.000000",
+        "fDriveInertia": "1.000000",
+        "fEngineDamageMult": "1.500000",
+        "fHandBrakeForce": "0.800000",
+        "fInitialDragCoeff": "9.500000",
+        "fInitialDriveForce": "0.290000",
+        "fInitialDriveMaxFlatVel": "144.000000",
+        "fLowSpeedTractionLossMult": "1.000000",
+        "fMass": "1650.000000",
+        "fOilVolume": "5.000000",
+        "fPercentSubmerged": "85.000000",
+        "fPetrolTankVolume": "65.000000",
+        "fRollCentreHeightFront": "0.20000",
+        "fRollCentreHeightRear": "0.190000",
+        "fSeatOffsetDistX": "0.000000",
+        "fSeatOffsetDistY": "0.000000",
+        "fSeatOffsetDistZ": "0.100000",
+        "fSteeringLock": "40.000000",
+        "fSuspensionBiasFront": "0.500000",
+        "fSuspensionCompDamp": "0.800000",
+        "fSuspensionForce": "2.000000",
+        "fSuspensionLowerLimit": "-0.140000",
+        "fSuspensionRaise": "0.000000",
+        "fSuspensionReboundDamp": "1.400000",
+        "fSuspensionUpperLimit": "0.160000",
+        "fTractionBiasFront": "0.500000",
+        "fTractionCurveLateral": "22.500000",
+        "fTractionCurveMax": "2.250000",
+        "fTractionCurveMin": "1.800000",
+        "fTractionLossMult": "1.000000",
+        "fTractionSpringDeltaMax": "0.050000",
+        "fWeaponDamageMult": "1.000000",
+        "handlingName": "STALION",
+        "nInitialDriveGears": "5",
+        "nMonetaryValue": "150000",
+        "strDamageFlags": "0",
+        "strHandlingFlags": "0",
+        "strModelFlags": "440010",
+        "vecCentreOfMassOffset": {
+            "x": "0.000000",
+            "y": "0.000000",
+            "z": "0.000000"
+        },
+        "vecInertiaMultiplier": {
+            "x": "1.000000",
+            "y": "1.000000",
+            "z": "1.600000"
+        }
+    },
+    "STALION2": {
+        "AIHandling": "AVERAGE",
+        "SubHandlingData": {
+            "CCarHandlingData": {
+                "fBackEndPopUpBuildingImpulseMult": "0.250000",
+                "fBackEndPopUpCarImpulseMult": "0.500000",
+                "fBackEndPopUpMaxDeltaSpeed": "1.750000"
+            }
+        },
+        "fAntiRollBarBiasFront": "0.660000",
+        "fAntiRollBarForce": "0.450000",
+        "fBrakeBiasFront": "0.650000",
+        "fBrakeForce": "0.700000",
+        "fCamberStiffnesss": "0.000000",
+        "fClutchChangeRateScaleDownShift": "1.900000",
+        "fClutchChangeRateScaleUpShift": "1.900000",
+        "fCollisionDamageMult": "0.700000",
+        "fDeformationDamageMult": "0.700000",
+        "fDriveBiasFront": "0.000000",
+        "fDriveInertia": "1.000000",
+        "fEngineDamageMult": "1.500000",
+        "fHandBrakeForce": "0.800000",
+        "fInitialDragCoeff": "9.100000",
+        "fInitialDriveForce": "0.310000",
+        "fInitialDriveMaxFlatVel": "144.000000",
+        "fLowSpeedTractionLossMult": "1.000000",
+        "fMass": "1650.000000",
+        "fOilVolume": "5.000000",
+        "fPercentSubmerged": "85.000000",
+        "fPetrolTankVolume": "65.000000",
+        "fRollCentreHeightFront": "0.20000",
+        "fRollCentreHeightRear": "0.190000",
+        "fSeatOffsetDistX": "0.000000",
+        "fSeatOffsetDistY": "0.000000",
+        "fSeatOffsetDistZ": "0.100000",
+        "fSteeringLock": "40.000000",
+        "fSuspensionBiasFront": "0.500000",
+        "fSuspensionCompDamp": "1.000000",
+        "fSuspensionForce": "2.200000",
+        "fSuspensionLowerLimit": "-0.140000",
+        "fSuspensionRaise": "0.000000",
+        "fSuspensionReboundDamp": "1.500000",
+        "fSuspensionUpperLimit": "0.180000",
+        "fTractionBiasFront": "0.500000",
+        "fTractionCurveLateral": "22.500000",
+        "fTractionCurveMax": "2.250000",
+        "fTractionCurveMin": "1.800000",
+        "fTractionLossMult": "1.000000",
+        "fTractionSpringDeltaMax": "0.050000",
+        "fWeaponDamageMult": "1.000000",
+        "handlingName": "STALION2",
+        "nInitialDriveGears": "5",
+        "nMonetaryValue": "150000",
+        "strDamageFlags": "0",
+        "strHandlingFlags": "0",
+        "strModelFlags": "440010",
+        "vecCentreOfMassOffset": {
+            "x": "0.000000",
+            "y": "0.000000",
+            "z": "0.000000"
+        },
+        "vecInertiaMultiplier": {
+            "x": "1.000000",
+            "y": "1.000000",
+            "z": "1.600000"
         }
     },
     "STANIER": {
@@ -16253,7 +16883,7 @@
         "fSuspensionBiasFront": "0.800000",
         "fSuspensionCompDamp": "1.800000",
         "fSuspensionForce": "1.500000",
-        "fSuspensionLowerLimit": "-0.250000",
+        "fSuspensionLowerLimit": "0.0",
         "fSuspensionRaise": "0.000000",
         "fSuspensionReboundDamp": "1.000000",
         "fSuspensionUpperLimit": "0.500000",
@@ -17770,11 +18400,11 @@
         "fSeatOffsetDistZ": "0.000000",
         "fSteeringLock": "40.000000",
         "fSuspensionBiasFront": "0.500000",
-        "fSuspensionCompDamp": "5.000000",
+        "fSuspensionCompDamp": "2.500000",
         "fSuspensionForce": "7.000000",
         "fSuspensionLowerLimit": "-0.160000",
         "fSuspensionRaise": "0.000000",
-        "fSuspensionReboundDamp": "9.400000",
+        "fSuspensionReboundDamp": "5.000000",
         "fSuspensionUpperLimit": "0.200000",
         "fTractionBiasFront": "0.475000",
         "fTractionCurveLateral": "22.500000",
