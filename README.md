@@ -7,7 +7,7 @@ Built a dictionary with all the models that use a specific handling id
 Sanitize each vehicle entry in the `handling.meta` files to make it a proper *JSON* format
 Merge it all together to make a `handling.meta.json` that you can pretty much use anywhere where you would need the game's handling metadata
 ### Structure
-```json
+```
 {
     "HANDLINGID" = [
         "models" = {"model", ...},
