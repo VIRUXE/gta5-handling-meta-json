@@ -1,0 +1,3110 @@
+{
+    "hotknife": {
+        "displayName": "HOTKNIFE",
+        "labelText": "Hotknife"
+    },
+    "freightcont2": {
+        "displayName": "FREIGHT",
+        "labelText": "Freight Train"
+    },
+    "tanker": {
+        "displayName": "TRAILER",
+        "labelText": "Trailer"
+    },
+    "toro": {
+        "displayName": "TORO",
+        "labelText": "Toro"
+    },
+    "trophytruck2": {
+        "displayName": "TROPHY2",
+        "labelText": "Desert Raid"
+    },
+    "fbi": {
+        "displayName": "FBI",
+        "labelText": "FIB"
+    },
+    "gb200": {
+        "displayName": "GB200",
+        "labelText": "GB200"
+    },
+    "entity2": {
+        "displayName": "ENTITY2",
+        "labelText": "Entity XXR"
+    },
+    "tyrant": {
+        "displayName": "TYRANT",
+        "labelText": "Tyrant"
+    },
+    "dinghy": {
+        "displayName": "DINGHY",
+        "labelText": "Dinghy"
+    },
+    "ninef2": {
+        "displayName": "NINEF2",
+        "labelText": "9F Cabrio"
+    },
+    "casco": {
+        "displayName": "CASCO",
+        "labelText": "Casco"
+    },
+    "tr4": {
+        "displayName": "TRAILER",
+        "labelText": "Trailer"
+    },
+    "cargobob3": {
+        "displayName": "CARGOBOB",
+        "labelText": "Cargobob"
+    },
+    "zion3": {
+        "displayName": "zion3",
+        "labelText": "Zion Classic"
+    },
+    "fq2": {
+        "displayName": "FQ2",
+        "labelText": "FQ 2"
+    },
+    "hustler": {
+        "displayName": "HUSTLER",
+        "labelText": "Hustler"
+    },
+    "stockade": {
+        "displayName": "STOCKADE",
+        "labelText": "Stockade"
+    },
+    "duster": {
+        "displayName": "DUSTER",
+        "labelText": "Duster"
+    },
+    "blimp": {
+        "displayName": "BLIMP",
+        "labelText": "Atomic Blimp"
+    },
+    "cutter": {
+        "displayName": "CUTTER",
+        "labelText": "Cutter"
+    },
+    "coquette4": {
+        "displayName": "COQUETTE4",
+        "labelText": "Coquette D10"
+    },
+    "dune": {
+        "displayName": "DUNE",
+        "labelText": "Dune Buggy"
+    },
+    "diablous2": {
+        "displayName": "DIABLOUS2",
+        "labelText": "Diabolus Custom"
+    },
+    "ruston": {
+        "displayName": "RUSTON",
+        "labelText": "Ruston"
+    },
+    "utillitruck3": {
+        "displayName": "UTILTRUC",
+        "labelText": "Utility Truck"
+    },
+    "rallytruck": {
+        "displayName": "RALLYTRUCK",
+        "labelText": "Dune"
+    },
+    "luxor": {
+        "displayName": "LUXOR",
+        "labelText": "Luxor"
+    },
+    "maverick": {
+        "displayName": "MAVERICK",
+        "labelText": "Maverick"
+    },
+    "jubilee": {
+        "displayName": "JUBILEE",
+        "labelText": "Jubilee"
+    },
+    "faggio": {
+        "displayName": "FAGGION",
+        "labelText": "Faggio Sport"
+    },
+    "rebel2": {
+        "displayName": "REBEL02",
+        "labelText": "Rebel"
+    },
+    "sanchez2": {
+        "displayName": "SANCHEZ02",
+        "labelText": "Sanchez"
+    },
+    "manchez2": {
+        "displayName": "MANCHEZ2",
+        "labelText": "Manchez Scout"
+    },
+    "bf400": {
+        "displayName": "BF400",
+        "labelText": "BF400"
+    },
+    "growler": {
+        "displayName": "GROWLER",
+        "labelText": "Growler"
+    },
+    "freightcar2": {
+        "displayName": "FREIGHT",
+        "labelText": "Freight Train"
+    },
+    "dominator4": {
+        "displayName": "DOMINATOR4",
+        "labelText": "Apocalypse Dominator"
+    },
+    "weevil2": {
+        "displayName": "WEEVIL2",
+        "labelText": "Weevil Custom"
+    },
+    "cheburek": {
+        "displayName": "CHEBUREK",
+        "labelText": "Cheburek"
+    },
+    "tribike": {
+        "displayName": "TRIBIKE",
+        "labelText": "Whippet Race Bike"
+    },
+    "barracks": {
+        "displayName": "BARRACKS",
+        "labelText": "Barracks"
+    },
+    "remus": {
+        "displayName": "REMUS",
+        "labelText": "Remus"
+    },
+    "forklift": {
+        "displayName": "FORK",
+        "labelText": "Forklift"
+    },
+    "omnisegt": {
+        "displayName": "OMNISEGT",
+        "labelText": "Omnis e-GT"
+    },
+    "phantom3": {
+        "displayName": "PHANTOM3",
+        "labelText": "Phantom Custom"
+    },
+    "scarab": {
+        "displayName": "SCARAB",
+        "labelText": "Apocalypse Scarab"
+    },
+    "prototipo": {
+        "displayName": "PROTOTIPO",
+        "labelText": "X80 Proto"
+    },
+    "cliffhanger": {
+        "displayName": "CLIFFHANGER",
+        "labelText": "Cliffhanger"
+    },
+    "savage": {
+        "displayName": "SAVAGE",
+        "labelText": "Savage"
+    },
+    "streiter": {
+        "displayName": "STREITER",
+        "labelText": "Streiter"
+    },
+    "faction2": {
+        "displayName": "FACTION2",
+        "labelText": "Faction Custom"
+    },
+    "dune5": {
+        "displayName": "DUNE5",
+        "labelText": "Ramp Buggy"
+    },
+    "vamos": {
+        "displayName": "VAMOS",
+        "labelText": "Vamos"
+    },
+    "stingergt": {
+        "displayName": "STINGERG",
+        "labelText": "Stinger GT"
+    },
+    "sm722": {
+        "displayName": "SM722",
+        "labelText": "SM722"
+    },
+    "tractor": {
+        "displayName": "TRACTOR",
+        "labelText": "Tractor"
+    },
+    "manchez": {
+        "displayName": "MANCHEZ",
+        "labelText": "Manchez"
+    },
+    "osiris": {
+        "displayName": "OSIRIS",
+        "labelText": "Osiris"
+    },
+    "towtruck2": {
+        "displayName": "TOWTRUCK",
+        "labelText": "Towtruck"
+    },
+    "cargobob": {
+        "displayName": "CARGOBOB",
+        "labelText": "Cargobob"
+    },
+    "wastelander": {
+        "displayName": "WASTLNDR",
+        "labelText": "Wastelander"
+    },
+    "lguard": {
+        "displayName": "LGUARD",
+        "labelText": "Lifeguard"
+    },
+    "caddy3": {
+        "displayName": "CADDY3",
+        "labelText": "Caddy"
+    },
+    "mule5": {
+        "displayName": "MULE5",
+        "labelText": "Mule"
+    },
+    "zr350": {
+        "displayName": "ZR350",
+        "labelText": "ZR350"
+    },
+    "rcbandito": {
+        "displayName": "RCBANDITO",
+        "labelText": "RC Bandito"
+    },
+    "thrax": {
+        "displayName": "THRAX",
+        "labelText": "Thrax"
+    },
+    "gauntlet2": {
+        "displayName": "GAUNTLET2",
+        "labelText": "Redwood Gauntlet"
+    },
+    "seashark3": {
+        "displayName": "SEASHARK",
+        "labelText": "Seashark"
+    },
+    "rubble": {
+        "displayName": "RUBBLE",
+        "labelText": "Rubble"
+    },
+    "minivan": {
+        "displayName": "MINIVAN",
+        "labelText": "Minivan"
+    },
+    "blista3": {
+        "displayName": "BLISTA3",
+        "labelText": "Go Go Monkey Blista"
+    },
+    "bagger": {
+        "displayName": "BAGGER",
+        "labelText": "Bagger"
+    },
+    "entityxf": {
+        "displayName": "ENTITYXF",
+        "labelText": "Entity XF"
+    },
+    "hellion": {
+        "displayName": "HELLION",
+        "labelText": "Hellion"
+    },
+    "stretch": {
+        "displayName": "STRETCH",
+        "labelText": "Stretch"
+    },
+    "imorgon": {
+        "displayName": "IMORGON",
+        "labelText": "Imorgon"
+    },
+    "coach": {
+        "displayName": "COACH",
+        "labelText": "Dashound"
+    },
+    "infernus": {
+        "displayName": "INFERNUS",
+        "labelText": "Infernus"
+    },
+    "raiden": {
+        "displayName": "RAIDEN",
+        "labelText": "Raiden"
+    },
+    "calico": {
+        "displayName": "CALICO",
+        "labelText": "Calico GTF"
+    },
+    "bjxl": {
+        "displayName": "BJXL",
+        "labelText": "BeeJay XL"
+    },
+    "zion": {
+        "displayName": "ZION",
+        "labelText": "Zion"
+    },
+    "mule": {
+        "displayName": "MULE",
+        "labelText": "Mule"
+    },
+    "zeno": {
+        "displayName": "ZENO",
+        "labelText": "Zeno"
+    },
+    "barracks2": {
+        "displayName": "BARRACKS2",
+        "labelText": "Barracks Semi"
+    },
+    "thrust": {
+        "displayName": "THRUST",
+        "labelText": "Thrust"
+    },
+    "blazer4": {
+        "displayName": "BLAZER4",
+        "labelText": "Street Blazer"
+    },
+    "gauntlet": {
+        "displayName": "GAUNTLET",
+        "labelText": "Gauntlet"
+    },
+    "slamvan": {
+        "displayName": "SLAMVAN",
+        "labelText": "Slamvan"
+    },
+    "windsor2": {
+        "displayName": "WINDSOR2",
+        "labelText": "Windsor Drop"
+    },
+    "tankercar": {
+        "displayName": "FREIGHT",
+        "labelText": "Freight Train"
+    },
+    "tampa2": {
+        "displayName": "TAMPA2",
+        "labelText": "Drift Tampa"
+    },
+    "stromberg": {
+        "displayName": "STROMBERG",
+        "labelText": "Stromberg"
+    },
+    "dinghy5": {
+        "displayName": "DINGHY5",
+        "labelText": "Weaponized Dinghy"
+    },
+    "vortex": {
+        "displayName": "VORTEX",
+        "labelText": "Vortex"
+    },
+    "rapidgt": {
+        "displayName": "RAPIDGT",
+        "labelText": "Rapid GT"
+    },
+    "coquette": {
+        "displayName": "COQUETTE",
+        "labelText": "Coquette"
+    },
+    "comet5": {
+        "displayName": "COMET5",
+        "labelText": "Comet SR"
+    },
+    "freightcont1": {
+        "displayName": "FREIGHT",
+        "labelText": "Freight Train"
+    },
+    "rebla": {
+        "displayName": "REBLA",
+        "labelText": "Rebla GTS"
+    },
+    "dominator2": {
+        "displayName": "DOMINATO2",
+        "labelText": "Pisswasser Dominator"
+    },
+    "vagrant": {
+        "displayName": "VAGRANT",
+        "labelText": "Vagrant"
+    },
+    "sanctus": {
+        "displayName": "SANCTUS",
+        "labelText": "Sanctus"
+    },
+    "ripley": {
+        "displayName": "RIPLEY",
+        "labelText": "Ripley"
+    },
+    "vigero": {
+        "displayName": "VIGERO",
+        "labelText": "Vigero"
+    },
+    "cheetah": {
+        "displayName": "CHEETAH",
+        "labelText": "Cheetah"
+    },
+    "viseris": {
+        "displayName": "VISERIS",
+        "labelText": "Viseris"
+    },
+    "dukes2": {
+        "displayName": "DUKES2",
+        "labelText": "Duke O'Death"
+    },
+    "draugur": {
+        "displayName": "DRAUGUR",
+        "labelText": "Draugur"
+    },
+    "hauler2": {
+        "displayName": "HAULER2",
+        "labelText": "Hauler Custom"
+    },
+    "seven70": {
+        "displayName": "SEVEN70",
+        "labelText": "Seven-70"
+    },
+    "primo": {
+        "displayName": "PRIMO",
+        "labelText": "Primo"
+    },
+    "dodo": {
+        "displayName": "DODO",
+        "labelText": "Dodo"
+    },
+    "vectre": {
+        "displayName": "VECTRE",
+        "labelText": "Vectre"
+    },
+    "brickade": {
+        "displayName": "BRICKADE",
+        "labelText": "Brickade"
+    },
+    "ignus": {
+        "displayName": "IGNUS",
+        "labelText": "Ignus"
+    },
+    "cognoscenti2": {
+        "displayName": "COGNOSC2",
+        "labelText": "Cognoscenti (Armored)"
+    },
+    "swift": {
+        "displayName": "SWIFT",
+        "labelText": "Swift"
+    },
+    "tenf2": {
+        "displayName": "TENF2",
+        "labelText": "10F Widebody"
+    },
+    "bison3": {
+        "displayName": "BISON",
+        "labelText": "Bison"
+    },
+    "raptor": {
+        "displayName": "RAPTOR",
+        "labelText": "Raptor"
+    },
+    "technical2": {
+        "displayName": "TECHNICAL2",
+        "labelText": "Technical Aqua"
+    },
+    "superd": {
+        "displayName": "SUPERD",
+        "labelText": "Super Diamond"
+    },
+    "retinue": {
+        "displayName": "RETINUE",
+        "labelText": "Retinue"
+    },
+    "regina": {
+        "displayName": "REGINA",
+        "labelText": "Regina"
+    },
+    "blazer": {
+        "displayName": "BLAZER",
+        "labelText": "Blazer"
+    },
+    "flatbed": {
+        "displayName": "FLATBED",
+        "labelText": "Flatbed"
+    },
+    "burrito5": {
+        "displayName": "BURRITO",
+        "labelText": "Burrito"
+    },
+    "bulldozer": {
+        "displayName": "BULLDOZE",
+        "labelText": "Dozer"
+    },
+    "adder": {
+        "displayName": "ADDER",
+        "labelText": "Adder"
+    },
+    "freighttrailer": {
+        "displayName": "FREIGHTTRAI",
+        "labelText": "NULL"
+    },
+    "policeold1": {
+        "displayName": "POLICEO1",
+        "labelText": "Police Rancher"
+    },
+    "kosatka": {
+        "displayName": "KOSATKA",
+        "labelText": "Kosatka"
+    },
+    "chimera": {
+        "displayName": "CHIMERA",
+        "labelText": "Chimera"
+    },
+    "utillitruck2": {
+        "displayName": "UTILTRUC",
+        "labelText": "Utility Truck"
+    },
+    "slamvan6": {
+        "displayName": "SLAMVAN6",
+        "labelText": "Nightmare Slamvan"
+    },
+    "towtruck": {
+        "displayName": "TOWTRUCK",
+        "labelText": "Towtruck"
+    },
+    "schafter3": {
+        "displayName": "SCHAFTER3",
+        "labelText": "Schafter V12"
+    },
+    "conada": {
+        "displayName": "Conada",
+        "labelText": "Conada"
+    },
+    "airtug": {
+        "displayName": "AIRTUG",
+        "labelText": "Airtug"
+    },
+    "imperator": {
+        "displayName": "IMPERATOR",
+        "labelText": "Apocalypse Imperator"
+    },
+    "hydra": {
+        "displayName": "HYDRA",
+        "labelText": "Hydra"
+    },
+    "dune3": {
+        "displayName": "DUNE3",
+        "labelText": "Dune FAV"
+    },
+    "postlude": {
+        "displayName": "POSTLUDE",
+        "labelText": "Postlude"
+    },
+    "manana2": {
+        "displayName": "MANANA2",
+        "labelText": "Manana Custom"
+    },
+    "bobcatxl": {
+        "displayName": "BOBCATXL",
+        "labelText": "Bobcat XL"
+    },
+    "bfinjection": {
+        "displayName": "BFINJECT",
+        "labelText": "Injection"
+    },
+    "cargobob4": {
+        "displayName": "CARGOBOB",
+        "labelText": "Cargobob"
+    },
+    "pony": {
+        "displayName": "PONY",
+        "labelText": "Pony"
+    },
+    "torero": {
+        "displayName": "TORERO",
+        "labelText": "Torero"
+    },
+    "boxville": {
+        "displayName": "BOXVILLE",
+        "labelText": "Boxville"
+    },
+    "double": {
+        "displayName": "DOUBLE",
+        "labelText": "Double-T"
+    },
+    "dubsta3": {
+        "displayName": "DUBSTA3",
+        "labelText": "Dubsta 6x6"
+    },
+    "monster5": {
+        "displayName": "MONSTER5",
+        "labelText": "Nightmare Sasquatch"
+    },
+    "kanjosj": {
+        "displayName": "KANJOSJ",
+        "labelText": "Kanjo SJ"
+    },
+    "bison": {
+        "displayName": "BISON",
+        "labelText": "Bison"
+    },
+    "alkonost": {
+        "displayName": "ALKONOST",
+        "labelText": "RO-86 Alkonost"
+    },
+    "tropic2": {
+        "displayName": "TROPIC",
+        "labelText": "Tropic"
+    },
+    "landstalker2": {
+        "displayName": "LANDSTLKR2",
+        "labelText": "Landstalker XL"
+    },
+    "nightblade": {
+        "displayName": "NIGHTBLADE",
+        "labelText": "Nightblade"
+    },
+    "sheava": {
+        "displayName": "SHEAVA",
+        "labelText": "ETR1"
+    },
+    "hakuchou2": {
+        "displayName": "HAKUCHOU2",
+        "labelText": "Hakuchou Drag"
+    },
+    "docktug": {
+        "displayName": "DOCKTUG",
+        "labelText": "Docktug"
+    },
+    "ruiner4": {
+        "displayName": "RUINER4",
+        "labelText": "Ruiner ZZ-8"
+    },
+    "futo2": {
+        "displayName": "FUTO2",
+        "labelText": "Futo GTX"
+    },
+    "ratloader2": {
+        "displayName": "RLOADER2",
+        "labelText": "Rat-Truck"
+    },
+    "speedo": {
+        "displayName": "SPEEDO",
+        "labelText": "Speedo"
+    },
+    "guardian": {
+        "displayName": "GUARDIAN",
+        "labelText": "Guardian"
+    },
+    "jester2": {
+        "displayName": "JESTER2",
+        "labelText": "Jester (Racecar)"
+    },
+    "infernus2": {
+        "displayName": "INFERNUS2",
+        "labelText": "Infernus Classic"
+    },
+    "rumpo3": {
+        "displayName": "RUMPO3",
+        "labelText": "Rumpo Custom"
+    },
+    "cheetah2": {
+        "displayName": "CHEETAH2",
+        "labelText": "Cheetah Classic"
+    },
+    "retinue2": {
+        "displayName": "RETINUE2",
+        "labelText": "Retinue Mk II"
+    },
+    "carbonizzare": {
+        "displayName": "CARBONIZ",
+        "labelText": "Carbonizzare"
+    },
+    "exemplar": {
+        "displayName": "EXEMPLAR",
+        "labelText": "Exemplar"
+    },
+    "ruiner3": {
+        "displayName": "RUINER",
+        "labelText": "Ruiner"
+    },
+    "bodhi2": {
+        "displayName": "BODHI2",
+        "labelText": "Bodhi"
+    },
+    "longfin": {
+        "displayName": "LONGFIN",
+        "labelText": "Longfin"
+    },
+    "schafter5": {
+        "displayName": "SCHAFTER5",
+        "labelText": "Schafter V12 (Armored)"
+    },
+    "mule3": {
+        "displayName": "MULE",
+        "labelText": "Mule"
+    },
+    "tornado4": {
+        "displayName": "TORNADO",
+        "labelText": "Tornado"
+    },
+    "btype2": {
+        "displayName": "BTYPE2",
+        "labelText": "Fränken Stange"
+    },
+    "bati": {
+        "displayName": "BATI",
+        "labelText": "Bati 801"
+    },
+    "mixer2": {
+        "displayName": "MIXER2",
+        "labelText": "Mixer"
+    },
+    "schafter2": {
+        "displayName": "SCHAFTER",
+        "labelText": "Schafter"
+    },
+    "seabreeze": {
+        "displayName": "SEABREEZE",
+        "labelText": "Seabreeze"
+    },
+    "police4": {
+        "displayName": "POLICE4",
+        "labelText": "Unmarked Cruiser"
+    },
+    "speeder": {
+        "displayName": "SPEEDER",
+        "labelText": "Speeder"
+    },
+    "trflat": {
+        "displayName": "TRAILER",
+        "labelText": "Trailer"
+    },
+    "paragon": {
+        "displayName": "PARAGON",
+        "labelText": "Paragon R"
+    },
+    "raketrailer": {
+        "displayName": "TRAILER",
+        "labelText": "Trailer"
+    },
+    "scrap": {
+        "displayName": "SCRAP",
+        "labelText": "Scrap Truck"
+    },
+    "burrito2": {
+        "displayName": "BURRITO2",
+        "labelText": "Bugstars Burrito"
+    },
+    "avarus": {
+        "displayName": "AVARUS",
+        "labelText": "Avarus"
+    },
+    "astron": {
+        "displayName": "ASTRON",
+        "labelText": "Astron"
+    },
+    "banshee": {
+        "displayName": "BANSHEE",
+        "labelText": "Banshee"
+    },
+    "seashark2": {
+        "displayName": "SEASHARK",
+        "labelText": "Seashark"
+    },
+    "baller4": {
+        "displayName": "BALLER4",
+        "labelText": "Baller LE LWB"
+    },
+    "insurgent": {
+        "displayName": "INSURGENT",
+        "labelText": "Insurgent Pick-Up"
+    },
+    "toreador": {
+        "displayName": "TOREADOR",
+        "labelText": "Toreador"
+    },
+    "cinquemila": {
+        "displayName": "CINQUEMILA",
+        "labelText": "Cinquemila"
+    },
+    "dominator": {
+        "displayName": "DOMINATO",
+        "labelText": "Dominator"
+    },
+    "riot2": {
+        "displayName": "RIOT2",
+        "labelText": "RCV"
+    },
+    "zhaba": {
+        "displayName": "ZHABA",
+        "labelText": "Zhaba"
+    },
+    "mixer": {
+        "displayName": "MIXER",
+        "labelText": "Mixer"
+    },
+    "issi5": {
+        "displayName": "ISSI5",
+        "labelText": "Future Shock Issi"
+    },
+    "pfister811": {
+        "displayName": "PFISTER811",
+        "labelText": "811"
+    },
+    "innovation": {
+        "displayName": "INNOVATION",
+        "labelText": "Innovation"
+    },
+    "tenf": {
+        "displayName": "TENF",
+        "labelText": "10F"
+    },
+    "rhapsody": {
+        "displayName": "RHAPSODY",
+        "labelText": "Rhapsody"
+    },
+    "pcj": {
+        "displayName": "PCJ",
+        "labelText": "PCJ 600"
+    },
+    "mamba": {
+        "displayName": "MAMBA",
+        "labelText": "Mamba"
+    },
+    "boxville3": {
+        "displayName": "BOXVILLE",
+        "labelText": "Boxville"
+    },
+    "fugitive": {
+        "displayName": "FUGITIVE",
+        "labelText": "Fugitive"
+    },
+    "dominator8": {
+        "displayName": "DOMINATOR8",
+        "labelText": "Dominator GTT"
+    },
+    "cogcabrio": {
+        "displayName": "COGCABRI",
+        "labelText": "Cognoscenti Cabrio"
+    },
+    "journey": {
+        "displayName": "JOURNEY",
+        "labelText": "Journey"
+    },
+    "tyrus": {
+        "displayName": "TYRUS",
+        "labelText": "Tyrus"
+    },
+    "virgo": {
+        "displayName": "VIRGO",
+        "labelText": "Virgo"
+    },
+    "minivan2": {
+        "displayName": "MINIVAN2",
+        "labelText": "Minivan Custom"
+    },
+    "blazer2": {
+        "displayName": "BLAZER2",
+        "labelText": "Blazer Lifeguard"
+    },
+    "baller3": {
+        "displayName": "BALLER3",
+        "labelText": "Baller LE"
+    },
+    "rhinehart": {
+        "displayName": "rhinehart",
+        "labelText": "Rhinehart"
+    },
+    "drafter": {
+        "displayName": "DRAFTER",
+        "labelText": "8F Drafter"
+    },
+    "surfer2": {
+        "displayName": "SURFER2",
+        "labelText": "Surfer"
+    },
+    "toro2": {
+        "displayName": "TORO",
+        "labelText": "Toro"
+    },
+    "seashark": {
+        "displayName": "SEASHARK",
+        "labelText": "Seashark"
+    },
+    "faction": {
+        "displayName": "FACTION",
+        "labelText": "Faction"
+    },
+    "buzzard2": {
+        "displayName": "BUZZARD2",
+        "labelText": "Buzzard"
+    },
+    "trailerlogs": {
+        "displayName": "TRAILER",
+        "labelText": "Trailer"
+    },
+    "ruiner2": {
+        "displayName": "RUINER2",
+        "labelText": "Ruiner 2000"
+    },
+    "daemon": {
+        "displayName": "DAEMON",
+        "labelText": "Daemon"
+    },
+    "deviant": {
+        "displayName": "DEVIANT",
+        "labelText": "Deviant"
+    },
+    "voodoo": {
+        "displayName": "VOODOO2",
+        "labelText": "Voodoo Custom"
+    },
+    "suntrap": {
+        "displayName": "SUNTRAP",
+        "labelText": "Suntrap"
+    },
+    "outlaw": {
+        "displayName": "OUTLAW",
+        "labelText": "Outlaw"
+    },
+    "daemon2": {
+        "displayName": "DAEMON2",
+        "labelText": "Daemon"
+    },
+    "freecrawler": {
+        "displayName": "FREECRAWLER",
+        "labelText": "Freecrawler"
+    },
+    "dloader": {
+        "displayName": "DLOADER",
+        "labelText": "Duneloader"
+    },
+    "barracks3": {
+        "displayName": "BARRACKS",
+        "labelText": "Barracks"
+    },
+    "everon": {
+        "displayName": "EVERON",
+        "labelText": "Everon"
+    },
+    "asea": {
+        "displayName": "ASEA",
+        "labelText": "Asea"
+    },
+    "deathbike3": {
+        "displayName": "DEATHBIKE3",
+        "labelText": "Nightmare Deathbike"
+    },
+    "boxville2": {
+        "displayName": "BOXVILLE",
+        "labelText": "Boxville"
+    },
+    "flashgt": {
+        "displayName": "FLASHGT",
+        "labelText": "Flash GT"
+    },
+    "zr3802": {
+        "displayName": "ZR3802",
+        "labelText": "Future Shock ZR380"
+    },
+    "furoregt": {
+        "displayName": "FURORE",
+        "labelText": "Furore GT"
+    },
+    "velum": {
+        "displayName": "VELUM",
+        "labelText": "Velum"
+    },
+    "dinghy3": {
+        "displayName": "DINGHY",
+        "labelText": "Dinghy"
+    },
+    "trailers3": {
+        "displayName": "TRAILERS3",
+        "labelText": "Trailer"
+    },
+    "zorrusso": {
+        "displayName": "ZORRUSSO",
+        "labelText": "Zorrusso"
+    },
+    "police2": {
+        "displayName": "POLICE2",
+        "labelText": "Police Cruiser"
+    },
+    "sandking2": {
+        "displayName": "SANDKIN2",
+        "labelText": "Sandking SWB"
+    },
+    "locust": {
+        "displayName": "LOCUST",
+        "labelText": "Locust"
+    },
+    "italigtb2": {
+        "displayName": "ITALIGTB2",
+        "labelText": "Itali GTB Custom"
+    },
+    "torero2": {
+        "displayName": "TORERO2",
+        "labelText": "Torero XO"
+    },
+    "titan": {
+        "displayName": "TITAN",
+        "labelText": "Titan"
+    },
+    "kuruma2": {
+        "displayName": "KURUMA2",
+        "labelText": "Kuruma (Armored)"
+    },
+    "scramjet": {
+        "displayName": "SCRAMJET",
+        "labelText": "Scramjet"
+    },
+    "cyclone": {
+        "displayName": "CYCLONE",
+        "labelText": "Cyclone"
+    },
+    "bombushka": {
+        "displayName": "BOMBUSHKA",
+        "labelText": "RM-10 Bombushka"
+    },
+    "toros": {
+        "displayName": "TOROS",
+        "labelText": "Toros"
+    },
+    "shamal": {
+        "displayName": "SHAMAL",
+        "labelText": "Shamal"
+    },
+    "sultan": {
+        "displayName": "SULTAN",
+        "labelText": "Sultan"
+    },
+    "tropos": {
+        "displayName": "TROPOS",
+        "labelText": "Tropos Rallye"
+    },
+    "zombieb": {
+        "displayName": "ZOMBIEB",
+        "labelText": "Zombie Chopper"
+    },
+    "speedo2": {
+        "displayName": "SPEEDO2",
+        "labelText": "Clown Van"
+    },
+    "serrano": {
+        "displayName": "SERRANO",
+        "labelText": "Serrano"
+    },
+    "neon": {
+        "displayName": "NEON",
+        "labelText": "Neon"
+    },
+    "rogue": {
+        "displayName": "ROGUE",
+        "labelText": "Rogue"
+    },
+    "ratbike": {
+        "displayName": "RATBIKE",
+        "labelText": "Rat Bike"
+    },
+    "trailersmall": {
+        "displayName": "TRAILER",
+        "labelText": "Trailer"
+    },
+    "marquis": {
+        "displayName": "MARQUIS",
+        "labelText": "Marquis"
+    },
+    "elegy2": {
+        "displayName": "ELEGY2",
+        "labelText": "Elegy RH8"
+    },
+    "feltzer3": {
+        "displayName": "FELTZER3",
+        "labelText": "Stirling GT"
+    },
+    "greenwood": {
+        "displayName": "Greenwood",
+        "labelText": "Greenwood"
+    },
+    "handler": {
+        "displayName": "HANDLER",
+        "labelText": "Dock Handler"
+    },
+    "tornado5": {
+        "displayName": "TORNADO5",
+        "labelText": "Tornado Custom"
+    },
+    "savestra": {
+        "displayName": "SAVESTRA",
+        "labelText": "Savestra"
+    },
+    "rumpo": {
+        "displayName": "RUMPO",
+        "labelText": "Rumpo"
+    },
+    "insurgent2": {
+        "displayName": "INSURGENT2",
+        "labelText": "Insurgent"
+    },
+    "pariah": {
+        "displayName": "PARIAH",
+        "labelText": "Pariah"
+    },
+    "surfer": {
+        "displayName": "SURFER",
+        "labelText": "Surfer"
+    },
+    "youga4": {
+        "displayName": "YOUGA4",
+        "labelText": "Youga Custom"
+    },
+    "z190": {
+        "displayName": "Z190",
+        "labelText": "190z"
+    },
+    "slamtruck": {
+        "displayName": "SLAMTRUCK",
+        "labelText": "Slamtruck"
+    },
+    "baller": {
+        "displayName": "BALLER",
+        "labelText": "Baller"
+    },
+    "luxor2": {
+        "displayName": "LUXOR2",
+        "labelText": "Luxor Deluxe"
+    },
+    "visione": {
+        "displayName": "VISIONE",
+        "labelText": "Visione"
+    },
+    "tiptruck2": {
+        "displayName": "TIPTRUCK2",
+        "labelText": "Tipper"
+    },
+    "terbyte": {
+        "displayName": "terbyte",
+        "labelText": "Terrorbyte"
+    },
+    "apc": {
+        "displayName": "APC",
+        "labelText": "APC"
+    },
+    "cerberus3": {
+        "displayName": "cerberus3",
+        "labelText": "Nightmare Cerberus"
+    },
+    "molotok": {
+        "displayName": "MOLOTOK",
+        "labelText": "V-65 Molotok"
+    },
+    "vacca": {
+        "displayName": "VACCA",
+        "labelText": "Vacca"
+    },
+    "cruiser": {
+        "displayName": "CRUISER",
+        "labelText": "Cruiser"
+    },
+    "stockade3": {
+        "displayName": "STOCKADE",
+        "labelText": "Stockade"
+    },
+    "buccaneer": {
+        "displayName": "BUCCANEE",
+        "labelText": "Buccaneer"
+    },
+    "issi6": {
+        "displayName": "ISSI6",
+        "labelText": "Nightmare Issi"
+    },
+    "banshee2": {
+        "displayName": "BANSHEE2",
+        "labelText": "Banshee 900R"
+    },
+    "taipan": {
+        "displayName": "TAIPAN",
+        "labelText": "Taipan"
+    },
+    "bruiser": {
+        "displayName": "BRUISER",
+        "labelText": "Apocalypse Bruiser"
+    },
+    "frogger2": {
+        "displayName": "FROGGER",
+        "labelText": "Frogger"
+    },
+    "mule2": {
+        "displayName": "MULE",
+        "labelText": "Mule"
+    },
+    "surano": {
+        "displayName": "SURANO",
+        "labelText": "Surano"
+    },
+    "sheriff2": {
+        "displayName": "SHERIFF2",
+        "labelText": "Sheriff SUV"
+    },
+    "veto": {
+        "displayName": "VETO",
+        "labelText": "Veto Classic"
+    },
+    "tailgater": {
+        "displayName": "TAILGATE",
+        "labelText": "Tailgater"
+    },
+    "dukes": {
+        "displayName": "DUKES",
+        "labelText": "Dukes"
+    },
+    "zr380": {
+        "displayName": "ZR380",
+        "labelText": "Apocalypse ZR380"
+    },
+    "prairie": {
+        "displayName": "PRAIRIE",
+        "labelText": "Prairie"
+    },
+    "esskey": {
+        "displayName": "ESSKEY",
+        "labelText": "Esskey"
+    },
+    "granger": {
+        "displayName": "GRANGER",
+        "labelText": "Granger"
+    },
+    "penumbra": {
+        "displayName": "PENUMBRA",
+        "labelText": "Penumbra"
+    },
+    "boxville4": {
+        "displayName": "BOXVILLE",
+        "labelText": "Boxville"
+    },
+    "futo": {
+        "displayName": "FUTO",
+        "labelText": "Futo"
+    },
+    "scarab3": {
+        "displayName": "SCARAB3",
+        "labelText": "Nightmare Scarab"
+    },
+    "gauntlet5": {
+        "displayName": "GAUNTLET5",
+        "labelText": "Gauntlet Classic Custom"
+    },
+    "marshall": {
+        "displayName": "MARSHALL",
+        "labelText": "Marshall"
+    },
+    "rrocket": {
+        "displayName": "RROCKET",
+        "labelText": "Rampant Rocket"
+    },
+    "omnis": {
+        "displayName": "OMNIS",
+        "labelText": "Omnis"
+    },
+    "freightgrain": {
+        "displayName": "FREIGHT",
+        "labelText": "Freight Train"
+    },
+    "shotaro": {
+        "displayName": "SHOTARO",
+        "labelText": "Shotaro"
+    },
+    "contender": {
+        "displayName": "CONTENDER",
+        "labelText": "Contender"
+    },
+    "burrito3": {
+        "displayName": "BURRITO",
+        "labelText": "Burrito"
+    },
+    "phoenix": {
+        "displayName": "PHOENIX",
+        "labelText": "Phoenix"
+    },
+    "stanier": {
+        "displayName": "STANIER",
+        "labelText": "Stanier"
+    },
+    "police": {
+        "displayName": "POLICE",
+        "labelText": "Police Cruiser"
+    },
+    "monster4": {
+        "displayName": "MONSTER4",
+        "labelText": "Future Shock Sasquatch"
+    },
+    "openwheel2": {
+        "displayName": "OPENWHEEL2",
+        "labelText": "DR1"
+    },
+    "riot": {
+        "displayName": "RIOT",
+        "labelText": "Police Riot"
+    },
+    "schlagen": {
+        "displayName": "SCHLAGEN",
+        "labelText": "Schlagen GT"
+    },
+    "nero": {
+        "displayName": "NERO",
+        "labelText": "Nero"
+    },
+    "policet": {
+        "displayName": "POLICET",
+        "labelText": "Police Transporter"
+    },
+    "schafter4": {
+        "displayName": "SCHAFTER4",
+        "labelText": "Schafter LWB"
+    },
+    "voodoo2": {
+        "displayName": "VOODOO",
+        "labelText": "Voodoo"
+    },
+    "schwarzer": {
+        "displayName": "SCHWARZE",
+        "labelText": "Schwartzer"
+    },
+    "verlierer2": {
+        "displayName": "VERLIER",
+        "labelText": "Verlierer"
+    },
+    "specter2": {
+        "displayName": "SPECTER2",
+        "labelText": "Specter Custom"
+    },
+    "limo2": {
+        "displayName": "LIMO2",
+        "labelText": "Turreted Limo"
+    },
+    "khanjali": {
+        "displayName": "KHANJALI",
+        "labelText": "TM-02 Khanjali"
+    },
+    "sentinel4": {
+        "displayName": "sentinel4",
+        "labelText": "Sentinel Classic Widebody"
+    },
+    "vigilante": {
+        "displayName": "VIGILANTE",
+        "labelText": "Vigilante"
+    },
+    "felon": {
+        "displayName": "FELON",
+        "labelText": "Felon"
+    },
+    "tvtrailer": {
+        "displayName": "TRAILER",
+        "labelText": "Trailer"
+    },
+    "baller5": {
+        "displayName": "BALLER5",
+        "labelText": "Baller LE (Armored)"
+    },
+    "faggio3": {
+        "displayName": "FAGGIO3",
+        "labelText": "Faggio Mod"
+    },
+    "cerberus": {
+        "displayName": "cerberus",
+        "labelText": "Apocalypse Cerberus"
+    },
+    "dubsta": {
+        "displayName": "DUBSTA",
+        "labelText": "Dubsta"
+    },
+    "asterope": {
+        "displayName": "ASTROPE",
+        "labelText": "Asterope"
+    },
+    "comet2": {
+        "displayName": "COMET2",
+        "labelText": "Comet"
+    },
+    "asea2": {
+        "displayName": "ASEA",
+        "labelText": "Asea"
+    },
+    "buffalo4": {
+        "displayName": "BUFFALO4",
+        "labelText": "Buffalo STX"
+    },
+    "trash": {
+        "displayName": "TRASH",
+        "labelText": "Trashmaster"
+    },
+    "patriot2": {
+        "displayName": "PATRIOT2",
+        "labelText": "Patriot Stretch"
+    },
+    "tractor3": {
+        "displayName": "TRACTOR2",
+        "labelText": "Fieldmaster"
+    },
+    "jb700": {
+        "displayName": "JB700",
+        "labelText": "JB 700"
+    },
+    "emperor2": {
+        "displayName": "EMPEROR",
+        "labelText": "Emperor"
+    },
+    "comet7": {
+        "displayName": "COMET7",
+        "labelText": "Comet S2 Cabrio"
+    },
+    "blimp2": {
+        "displayName": "BLIMP2",
+        "labelText": "Xero Blimp"
+    },
+    "turismor": {
+        "displayName": "TURISMOR",
+        "labelText": "Turismo R"
+    },
+    "specter": {
+        "displayName": "SPECTER",
+        "labelText": "Specter"
+    },
+    "nightshade": {
+        "displayName": "NITESHAD",
+        "labelText": "Nightshade"
+    },
+    "stafford": {
+        "displayName": "STAFFORD",
+        "labelText": "Stafford"
+    },
+    "paragon2": {
+        "displayName": "PARAGON2",
+        "labelText": "Paragon R (Armored)"
+    },
+    "cavalcade": {
+        "displayName": "CAVCADE",
+        "labelText": "Cavalcade"
+    },
+    "washington": {
+        "displayName": "WASHINGT",
+        "labelText": "Washington"
+    },
+    "issi7": {
+        "displayName": "ISSI7",
+        "labelText": "Issi Sport"
+    },
+    "manana": {
+        "displayName": "MANANA",
+        "labelText": "Manana"
+    },
+    "btype3": {
+        "displayName": "ROOSEVELT2",
+        "labelText": "Roosevelt Valor"
+    },
+    "rebel": {
+        "displayName": "REBEL01",
+        "labelText": "Rusty Rebel"
+    },
+    "freightcar": {
+        "displayName": "FREIGHT",
+        "labelText": "Freight Train"
+    },
+    "chernobog": {
+        "displayName": "CHERNOBOG",
+        "labelText": "Chernobog"
+    },
+    "gauntlet4": {
+        "displayName": "GAUNTLET4",
+        "labelText": "Gauntlet Hellfire"
+    },
+    "cargobob2": {
+        "displayName": "CARGOBOB",
+        "labelText": "Cargobob"
+    },
+    "brutus3": {
+        "displayName": "BRUTUS3",
+        "labelText": "Nightmare Brutus"
+    },
+    "oppressor2": {
+        "displayName": "OPPRESSOR2",
+        "labelText": "Oppressor Mk II"
+    },
+    "weevil": {
+        "displayName": "WEEVIL",
+        "labelText": "Weevil"
+    },
+    "fagaloa": {
+        "displayName": "FAGALOA",
+        "labelText": "Fagaloa"
+    },
+    "ruffian": {
+        "displayName": "RUFFIAN",
+        "labelText": "Ruffian"
+    },
+    "nemesis": {
+        "displayName": "NEMESIS",
+        "labelText": "Nemesis"
+    },
+    "seasparrow3": {
+        "displayName": "SPARROW3",
+        "labelText": "Sparrow"
+    },
+    "oracle": {
+        "displayName": "ORACLE2",
+        "labelText": "Oracle XS"
+    },
+    "blista": {
+        "displayName": "BLISTA",
+        "labelText": "Blista"
+    },
+    "caracara": {
+        "displayName": "CARACARA",
+        "labelText": "Caracara"
+    },
+    "policeb": {
+        "displayName": "POLICEB",
+        "labelText": "Police Bike"
+    },
+    "impaler3": {
+        "displayName": "IMPALER3",
+        "labelText": "Future Shock Impaler"
+    },
+    "pounder2": {
+        "displayName": "pounder2",
+        "labelText": "Pounder Custom"
+    },
+    "pounder": {
+        "displayName": "POUNDER",
+        "labelText": "Pounder"
+    },
+    "zombiea": {
+        "displayName": "ZOMBIEA",
+        "labelText": "Zombie Bobber"
+    },
+    "annihilator": {
+        "displayName": "ANNIHL",
+        "labelText": "Annihilator"
+    },
+    "dinghy2": {
+        "displayName": "DINGHY",
+        "labelText": "Dinghy"
+    },
+    "comet4": {
+        "displayName": "COMET4",
+        "labelText": "Comet Safari"
+    },
+    "dune2": {
+        "displayName": "DUNE2",
+        "labelText": "Space Docker"
+    },
+    "khamelion": {
+        "displayName": "KHAMEL",
+        "labelText": "Khamelion"
+    },
+    "tug": {
+        "displayName": "TUG",
+        "labelText": "Tug"
+    },
+    "armytrailer": {
+        "displayName": "ARMYTRAILER",
+        "labelText": "Army Trailer"
+    },
+    "tornado6": {
+        "displayName": "TORNADO6",
+        "labelText": "Tornado Rat Rod"
+    },
+    "Novak": {
+        "displayName": "Novak",
+        "labelText": "Novak"
+    },
+    "paradise": {
+        "displayName": "PARADISE",
+        "labelText": "Paradise"
+    },
+    "speeder2": {
+        "displayName": "SPEEDER",
+        "labelText": "Speeder"
+    },
+    "monroe": {
+        "displayName": "MONROE",
+        "labelText": "Monroe"
+    },
+    "hauler": {
+        "displayName": "HAULER",
+        "labelText": "Hauler"
+    },
+    "slamvan5": {
+        "displayName": "SLAMVAN5",
+        "labelText": "Future Shock Slamvan"
+    },
+    "pony2": {
+        "displayName": "PONY",
+        "labelText": "Pony"
+    },
+    "sandking": {
+        "displayName": "SANDKING",
+        "labelText": "Sandking XL"
+    },
+    "camper": {
+        "displayName": "CAMPER",
+        "labelText": "Camper"
+    },
+    "romero": {
+        "displayName": "ROMERO",
+        "labelText": "Romero Hearse"
+    },
+    "kalahari": {
+        "displayName": "KALAHARI",
+        "labelText": "Kalahari"
+    },
+    "Lurcher": {
+        "displayName": "LURCHER",
+        "labelText": "Lurcher"
+    },
+    "avisa": {
+        "displayName": "AVISA",
+        "labelText": "Avisa"
+    },
+    "mesa2": {
+        "displayName": "MESA",
+        "labelText": "Mesa"
+    },
+    "michelli": {
+        "displayName": "MICHELLI",
+        "labelText": "Michelli GT"
+    },
+    "cognoscenti": {
+        "displayName": "COGNOSC",
+        "labelText": "Cognoscenti"
+    },
+    "rancherxl": {
+        "displayName": "RANCHERX",
+        "labelText": "Rancher XL"
+    },
+    "pigalle": {
+        "displayName": "PIGALLE",
+        "labelText": "Pigalle"
+    },
+    "hunter": {
+        "displayName": "HUNTER",
+        "labelText": "FH-1 Hunter"
+    },
+    "seasparrow2": {
+        "displayName": "SPARROW2",
+        "labelText": "Sparrow"
+    },
+    "sentinel2": {
+        "displayName": "SENTINEL2",
+        "labelText": "Sentinel"
+    },
+    "coquette2": {
+        "displayName": "COQUETTE2",
+        "labelText": "Coquette Classic"
+    },
+    "rocoto": {
+        "displayName": "rocoto",
+        "labelText": "Rocoto"
+    },
+    "volatol": {
+        "displayName": "VOLATOL",
+        "labelText": "Volatol"
+    },
+    "ardent": {
+        "displayName": "ARDENT",
+        "labelText": "Ardent"
+    },
+    "sabregt": {
+        "displayName": "SABREGT",
+        "labelText": "Sabre Turbo"
+    },
+    "patriot": {
+        "displayName": "PATRIOT",
+        "labelText": "Patriot"
+    },
+    "massacro": {
+        "displayName": "MASSACRO",
+        "labelText": "Massacro"
+    },
+    "sultan3": {
+        "displayName": "SULTAN3",
+        "labelText": "Sultan RS Classic"
+    },
+    "trailersmall2": {
+        "displayName": "TRSMALL2",
+        "labelText": "Anti-Aircraft Trailer"
+    },
+    "tourbus": {
+        "displayName": "TOURBUS",
+        "labelText": "Tourbus"
+    },
+    "cog552": {
+        "displayName": "COG552",
+        "labelText": "Cognoscenti 55 (Armored)"
+    },
+    "bifta": {
+        "displayName": "BIFTA",
+        "labelText": "Bifta"
+    },
+    "faggio2": {
+        "displayName": "FAGGIO",
+        "labelText": "Faggio"
+    },
+    "phantom2": {
+        "displayName": "PHANTOM2",
+        "labelText": "Phantom Wedge"
+    },
+    "monster3": {
+        "displayName": "MONSTER3",
+        "labelText": "Apocalypse Sasquatch"
+    },
+    "glendale2": {
+        "displayName": "GLENDALE2",
+        "labelText": "Glendale Custom"
+    },
+    "slamvan4": {
+        "displayName": "SLAMVAN4",
+        "labelText": "Apocalypse Slamvan"
+    },
+    "tula": {
+        "displayName": "TULA",
+        "labelText": "Tula"
+    },
+    "gburrito": {
+        "displayName": "GBURRITO",
+        "labelText": "Gang Burrito"
+    },
+    "mower": {
+        "displayName": "MOWER",
+        "labelText": "Lawn Mower"
+    },
+    "volatus": {
+        "displayName": "VOLATUS",
+        "labelText": "Volatus"
+    },
+    "baletrailer": {
+        "displayName": "BALETRAILER",
+        "labelText": "Baletrailer"
+    },
+    "fcr2": {
+        "displayName": "FCR2",
+        "labelText": "FCR 1000 Custom"
+    },
+    "valkyrie": {
+        "displayName": "VALKYRIE",
+        "labelText": "Valkyrie"
+    },
+    "neo": {
+        "displayName": "NEO",
+        "labelText": "Neo"
+    },
+    "t20": {
+        "displayName": "T20",
+        "labelText": "T20"
+    },
+    "sultan2": {
+        "displayName": "SULTAN2",
+        "labelText": "Sultan Classic"
+    },
+    "vagner": {
+        "displayName": "VAGNER",
+        "labelText": "Vagner"
+    },
+    "patriot3": {
+        "displayName": "PATRIOT3",
+        "labelText": "Patriot Mil-Spec"
+    },
+    "zion2": {
+        "displayName": "ZION2",
+        "labelText": "Zion Cabrio"
+    },
+    "docktrailer": {
+        "displayName": "DOCKTRAILER",
+        "labelText": "NULL"
+    },
+    "squalo": {
+        "displayName": "SQUALO",
+        "labelText": "Squalo"
+    },
+    "dominator6": {
+        "displayName": "DOMINATOR6",
+        "labelText": "Nightmare Dominator"
+    },
+    "gt500": {
+        "displayName": "GT500",
+        "labelText": "GT500"
+    },
+    "hakuchou": {
+        "displayName": "HAKUCHOU",
+        "labelText": "Hakuchou"
+    },
+    "stinger": {
+        "displayName": "STINGER",
+        "labelText": "Stinger"
+    },
+    "lazer": {
+        "displayName": "LAZER",
+        "labelText": "P-996 LAZER"
+    },
+    "Jackal": {
+        "displayName": "JACKAL",
+        "labelText": "Jackal"
+    },
+    "imperator3": {
+        "displayName": "IMPERATOR3",
+        "labelText": "Nightmare Imperator"
+    },
+    "nimbus": {
+        "displayName": "NIMBUS",
+        "labelText": "Nimbus"
+    },
+    "voltic2": {
+        "displayName": "VOLTIC2",
+        "labelText": "Rocket Voltic"
+    },
+    "ratloader": {
+        "displayName": "RLOADER",
+        "labelText": "Rat-Loader"
+    },
+    "seminole": {
+        "displayName": "SEMINOLE",
+        "labelText": "Seminole"
+    },
+    "mesa": {
+        "displayName": "MESA",
+        "labelText": "Mesa"
+    },
+    "youga": {
+        "displayName": "YOUGA",
+        "labelText": "Youga"
+    },
+    "granger2": {
+        "displayName": "GRANGER2",
+        "labelText": "Granger 3600LX"
+    },
+    "bison2": {
+        "displayName": "BISON",
+        "labelText": "Bison"
+    },
+    "jester": {
+        "displayName": "JESTER",
+        "labelText": "Jester"
+    },
+    "airbus": {
+        "displayName": "AIRBUS",
+        "labelText": "Airport Bus"
+    },
+    "yosemite2": {
+        "displayName": "YOSEMITE2",
+        "labelText": "Drift Yosemite"
+    },
+    "pbus": {
+        "displayName": "PBUS",
+        "labelText": "Prison Bus"
+    },
+    "sanchez": {
+        "displayName": "SANCHEZ01",
+        "labelText": "Sanchez (livery)"
+    },
+    "caddy": {
+        "displayName": "CADDY",
+        "labelText": "Caddy"
+    },
+    "stalion2": {
+        "displayName": "STALION2",
+        "labelText": "Burger Shot Stallion"
+    },
+    "feltzer2": {
+        "displayName": "FELTZER",
+        "labelText": "Feltzer"
+    },
+    "halftrack": {
+        "displayName": "HALFTRACK",
+        "labelText": "Half-track"
+    },
+    "buccaneer2": {
+        "displayName": "BUCCANEE2",
+        "labelText": "Buccaneer Custom"
+    },
+    "kamacho": {
+        "displayName": "KAMACHO",
+        "labelText": "Kamacho"
+    },
+    "baller7": {
+        "displayName": "BALLER7",
+        "labelText": "Baller ST"
+    },
+    "dominator7": {
+        "displayName": "DOMINATOR7",
+        "labelText": "Dominator ASP"
+    },
+    "turismo2": {
+        "displayName": "TURISMO2",
+        "labelText": "Turismo Classic"
+    },
+    "starling": {
+        "displayName": "STARLING",
+        "labelText": "LF-22 Starling"
+    },
+    "rapidgt2": {
+        "displayName": "RAPIDGT",
+        "labelText": "Rapid GT"
+    },
+    "veto2": {
+        "displayName": "VETO2",
+        "labelText": "Veto Modern"
+    },
+    "schafter6": {
+        "displayName": "SCHAFTER6",
+        "labelText": "Schafter LWB (Armored)"
+    },
+    "avenger": {
+        "displayName": "AVENGER",
+        "labelText": "Avenger"
+    },
+    "policeold2": {
+        "displayName": "POLICEO2",
+        "labelText": "Police Roadcruiser"
+    },
+    "armytanker": {
+        "displayName": "ARMYTRAILER",
+        "labelText": "Army Trailer"
+    },
+    "boattrailer": {
+        "displayName": "BOATTRAILER",
+        "labelText": "Boat Trailer"
+    },
+    "trailers": {
+        "displayName": "TRAILER",
+        "labelText": "Trailer"
+    },
+    "verus": {
+        "displayName": "VERUS",
+        "labelText": "Verus"
+    },
+    "kuruma": {
+        "displayName": "KURUMA",
+        "labelText": "Kuruma"
+    },
+    "freight": {
+        "displayName": "FREIGHT",
+        "labelText": "Freight Train"
+    },
+    "monster": {
+        "displayName": "MONSTER",
+        "labelText": "Liberator"
+    },
+    "caracara2": {
+        "displayName": "CARACARA2",
+        "labelText": "Caracara 4x4"
+    },
+    "italigtb": {
+        "displayName": "ITALIGTB",
+        "labelText": "Itali GTB"
+    },
+    "zr3803": {
+        "displayName": "ZR3803",
+        "labelText": "Nightmare ZR380"
+    },
+    "le7b": {
+        "displayName": "LE7B",
+        "labelText": "RE-7B"
+    },
+    "gauntlet3": {
+        "displayName": "GAUNTLET3",
+        "labelText": "Gauntlet Classic"
+    },
+    "issi4": {
+        "displayName": "ISSI4",
+        "labelText": "Apocalypse Issi"
+    },
+    "bruiser3": {
+        "displayName": "BRUISER3",
+        "labelText": "Nightmare Bruiser"
+    },
+    "carbonrs": {
+        "displayName": "CARBON",
+        "labelText": "Carbon RS"
+    },
+    "ruiner": {
+        "displayName": "RUINER",
+        "labelText": "Ruiner"
+    },
+    "mule4": {
+        "displayName": "MULE4",
+        "labelText": "Mule Custom"
+    },
+    "boxville5": {
+        "displayName": "BOXVILLE5",
+        "labelText": "Armored Boxville"
+    },
+    "bus": {
+        "displayName": "BUS",
+        "labelText": "Bus"
+    },
+    "vindicator": {
+        "displayName": "VINDICATOR",
+        "labelText": "Vindicator"
+    },
+    "hexer": {
+        "displayName": "HEXER",
+        "labelText": "Hexer"
+    },
+    "issi2": {
+        "displayName": "ISSI2",
+        "labelText": "Issi"
+    },
+    "picador": {
+        "displayName": "PICADOR",
+        "labelText": "Picador"
+    },
+    "trailers4": {
+        "displayName": "TRAILER",
+        "labelText": "Trailer"
+    },
+    "strikeforce": {
+        "displayName": "STRIKEFORCE",
+        "labelText": "B-11 Strikeforce"
+    },
+    "moonbeam2": {
+        "displayName": "MOONBEAM2",
+        "labelText": "Moonbeam Custom"
+    },
+    "oppressor": {
+        "displayName": "OPPRESSOR",
+        "labelText": "Oppressor"
+    },
+    "akuma": {
+        "displayName": "AKUMA",
+        "labelText": "Akuma"
+    },
+    "ambulance": {
+        "displayName": "AMBULAN",
+        "labelText": "Ambulance"
+    },
+    "nokota": {
+        "displayName": "NOKOTA",
+        "labelText": "P-45 Nokota"
+    },
+    "fmj": {
+        "displayName": "FMJ",
+        "labelText": "FMJ"
+    },
+    "youga3": {
+        "displayName": "YOUGA3",
+        "labelText": "Youga Classic 4x4"
+    },
+    "previon": {
+        "displayName": "previon",
+        "labelText": "Previon"
+    },
+    "Sugoi": {
+        "displayName": "Sugoi",
+        "labelText": "Sugoi"
+    },
+    "dump": {
+        "displayName": "DUMP",
+        "labelText": "Dump"
+    },
+    "deveste": {
+        "displayName": "DEVESTE",
+        "labelText": "Deveste Eight"
+    },
+    "sentinel": {
+        "displayName": "SENTINEL",
+        "labelText": "Sentinel XS"
+    },
+    "baller2": {
+        "displayName": "BALLER2",
+        "labelText": "Baller"
+    },
+    "tropic": {
+        "displayName": "TROPIC",
+        "labelText": "Tropic"
+    },
+    "Dynasty": {
+        "displayName": "Dynasty",
+        "labelText": "Dynasty"
+    },
+    "crusader": {
+        "displayName": "CRUSADER",
+        "labelText": "Crusader"
+    },
+    "chino": {
+        "displayName": "CHINO",
+        "labelText": "Chino"
+    },
+    "felon2": {
+        "displayName": "FELON2",
+        "labelText": "Felon GT"
+    },
+    "moonbeam": {
+        "displayName": "MOONBEAM",
+        "labelText": "Moonbeam"
+    },
+    "voltic": {
+        "displayName": "VOLTIC",
+        "labelText": "Voltic"
+    },
+    "riata": {
+        "displayName": "RIATA",
+        "labelText": "Riata"
+    },
+    "ninef": {
+        "displayName": "NINEF",
+        "labelText": "9F"
+    },
+    "tornado3": {
+        "displayName": "TORNADO3",
+        "labelText": "Tornado"
+    },
+    "defiler": {
+        "displayName": "DEFILER",
+        "labelText": "Defiler"
+    },
+    "thruster": {
+        "displayName": "THRUSTER",
+        "labelText": "Thruster"
+    },
+    "slamvan3": {
+        "displayName": "SLAMVAN3",
+        "labelText": "Slamvan Custom"
+    },
+    "patrolboat": {
+        "displayName": "PATROLBOAT",
+        "labelText": "Kurtz 31 Patrol Boat"
+    },
+    "cypher": {
+        "displayName": "CYPHER",
+        "labelText": "Cypher"
+    },
+    "f620": {
+        "displayName": "F620",
+        "labelText": "F620"
+    },
+    "reaper": {
+        "displayName": "REAPER",
+        "labelText": "Reaper"
+    },
+    "primo2": {
+        "displayName": "PRIMO2",
+        "labelText": "Primo Custom"
+    },
+    "huntley": {
+        "displayName": "HUNTLEY",
+        "labelText": "Huntley S"
+    },
+    "cog55": {
+        "displayName": "COG55",
+        "labelText": "Cognoscenti 55"
+    },
+    "enduro": {
+        "displayName": "ENDURO",
+        "labelText": "Enduro"
+    },
+    "annihilator2": {
+        "displayName": "ANNIHLATOR2",
+        "labelText": "Annihilator Stealth"
+    },
+    "sultanrs": {
+        "displayName": "SULTANRS",
+        "labelText": "Sultan RS"
+    },
+    "virgo3": {
+        "displayName": "VIRGO3",
+        "labelText": "Virgo Classic"
+    },
+    "BMX": {
+        "displayName": "BMX",
+        "labelText": "BMX"
+    },
+    "champion": {
+        "displayName": "CHAMPION",
+        "labelText": "Champion"
+    },
+    "comet6": {
+        "displayName": "COMET6",
+        "labelText": "Comet S2"
+    },
+    "seasparrow": {
+        "displayName": "SPARROW",
+        "labelText": "Sea Sparrow"
+    },
+    "jetmax": {
+        "displayName": "JETMAX",
+        "labelText": "Jetmax"
+    },
+    "taco": {
+        "displayName": "TACO",
+        "labelText": "Taco Van"
+    },
+    "firetruk": {
+        "displayName": "FIRETRUK",
+        "labelText": "Fire Truck"
+    },
+    "penumbra2": {
+        "displayName": "PENUMBRA2",
+        "labelText": "Penumbra FF"
+    },
+    "metrotrain": {
+        "displayName": "FREIGHT",
+        "labelText": "Freight Train"
+    },
+    "submersible2": {
+        "displayName": "SUBMERS2",
+        "labelText": "Kraken"
+    },
+    "technical": {
+        "displayName": "TECHNICAL",
+        "labelText": "Technical"
+    },
+    "clique": {
+        "displayName": "CLIQUE",
+        "labelText": "Clique"
+    },
+    "jester3": {
+        "displayName": "JESTER3",
+        "labelText": "Jester Classic"
+    },
+    "glendale": {
+        "displayName": "GLENDALE",
+        "labelText": "Glendale"
+    },
+    "yosemite3": {
+        "displayName": "yosemite3",
+        "labelText": "Yosemite Rancher"
+    },
+    "howard": {
+        "displayName": "HOWARD",
+        "labelText": "Howard NX-25"
+    },
+    "tailgater2": {
+        "displayName": "TAILGATER2",
+        "labelText": "Tailgater S"
+    },
+    "bati2": {
+        "displayName": "BATI2",
+        "labelText": "Bati 801RR"
+    },
+    "graintrailer": {
+        "displayName": "GRAINTRAILE",
+        "labelText": "NULL"
+    },
+    "penetrator": {
+        "displayName": "penetrator",
+        "labelText": "Penetrator"
+    },
+    "supervolito2": {
+        "displayName": "SVOLITO2",
+        "labelText": "SuperVolito Carbon"
+    },
+    "avenger2": {
+        "displayName": "AVENGER",
+        "labelText": "Avenger"
+    },
+    "benson": {
+        "displayName": "BENSON",
+        "labelText": "Benson"
+    },
+    "blazer3": {
+        "displayName": "BLAZER03",
+        "labelText": "Hot Rod Blazer"
+    },
+    "frogger": {
+        "displayName": "FROGGER",
+        "labelText": "Frogger"
+    },
+    "faction3": {
+        "displayName": "FACTION3",
+        "labelText": "Faction Custom Donk"
+    },
+    "virgo2": {
+        "displayName": "VIRGO2",
+        "labelText": "Virgo Classic Custom"
+    },
+    "xls": {
+        "displayName": "XLS",
+        "labelText": "XLS"
+    },
+    "predator": {
+        "displayName": "PREDATOR",
+        "labelText": "Police Predator"
+    },
+    "blista2": {
+        "displayName": "BLISTA2",
+        "labelText": "Blista Compact"
+    },
+    "dilettante": {
+        "displayName": "DILETTAN",
+        "labelText": "Dilettante"
+    },
+    "xls2": {
+        "displayName": "XLS2",
+        "labelText": "XLS (Armored)"
+    },
+    "bullet": {
+        "displayName": "BULLET",
+        "labelText": "Bullet"
+    },
+    "slamvan2": {
+        "displayName": "SLAMVAN2",
+        "labelText": "Lost Slamvan"
+    },
+    "panto": {
+        "displayName": "PANTO",
+        "labelText": "Panto"
+    },
+    "ellie": {
+        "displayName": "ELLIE",
+        "labelText": "Ellie"
+    },
+    "bestiagts": {
+        "displayName": "BESTIAGTS",
+        "labelText": "Bestia GTS"
+    },
+    "formula": {
+        "displayName": "FORMULA",
+        "labelText": "PR4"
+    },
+    "supervolito": {
+        "displayName": "SVOLITO",
+        "labelText": "SuperVolito"
+    },
+    "diablous": {
+        "displayName": "DIABLOUS",
+        "labelText": "Diabolus"
+    },
+    "bruiser2": {
+        "displayName": "BRUISER2",
+        "labelText": "Future Shock Bruiser"
+    },
+    "lm87": {
+        "displayName": "LM87",
+        "labelText": "LM87"
+    },
+    "scorcher": {
+        "displayName": "SCORCHER",
+        "labelText": "Scorcher"
+    },
+    "tigon": {
+        "displayName": "TIGON",
+        "labelText": "Tigon"
+    },
+    "tornado": {
+        "displayName": "TORNADO",
+        "labelText": "Tornado"
+    },
+    "euros": {
+        "displayName": "EUROS",
+        "labelText": "Euros"
+    },
+    "submersible": {
+        "displayName": "SUBMERS",
+        "labelText": "Submersible"
+    },
+    "radi": {
+        "displayName": "RADI",
+        "labelText": "Radius"
+    },
+    "deity": {
+        "displayName": "DEITY",
+        "labelText": "Deity"
+    },
+    "rt3000": {
+        "displayName": "RT3000",
+        "labelText": "RT3000"
+    },
+    "mammatus": {
+        "displayName": "MAMMATUS",
+        "labelText": "Mammatus"
+    },
+    "besra": {
+        "displayName": "BESRA",
+        "labelText": "Besra"
+    },
+    "stalion": {
+        "displayName": "STALION",
+        "labelText": "Stallion"
+    },
+    "minitank": {
+        "displayName": "MINITANK",
+        "labelText": "Invade and Persuade Tank"
+    },
+    "buffalo2": {
+        "displayName": "BUFFALO02",
+        "labelText": "Buffalo S"
+    },
+    "nero2": {
+        "displayName": "NERO2",
+        "labelText": "Nero Custom"
+    },
+    "imperator2": {
+        "displayName": "IMPERATOR2",
+        "labelText": "Future Shock Imperator"
+    },
+    "jugular": {
+        "displayName": "JUGULAR",
+        "labelText": "Jugular"
+    },
+    "alphaz1": {
+        "displayName": "ALPHAZ1",
+        "labelText": "Alpha-Z1"
+    },
+    "tampa": {
+        "displayName": "TAMPA",
+        "labelText": "Tampa"
+    },
+    "tanker2": {
+        "displayName": "TANKER",
+        "labelText": "NULL"
+    },
+    "akula": {
+        "displayName": "AKULA",
+        "labelText": "Akula"
+    },
+    "seminole2": {
+        "displayName": "SEMINOLE2",
+        "labelText": "Seminole Frontier"
+    },
+    "insurgent3": {
+        "displayName": "INSURGENT3",
+        "labelText": "Insurgent Pick-Up Custom"
+    },
+    "tr2": {
+        "displayName": "TRAILER",
+        "labelText": "Trailer"
+    },
+    "italigto": {
+        "displayName": "ITALIGTO",
+        "labelText": "Itali GTO"
+    },
+    "buzzard": {
+        "displayName": "BUZZARD",
+        "labelText": "Buzzard Attack Chopper"
+    },
+    "dinghy4": {
+        "displayName": "DINGHY",
+        "labelText": "Dinghy"
+    },
+    "oracle2": {
+        "displayName": "ORACLE",
+        "labelText": "Oracle"
+    },
+    "surge": {
+        "displayName": "SURGE",
+        "labelText": "Surge"
+    },
+    "burrito": {
+        "displayName": "BURRITO",
+        "labelText": "Burrito"
+    },
+    "trash2": {
+        "displayName": "TRASH",
+        "labelText": "Trashmaster"
+    },
+    "havok": {
+        "displayName": "HAVOK",
+        "labelText": "Havok"
+    },
+    "peyote3": {
+        "displayName": "PEYOTE3",
+        "labelText": "Peyote Custom"
+    },
+    "gargoyle": {
+        "displayName": "GARGOYLE",
+        "labelText": "Gargoyle"
+    },
+    "brutus": {
+        "displayName": "BRUTUS",
+        "labelText": "Apocalypse Brutus"
+    },
+    "wolfsbane": {
+        "displayName": "WOLFSBANE",
+        "labelText": "Wolfsbane"
+    },
+    "xa21": {
+        "displayName": "XA21",
+        "labelText": "XA-21"
+    },
+    "tribike3": {
+        "displayName": "TRIBIKE3",
+        "labelText": "Tri-Cycles Race Bike"
+    },
+    "pbus2": {
+        "displayName": "PBUS2",
+        "labelText": "Festival Bus"
+    },
+    "skylift": {
+        "displayName": "SKYLIFT",
+        "labelText": "Skylift"
+    },
+    "trailerlarge": {
+        "displayName": "TRLARGE",
+        "labelText": "Mobile Operations Center"
+    },
+    "tr3": {
+        "displayName": "TRAILER",
+        "labelText": "Trailer"
+    },
+    "sentinel3": {
+        "displayName": "sentinel3",
+        "labelText": "Sentinel Classic"
+    },
+    "ingot": {
+        "displayName": "INGOT",
+        "labelText": "Ingot"
+    },
+    "emperor3": {
+        "displayName": "EMPEROR",
+        "labelText": "Emperor"
+    },
+    "scarab2": {
+        "displayName": "SCARAB2",
+        "labelText": "Future Shock Scarab"
+    },
+    "technical3": {
+        "displayName": "TECHNICAL3",
+        "labelText": "Technical Custom"
+    },
+    "lynx": {
+        "displayName": "LYNX",
+        "labelText": "Lynx"
+    },
+    "swift2": {
+        "displayName": "SWIFT2",
+        "labelText": "Swift Deluxe"
+    },
+    "jb7002": {
+        "displayName": "JB7002",
+        "labelText": "JB 700W"
+    },
+    "burrito4": {
+        "displayName": "BURRITO",
+        "labelText": "Burrito"
+    },
+    "menacer": {
+        "displayName": "MENACER",
+        "labelText": "Menacer"
+    },
+    "vetir": {
+        "displayName": "VETIR",
+        "labelText": "Vetir"
+    },
+    "fusilade": {
+        "displayName": "FUSILADE",
+        "labelText": "Fusilade"
+    },
+    "s80": {
+        "displayName": "S80",
+        "labelText": "S80RR"
+    },
+    "zentorno": {
+        "displayName": "ZENTORNO",
+        "labelText": "Zentorno"
+    },
+    "pranger": {
+        "displayName": "PRANGER",
+        "labelText": "Park Ranger"
+    },
+    "trailers2": {
+        "displayName": "TRAILER",
+        "labelText": "Trailer"
+    },
+    "valkyrie2": {
+        "displayName": "VALKYRI2",
+        "labelText": "Valkyrie MOD.0"
+    },
+    "btype": {
+        "displayName": "ROOSEVELT",
+        "labelText": "Roosevelt"
+    },
+    "warrener2": {
+        "displayName": "WARRENER2",
+        "labelText": "Warrener HKR"
+    },
+    "autarch": {
+        "displayName": "AUTARCH",
+        "labelText": "Autarch"
+    },
+    "dukes3": {
+        "displayName": "DUKES3",
+        "labelText": "Beater Dukes"
+    },
+    "iwagen": {
+        "displayName": "IWAGEN",
+        "labelText": "I-Wagen"
+    },
+    "peyote2": {
+        "displayName": "PEYOTE2",
+        "labelText": "Peyote Gasser"
+    },
+    "habanero": {
+        "displayName": "HABANERO",
+        "labelText": "Habanero"
+    },
+    "speedo4": {
+        "displayName": "SPEEDO4",
+        "labelText": "Speedo Custom"
+    },
+    "dominator5": {
+        "displayName": "DOMINATOR5",
+        "labelText": "Future Shock Dominator"
+    },
+    "police3": {
+        "displayName": "POLICE",
+        "labelText": "Police Cruiser"
+    },
+    "windsor": {
+        "displayName": "WINDSOR",
+        "labelText": "Windsor"
+    },
+    "komoda": {
+        "displayName": "KOMODA",
+        "labelText": "Komoda"
+    },
+    "cablecar": {
+        "displayName": "CABLECAR",
+        "labelText": "Cable Car"
+    },
+    "landstalker": {
+        "displayName": "LANDSTAL",
+        "labelText": "Landstalker"
+    },
+    "cuban800": {
+        "displayName": "CUBAN800",
+        "labelText": "Cuban 800"
+    },
+    "gresley": {
+        "displayName": "GRESLEY",
+        "labelText": "Gresley"
+    },
+    "premier": {
+        "displayName": "PREMIER",
+        "labelText": "Premier"
+    },
+    "corsita": {
+        "displayName": "CORSITA",
+        "labelText": "Corsita"
+    },
+    "brioso2": {
+        "displayName": "BRIOSO2",
+        "labelText": "Brioso 300"
+    },
+    "caddy2": {
+        "displayName": "CADDY",
+        "labelText": "Caddy"
+    },
+    "elegy": {
+        "displayName": "ELEGY",
+        "labelText": "Elegy Retro Custom"
+    },
+    "nightshark": {
+        "displayName": "NIGHTSHARK",
+        "labelText": "Nightshark"
+    },
+    "barrage": {
+        "displayName": "BARRAGE",
+        "labelText": "Barrage"
+    },
+    "openwheel1": {
+        "displayName": "OPENWHEEL1",
+        "labelText": "BR8"
+    },
+    "vstr": {
+        "displayName": "VSTR",
+        "labelText": "V-STR"
+    },
+    "hotring": {
+        "displayName": "HOTRING",
+        "labelText": "Hotring Sabre"
+    },
+    "sadler": {
+        "displayName": "SADLER",
+        "labelText": "Sadler"
+    },
+    "tezeract": {
+        "displayName": "TEZERACT",
+        "labelText": "Tezeract"
+    },
+    "impaler": {
+        "displayName": "IMPALER",
+        "labelText": "Impaler"
+    },
+    "sheriff": {
+        "displayName": "SHERIFF",
+        "labelText": "Sheriff Cruiser"
+    },
+    "trophytruck": {
+        "displayName": "TROPHY",
+        "labelText": "Trophy Truck"
+    },
+    "gp1": {
+        "displayName": "GP1",
+        "labelText": "GP1"
+    },
+    "swinger": {
+        "displayName": "Swinger",
+        "labelText": "Swinger"
+    },
+    "yosemite": {
+        "displayName": "YOSEMITE",
+        "labelText": "Yosemite"
+    },
+    "tiptruck": {
+        "displayName": "TIPTRUCK",
+        "labelText": "Tipper"
+    },
+    "dilettante2": {
+        "displayName": "DILETTAN",
+        "labelText": "Dilettante"
+    },
+    "vestra": {
+        "displayName": "VESTRA",
+        "labelText": "Vestra"
+    },
+    "deathbike2": {
+        "displayName": "DEATHBIKE2",
+        "labelText": "Future Shock Deathbike"
+    },
+    "mogul": {
+        "displayName": "MOGUL",
+        "labelText": "Mogul"
+    },
+    "peyote": {
+        "displayName": "PEYOTE",
+        "labelText": "Peyote"
+    },
+    "massacro2": {
+        "displayName": "MASSACRO2",
+        "labelText": "Massacro (Racecar)"
+    },
+    "blimp3": {
+        "displayName": "BLIMP3",
+        "labelText": "Blimp"
+    },
+    "lectro": {
+        "displayName": "LECTRO",
+        "labelText": "Lectro"
+    },
+    "vader": {
+        "displayName": "VADER",
+        "labelText": "Vader"
+    },
+    "deluxo": {
+        "displayName": "DELUXO",
+        "labelText": "Deluxo"
+    },
+    "taxi": {
+        "displayName": "TAXI",
+        "labelText": "Taxi"
+    },
+    "warrener": {
+        "displayName": "WARRENER",
+        "labelText": "Warrener"
+    },
+    "rapidgt3": {
+        "displayName": "RAPIDGT3",
+        "labelText": "Rapid GT Classic"
+    },
+    "winky": {
+        "displayName": "winky",
+        "labelText": "Winky"
+    },
+    "sabregt2": {
+        "displayName": "SABREGT2",
+        "labelText": "Sabre Turbo Custom"
+    },
+    "alpha": {
+        "displayName": "ALPHA",
+        "labelText": "Alpha"
+    },
+    "comet3": {
+        "displayName": "COMET3",
+        "labelText": "Comet Retro Custom"
+    },
+    "phantom": {
+        "displayName": "PHANTOM",
+        "labelText": "Phantom"
+    },
+    "shinobi": {
+        "displayName": "SHINOBI",
+        "labelText": "Shinobi"
+    },
+    "gburrito2": {
+        "displayName": "GBURRITO2",
+        "labelText": "Gang Burrito"
+    },
+    "fcr": {
+        "displayName": "FCR",
+        "labelText": "FCR 1000"
+    },
+    "brawler": {
+        "displayName": "BRAWLER",
+        "labelText": "Brawler"
+    },
+    "baller6": {
+        "displayName": "BALLER6",
+        "labelText": "Baller LE LWB (Armored)"
+    },
+    "blade": {
+        "displayName": "BLADE",
+        "labelText": "Blade"
+    },
+    "rhino": {
+        "displayName": "RHINO",
+        "labelText": "Rhino Tank"
+    },
+    "armytrailer2": {
+        "displayName": "ARMYTRAILER",
+        "labelText": "Army Trailer"
+    },
+    "impaler4": {
+        "displayName": "IMPALER4",
+        "labelText": "Nightmare Impaler"
+    },
+    "emperor": {
+        "displayName": "EMPEROR",
+        "labelText": "Emperor"
+    },
+    "krieger": {
+        "displayName": "krieger",
+        "labelText": "Krieger"
+    },
+    "brioso3": {
+        "displayName": "BRIOSO3",
+        "labelText": "Brioso 300 Widebody"
+    },
+    "reever": {
+        "displayName": "REEVER",
+        "labelText": "Reever"
+    },
+    "impaler2": {
+        "displayName": "IMPALER2",
+        "labelText": "Apocalypse Impaler"
+    },
+    "kanjo": {
+        "displayName": "KANJO",
+        "labelText": "Blista Kanjo"
+    },
+    "fixter": {
+        "displayName": "FIXTER",
+        "labelText": "Fixter"
+    },
+    "brioso": {
+        "displayName": "BRIOSO",
+        "labelText": "Brioso R/A"
+    },
+    "stratum": {
+        "displayName": "STRATUM",
+        "labelText": "Stratum"
+    },
+    "hermes": {
+        "displayName": "HERMES",
+        "labelText": "Hermes"
+    },
+    "nebula": {
+        "displayName": "NEBULA",
+        "labelText": "Nebula Turbo"
+    },
+    "asbo": {
+        "displayName": "ASBO",
+        "labelText": "Asbo"
+    },
+    "fbi2": {
+        "displayName": "FBI2",
+        "labelText": "FIB"
+    },
+    "formula2": {
+        "displayName": "FORMULA2",
+        "labelText": "R88"
+    },
+    "tulip": {
+        "displayName": "TULIP",
+        "labelText": "Tulip"
+    },
+    "buffalo": {
+        "displayName": "BUFFALO",
+        "labelText": "Buffalo"
+    },
+    "brutus2": {
+        "displayName": "BRUTUS2",
+        "labelText": "Future Shock Brutus"
+    },
+    "pyro": {
+        "displayName": "PYRO",
+        "labelText": "Pyro"
+    },
+    "dune4": {
+        "displayName": "DUNE4",
+        "labelText": "Ramp Buggy"
+    },
+    "buffalo3": {
+        "displayName": "BUFFALO3",
+        "labelText": "Sprunk Buffalo"
+    },
+    "cerberus2": {
+        "displayName": "cerberus2",
+        "labelText": "Future Shock Cerberus"
+    },
+    "Stryder": {
+        "displayName": "Stryder",
+        "labelText": "Stryder"
+    },
+    "tornado2": {
+        "displayName": "TORNADO2",
+        "labelText": "Tornado"
+    },
+    "furia": {
+        "displayName": "FURIA",
+        "labelText": "Furia"
+    },
+    "rancherxl2": {
+        "displayName": "RANCHERX",
+        "labelText": "Rancher XL"
+    },
+    "sadler2": {
+        "displayName": "SADLER",
+        "labelText": "Sadler"
+    },
+    "italirsx": {
+        "displayName": "ITALIRSX",
+        "labelText": "Itali RSX"
+    },
+    "proptrailer": {
+        "displayName": "proptrailer",
+        "labelText": "NULL"
+    },
+    "biff": {
+        "displayName": "BIFF",
+        "labelText": "Biff"
+    },
+    "dominator3": {
+        "displayName": "DOMINATOR3",
+        "labelText": "Dominator GTX"
+    },
+    "miljet": {
+        "displayName": "MILJET",
+        "labelText": "Miljet"
+    },
+    "tribike2": {
+        "displayName": "TRIBIKE2",
+        "labelText": "Endurex Race Bike"
+    },
+    "utillitruck": {
+        "displayName": "UTILTRUC",
+        "labelText": "Utility Truck"
+    },
+    "emerus": {
+        "displayName": "EMERUS",
+        "labelText": "Emerus"
+    },
+    "dubsta2": {
+        "displayName": "DUBSTA",
+        "labelText": "Dubsta"
+    },
+    "revolter": {
+        "displayName": "REVOLTER",
+        "labelText": "Revolter"
+    },
+    "tampa3": {
+        "displayName": "TAMPA3",
+        "labelText": "Weaponized Tampa"
+    },
+    "youga2": {
+        "displayName": "YOUGA2",
+        "labelText": "Youga Classic"
+    },
+    "polmav": {
+        "displayName": "POLMAV",
+        "labelText": "Police Maverick"
+    },
+    "chino2": {
+        "displayName": "CHINO2",
+        "labelText": "Chino Custom"
+    },
+    "tempesta": {
+        "displayName": "TEMPESTA",
+        "labelText": "Tempesta"
+    },
+    "club": {
+        "displayName": "CLUB",
+        "labelText": "Club"
+    },
+    "ztype": {
+        "displayName": "ZTYPE",
+        "labelText": "Z-Type"
+    },
+    "rentalbus": {
+        "displayName": "RENTBUS",
+        "labelText": "Rental Shuttle Bus"
+    },
+    "velum2": {
+        "displayName": "VELUM2",
+        "labelText": "Velum 5-Seater"
+    },
+    "packer": {
+        "displayName": "PACKER",
+        "labelText": "Packer"
+    },
+    "blazer5": {
+        "displayName": "BLAZER5",
+        "labelText": "Blazer Aqua"
+    },
+    "ie": {
+        "displayName": "INTENSA",
+        "labelText": "NULL"
+    },
+    "deathbike": {
+        "displayName": "DEATHBIKE",
+        "labelText": "Apocalypse Deathbike"
+    },
+    "coquette3": {
+        "displayName": "COQUETTE3",
+        "labelText": "Coquette BlackFin"
+    },
+    "microlight": {
+        "displayName": "microlight",
+        "labelText": "Ultralight"
+    },
+    "vigero2": {
+        "displayName": "VIGERO2",
+        "labelText": "Vigero ZX"
+    },
+    "rumpo2": {
+        "displayName": "RUMPO",
+        "labelText": "Rumpo"
+    },
+    "jet": {
+        "displayName": "JET",
+        "labelText": "Jet"
+    },
+    "stunt": {
+        "displayName": "STUNT",
+        "labelText": "Mallard"
+    },
+    "sc1": {
+        "displayName": "SC1",
+        "labelText": "SC1"
+    },
+    "issi3": {
+        "displayName": "ISSI3",
+        "labelText": "Issi Classic"
+    },
+    "squaddie": {
+        "displayName": "SQUADDIE",
+        "labelText": "Squaddie"
+    },
+    "cavalcade2": {
+        "displayName": "CAVCADE",
+        "labelText": "Cavalcade"
+    },
+    "intruder": {
+        "displayName": "INTRUDER",
+        "labelText": "Intruder"
+    },
+    "jester4": {
+        "displayName": "JESTER4",
+        "labelText": "Jester RR"
+    },
+    "cargoplane": {
+        "displayName": "CARGOPL",
+        "labelText": "Cargo Plane"
+    },
+    "sovereign": {
+        "displayName": "SOVEREIGN",
+        "labelText": "Sovereign"
+    },
+    "mesa3": {
+        "displayName": "MESA",
+        "labelText": "Mesa"
+    },
+    "tractor2": {
+        "displayName": "TRACTOR2",
+        "labelText": "Fieldmaster"
+    }
+}
