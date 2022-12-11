@@ -1,0 +1,2150 @@
+{
+    "NINEF": [
+        "ninef",
+        "ninef2"
+    ],
+    "BLISTA": [
+        "blista"
+    ],
+    "ASEA": [
+        "asea",
+        "asea2"
+    ],
+    "BOATTRAILER": [
+        "boattrailer"
+    ],
+    "BUS": [
+        "bus"
+    ],
+    "TANKER": [
+        "tanker2",
+        "armytanker",
+        "tanker"
+    ],
+    "ARMYTRAILER": [
+        "armytrailer",
+        "armytrailer2",
+        "freighttrailer"
+    ],
+    "COACH": [
+        "coach"
+    ],
+    "AIRBUS": [
+        "airbus"
+    ],
+    "ASTEROPE": [
+        "asterope"
+    ],
+    "AIRTUG": [
+        "airtug"
+    ],
+    "AMBULAN": [
+        "ambulance"
+    ],
+    "BARRACKS": [
+        "barracks3",
+        "barracks"
+    ],
+    "BARRACKS2": [
+        "barracks2"
+    ],
+    "BALLER": [
+        "baller"
+    ],
+    "BALLER2": [
+        "baller2"
+    ],
+    "BJXL": [
+        "bjxl"
+    ],
+    "BANSHEE": [
+        "banshee"
+    ],
+    "BENSON": [
+        "benson"
+    ],
+    "BFINJECT": [
+        "bfinjection"
+    ],
+    "BIFF": [
+        "biff"
+    ],
+    "BLAZER": [
+        "blazer",
+        "blazer3"
+    ],
+    "BLAZER2": [
+        "blazer2"
+    ],
+    "BISON": [
+        "bison",
+        "bison2",
+        "bison3"
+    ],
+    "BOXVILLE": [
+        "boxville4",
+        "boxville",
+        "boxville2",
+        "boxville3"
+    ],
+    "BOBCATXL": [
+        "bobcatxl"
+    ],
+    "BODHI2": [
+        "bodhi2"
+    ],
+    "BUCCANEE": [
+        "buccaneer"
+    ],
+    "BUFFALO": [
+        "buffalo"
+    ],
+    "BUFFALO2": [
+        "buffalo2"
+    ],
+    "BULLDOZE": [
+        "bulldozer"
+    ],
+    "BULLET": [
+        "bullet"
+    ],
+    "BLIMP": [
+        "blimp3",
+        "blimp"
+    ],
+    "BURRITO": [
+        "burrito",
+        "burrito2",
+        "burrito3",
+        "burrito4",
+        "burrito5",
+        "gburrito"
+    ],
+    "CAVCADE": [
+        "cavalcade",
+        "cavalcade2"
+    ],
+    "POLICET": [
+        "policet"
+    ],
+    "FREIGHT": [
+        "cablecar",
+        "freight",
+        "freightcont1",
+        "freightcont2",
+        "freightgrain",
+        "tankercar"
+    ],
+    "CADDY": [
+        "caddy"
+    ],
+    "CADDY2": [
+        "caddy2"
+    ],
+    "CAMPER": [
+        "camper"
+    ],
+    "CARBONIZ": [
+        "carbonizzare"
+    ],
+    "CHEETAH": [
+        "cheetah"
+    ],
+    "COMET": [
+        "comet2"
+    ],
+    "COGCABRIO": [
+        "cogcabrio"
+    ],
+    "COQUETTE": [
+        "coquette"
+    ],
+    "CUTTER": [
+        "cutter"
+    ],
+    "GRESLEY": [
+        "gresley"
+    ],
+    "DILETTANTE": [
+        "dilettante",
+        "dilettante2"
+    ],
+    "DUNE": [
+        "dune"
+    ],
+    "DUNE2": [
+        "dune2"
+    ],
+    "HOTKNIFE": [
+        "hotknife"
+    ],
+    "DLOADER": [
+        "dloader"
+    ],
+    "DUBSTA": [
+        "dubsta",
+        "dubsta2"
+    ],
+    "DUMP": [
+        "dump"
+    ],
+    "RUBBLE": [
+        "rubble"
+    ],
+    "DOCKTUG": [
+        "docktug"
+    ],
+    "DOMINATOR": [
+        "dominator"
+    ],
+    "EMPEROR": [
+        "emperor",
+        "emperor2",
+        "emperor3"
+    ],
+    "ENTITYXF": [
+        "entityxf"
+    ],
+    "EXEMPLAR": [
+        "exemplar"
+    ],
+    "ELEGY2": [
+        "elegy2"
+    ],
+    "F620": [
+        "f620"
+    ],
+    "FBI": [
+        "fbi"
+    ],
+    "FBI2": [
+        "fbi2",
+        "sheriff2"
+    ],
+    "FELON": [
+        "felon"
+    ],
+    "FELON2": [
+        "felon2"
+    ],
+    "FELTZER": [
+        "feltzer2"
+    ],
+    "FIRETRUK": [
+        "firetruk"
+    ],
+    "FLATBED": [
+        "flatbed"
+    ],
+    "FORKLIFT": [
+        "forklift"
+    ],
+    "FQ2": [
+        "fq2"
+    ],
+    "FUSILADE": [
+        "fusilade"
+    ],
+    "FUGITIVE": [
+        "fugitive"
+    ],
+    "FUTO": [
+        "futo"
+    ],
+    "GRANGER": [
+        "granger"
+    ],
+    "GAUNTLET": [
+        "gauntlet"
+    ],
+    "HABANERO": [
+        "habanero"
+    ],
+    "HAULER": [
+        "hauler"
+    ],
+    "HANDLER": [
+        "handler"
+    ],
+    "INFERNUS": [
+        "infernus"
+    ],
+    "INGOT": [
+        "ingot"
+    ],
+    "INTRUDER": [
+        "intruder"
+    ],
+    "ISSI": [
+        "issi2"
+    ],
+    "JACKAL": [
+        "Jackal"
+    ],
+    "JOURNEY": [
+        "journey"
+    ],
+    "JB700": [
+        "jb700"
+    ],
+    "KHAMEL": [
+        "khamelion"
+    ],
+    "LANDSTALKER": [
+        "landstalker"
+    ],
+    "LGUARD": [
+        "lguard"
+    ],
+    "MANANA": [
+        "manana"
+    ],
+    "MESA": [
+        "mesa",
+        "mesa2",
+        "mesa3"
+    ],
+    "CRUSADER": [
+        "crusader"
+    ],
+    "MINIVAN": [
+        "minivan"
+    ],
+    "MIXER": [
+        "mixer"
+    ],
+    "MIXER2": [
+        "mixer2"
+    ],
+    "MONROE": [
+        "monroe"
+    ],
+    "MOWER": [
+        "mower"
+    ],
+    "MULE": [
+        "mule",
+        "mule2"
+    ],
+    "ORACLE": [
+        "oracle"
+    ],
+    "ORACLE2": [
+        "oracle2"
+    ],
+    "PACKER": [
+        "packer"
+    ],
+    "PATRIOT": [
+        "patriot"
+    ],
+    "PBUS": [
+        "pbus"
+    ],
+    "PENUMBRA": [
+        "penumbra"
+    ],
+    "PEYOTE": [
+        "peyote"
+    ],
+    "PHANTOM": [
+        "phantom"
+    ],
+    "PHOENIX": [
+        "phoenix"
+    ],
+    "PICADOR": [
+        "picador"
+    ],
+    "POUNDER": [
+        "pounder"
+    ],
+    "POLICE": [
+        "police",
+        "police4"
+    ],
+    "POLICE2": [
+        "police2"
+    ],
+    "POLICE3": [
+        "police3"
+    ],
+    "POLICEOLD": [
+        "policeold1"
+    ],
+    "POLICEOL2": [
+        "policeold2"
+    ],
+    "PONY": [
+        "pony",
+        "pony2"
+    ],
+    "PRAIRIE": [
+        "prairie"
+    ],
+    "PRANGER": [
+        "pranger"
+    ],
+    "PREMIER": [
+        "premier"
+    ],
+    "PRIMO": [
+        "primo"
+    ],
+    "PROPTRAILER": [
+        "proptrailer"
+    ],
+    "RANCHERXL": [
+        "rancherxl",
+        "rancherxl2"
+    ],
+    "RAPIDGT": [
+        "rapidgt",
+        "rapidgt2"
+    ],
+    "RADI": [
+        "radi"
+    ],
+    "RLOADER": [
+        "ratloader"
+    ],
+    "REBEL": [
+        "rebel",
+        "rebel2"
+    ],
+    "REGINA": [
+        "regina"
+    ],
+    "TOURBUS": [
+        "rentalbus",
+        "tourbus"
+    ],
+    "RUINER": [
+        "ruiner3",
+        "ruiner"
+    ],
+    "RUMPO": [
+        "rumpo",
+        "rumpo2"
+    ],
+    "RHINO": [
+        "rhino"
+    ],
+    "RIOT": [
+        "riot"
+    ],
+    "RIPLEY": [
+        "ripley"
+    ],
+    "rocoto": [
+        "rocoto"
+    ],
+    "ROMERO": [
+        "romero"
+    ],
+    "SABREGT": [
+        "sabregt"
+    ],
+    "SADLER": [
+        "sadler",
+        "sadler2"
+    ],
+    "SANDKING": [
+        "sandking",
+        "sandking2"
+    ],
+    "SCHAFTER2": [
+        "schafter2"
+    ],
+    "SCHWARZE": [
+        "schwarzer"
+    ],
+    "SCRAP": [
+        "scrap"
+    ],
+    "SEMINOLE": [
+        "seminole"
+    ],
+    "SENTINEL": [
+        "sentinel",
+        "sentinel2"
+    ],
+    "ZION": [
+        "zion",
+        "zion2"
+    ],
+    "SERRANO": [
+        "serrano"
+    ],
+    "SHERIFF": [
+        "sheriff"
+    ],
+    "SPEEDO": [
+        "speedo",
+        "speedo2"
+    ],
+    "STANIER": [
+        "stanier"
+    ],
+    "STINGER": [
+        "stinger"
+    ],
+    "STINGERGT": [
+        "stingergt"
+    ],
+    "STOCKADE": [
+        "stockade",
+        "stockade3"
+    ],
+    "STRATUM": [
+        "stratum"
+    ],
+    "SULTAN": [
+        "sultan"
+    ],
+    "SUPERD": [
+        "superd"
+    ],
+    "SURANO": [
+        "surano"
+    ],
+    "SURFER": [
+        "surfer",
+        "surfer2"
+    ],
+    "SURGE": [
+        "surge"
+    ],
+    "TACO": [
+        "taco"
+    ],
+    "TAILGATE": [
+        "tailgater"
+    ],
+    "TAXI2": [
+        "taxi"
+    ],
+    "TRASH": [
+        "trash2",
+        "trash"
+    ],
+    "TRACTOR": [
+        "tractor"
+    ],
+    "TRACTOR2": [
+        "tractor2",
+        "tractor3"
+    ],
+    "GRAINTRAIL": [
+        "graintrailer"
+    ],
+    "BALETRAILER": [
+        "baletrailer"
+    ],
+    "TIPTRUCK": [
+        "tiptruck"
+    ],
+    "TIPTRUCK2": [
+        "tiptruck2"
+    ],
+    "TORNADO": [
+        "tornado",
+        "tornado2",
+        "tornado3",
+        "tornado4"
+    ],
+    "TOWTRUCK": [
+        "towtruck"
+    ],
+    "TOWTRUCK2": [
+        "towtruck2"
+    ],
+    "UTILTRUC": [
+        "utillitruck"
+    ],
+    "UTILTRUC2": [
+        "utillitruck2"
+    ],
+    "UTILTRUC3": [
+        "utillitruck3"
+    ],
+    "VOODOO2": [
+        "voodoo2"
+    ],
+    "WASHINGTON": [
+        "washington"
+    ],
+    "STRETCH": [
+        "stretch"
+    ],
+    "YOUGA": [
+        "youga"
+    ],
+    "ZTYPE": [
+        "ztype"
+    ],
+    "SANCHEZ": [
+        "sanchez",
+        "sanchez2"
+    ],
+    "SCORCHER": [
+        "scorcher"
+    ],
+    "TRIBIKE": [
+        "tribike",
+        "tribike2",
+        "tribike3"
+    ],
+    "FIXTER": [
+        "fixter"
+    ],
+    "CRUISER": [
+        "cruiser"
+    ],
+    "BMX": [
+        "BMX"
+    ],
+    "POLICEB": [
+        "sovereign",
+        "policeb"
+    ],
+    "AKUMA": [
+        "akuma"
+    ],
+    "CARBON": [
+        "carbonrs"
+    ],
+    "BAGGER": [
+        "bagger"
+    ],
+    "BATI": [
+        "bati",
+        "bati2"
+    ],
+    "RUFFIAN": [
+        "ruffian"
+    ],
+    "DAEMON": [
+        "daemon"
+    ],
+    "DOUBLE": [
+        "double"
+    ],
+    "PCJ": [
+        "pcj"
+    ],
+    "VADER": [
+        "vader"
+    ],
+    "VIGERO": [
+        "vigero"
+    ],
+    "FAGGIO": [
+        "faggio2"
+    ],
+    "HEXER": [
+        "hexer"
+    ],
+    "ANNIHL": [
+        "annihilator"
+    ],
+    "BUZZARD": [
+        "buzzard"
+    ],
+    "BUZZARD2": [
+        "buzzard2"
+    ],
+    "CARGOBOB": [
+        "cargobob4",
+        "cargobob",
+        "cargobob2",
+        "cargobob3"
+    ],
+    "SKYLIFT": [
+        "skylift"
+    ],
+    "POLMAV": [
+        "polmav"
+    ],
+    "MAVERICK": [
+        "maverick"
+    ],
+    "NEMESIS": [
+        "nemesis"
+    ],
+    "FROGGER": [
+        "frogger",
+        "frogger2"
+    ],
+    "CUBAN800": [
+        "cuban800"
+    ],
+    "DUSTER": [
+        "duster"
+    ],
+    "STUNT": [
+        "stunt"
+    ],
+    "MAMMATUS": [
+        "mammatus"
+    ],
+    "JET": [
+        "jet"
+    ],
+    "SHAMAL": [
+        "shamal"
+    ],
+    "LUXOR": [
+        "luxor"
+    ],
+    "TITAN": [
+        "titan"
+    ],
+    "LAZER": [
+        "lazer"
+    ],
+    "CARGOPLANE": [
+        "cargoplane"
+    ],
+    "SQUALO": [
+        "squalo"
+    ],
+    "MARQUIS": [
+        "marquis"
+    ],
+    "DINGHY": [
+        "dinghy4",
+        "dinghy3",
+        "dinghy"
+    ],
+    "DINGHY2": [
+        "dinghy2"
+    ],
+    "JETMAX": [
+        "jetmax"
+    ],
+    "PREDATOR": [
+        "predator"
+    ],
+    "TROPIC": [
+        "tropic2",
+        "tropic"
+    ],
+    "SEASHARK": [
+        "seashark3",
+        "seashark",
+        "seashark2"
+    ],
+    "SUBMERSIBLE": [
+        "submersible"
+    ],
+    "FREIGHTCAR": [
+        "freightcar2",
+        "freightcar"
+    ],
+    "METROTRAIN": [
+        "metrotrain"
+    ],
+    "DOCKTRAILER": [
+        "docktrailer"
+    ],
+    "TRAILER": [
+        "trailers4",
+        "trailers",
+        "trailers2",
+        "trailers3",
+        "tvtrailer",
+        "trflat"
+    ],
+    "raketrailer": [
+        "raketrailer"
+    ],
+    "TRAILERL": [
+        "trailerlogs"
+    ],
+    "TR2": [
+        "tr2",
+        "tr4"
+    ],
+    "TR3": [
+        "tr3"
+    ],
+    "TRAILERSMALL": [
+        "trailersmall"
+    ],
+    "VELUM": [
+        "velum2",
+        "velum"
+    ],
+    "ADDER": [
+        "adder"
+    ],
+    "VOLTIC": [
+        "voltic"
+    ],
+    "VACCA": [
+        "vacca"
+    ],
+    "SUNTRAP": [
+        "suntrap"
+    ],
+    "IMPALER3": [
+        "impaler3"
+    ],
+    "MONSTER3": [
+        "monster4",
+        "monster5",
+        "monster3"
+    ],
+    "SLAMVAN4": [
+        "slamvan6",
+        "slamvan4"
+    ],
+    "ISSI4": [
+        "issi6",
+        "issi4"
+    ],
+    "CERBERUS2": [
+        "cerberus2"
+    ],
+    "CERBERUS": [
+        "cerberus3",
+        "cerberus"
+    ],
+    "DEATHBIKE2": [
+        "deathbike2"
+    ],
+    "DOMINATOR4": [
+        "dominator6",
+        "dominator4"
+    ],
+    "DEATHBIKE": [
+        "deathbike3",
+        "deathbike"
+    ],
+    "IMPALER2": [
+        "impaler4",
+        "impaler2"
+    ],
+    "SLAMVAN5": [
+        "slamvan5"
+    ],
+    "BRUTUS": [
+        "brutus",
+        "brutus3"
+    ],
+    "BRUTUS2": [
+        "brutus2"
+    ],
+    "DOMINATOR5": [
+        "dominator5"
+    ],
+    "BRUISER": [
+        "bruiser",
+        "bruiser3"
+    ],
+    "BRUISER2": [
+        "bruiser2"
+    ],
+    "RCBANDITO": [
+        "rcbandito"
+    ],
+    "ITALIGTO": [
+        "italigto"
+    ],
+    "TULIP": [
+        "tulip"
+    ],
+    "SCARAB": [
+        "scarab",
+        "scarab3"
+    ],
+    "SCARAB2": [
+        "scarab2"
+    ],
+    "ISSI5": [
+        "issi5"
+    ],
+    "CLIQUE": [
+        "clique"
+    ],
+    "DEVESTE": [
+        "deveste"
+    ],
+    "VAMOS": [
+        "vamos"
+    ],
+    "IMPERATOR": [
+        "imperator",
+        "imperator3"
+    ],
+    "IMPERATOR2": [
+        "imperator2"
+    ],
+    "TOROS": [
+        "toros"
+    ],
+    "DEVIANT": [
+        "deviant"
+    ],
+    "SCHLAGEN": [
+        "schlagen"
+    ],
+    "IMPALER": [
+        "impaler"
+    ],
+    "ZR380": [
+        "zr380",
+        "zr3803"
+    ],
+    "ZR3802": [
+        "zr3802"
+    ],
+    "NIMBUS": [
+        "nimbus"
+    ],
+    "XLS": [
+        "xls"
+    ],
+    "XLS2": [
+        "xls2"
+    ],
+    "SEVEN70": [
+        "seven70"
+    ],
+    "FMJ": [
+        "fmj"
+    ],
+    "BESTIAGTS": [
+        "bestiagts"
+    ],
+    "PFISTER811": [
+        "pfister811"
+    ],
+    "BRICKADE": [
+        "brickade"
+    ],
+    "RUMPO3": [
+        "rumpo3"
+    ],
+    "VOLATUS": [
+        "volatus"
+    ],
+    "PROTOTIPO": [
+        "prototipo"
+    ],
+    "REAPER": [
+        "reaper"
+    ],
+    "TUG": [
+        "tug"
+    ],
+    "WINDSOR2": [
+        "windsor2"
+    ],
+    "XA21": [
+        "xa21"
+    ],
+    "CADDY3": [
+        "caddy3"
+    ],
+    "VAGNER": [
+        "vagner"
+    ],
+    "PHANTOM3": [
+        "phantom3"
+    ],
+    "NIGHTSHARK": [
+        "nightshark"
+    ],
+    "CHEETAH2": [
+        "cheetah2"
+    ],
+    "TORERO": [
+        "torero"
+    ],
+    "HAULER2": [
+        "hauler2"
+    ],
+    "TRAILERLARGE": [
+        "trailerlarge"
+    ],
+    "TECHNICAL3": [
+        "technical3"
+    ],
+    "INSURGENT3": [
+        "insurgent3"
+    ],
+    "APC": [
+        "apc"
+    ],
+    "TAMPA3": [
+        "tampa3"
+    ],
+    "DUNE3": [
+        "dune3"
+    ],
+    "TRAILERSMALL2": [
+        "trailersmall2"
+    ],
+    "HALFTRACK": [
+        "halftrack"
+    ],
+    "ARDENT": [
+        "ardent"
+    ],
+    "OPPRESSOR": [
+        "oppressor"
+    ],
+    "MULE3": [
+        "mule3",
+        "mule5"
+    ],
+    "CASCO": [
+        "casco"
+    ],
+    "HYDRA": [
+        "hydra"
+    ],
+    "INSURGENT": [
+        "insurgent"
+    ],
+    "INSURGENT2": [
+        "insurgent2"
+    ],
+    "gburrito2": [
+        "gburrito2"
+    ],
+    "TECHNICAL": [
+        "technical"
+    ],
+    "SAVAGE": [
+        "savage"
+    ],
+    "ENDURO": [
+        "enduro"
+    ],
+    "GUARDIAN": [
+        "guardian"
+    ],
+    "LECTRO": [
+        "lectro"
+    ],
+    "KURUMA": [
+        "kuruma"
+    ],
+    "KURUMA2": [
+        "kuruma2"
+    ],
+    "VALKYR": [
+        "valkyrie"
+    ],
+    "SLAMVAN2": [
+        "slamvan2"
+    ],
+    "MINITANK": [
+        "minitank"
+    ],
+    "RETINUE2": [
+        "retinue2"
+    ],
+    "OUTLAW": [
+        "outlaw"
+    ],
+    "YOSEMITE2": [
+        "yosemite2"
+    ],
+    "STRYDER": [
+        "Stryder"
+    ],
+    "JB7002": [
+        "jb7002"
+    ],
+    "SULTAN2": [
+        "sultan2"
+    ],
+    "EVERON": [
+        "everon"
+    ],
+    "SUGOI": [
+        "Sugoi"
+    ],
+    "ZHABA": [
+        "zhaba"
+    ],
+    "FORMULA": [
+        "formula"
+    ],
+    "FORMULA2": [
+        "formula2"
+    ],
+    "REBLA": [
+        "rebla"
+    ],
+    "VAGRANT": [
+        "vagrant"
+    ],
+    "FURIA": [
+        "furia"
+    ],
+    "VSTR": [
+        "vstr"
+    ],
+    "KOMODA": [
+        "komoda"
+    ],
+    "ASBO": [
+        "asbo"
+    ],
+    "KANJO": [
+        "kanjo"
+    ],
+    "IMORGON": [
+        "imorgon"
+    ],
+    "VETO2": [
+        "veto2"
+    ],
+    "SQUADDIE": [
+        "squaddie"
+    ],
+    "DINGHY5": [
+        "dinghy5"
+    ],
+    "ANNIHLATOR2": [
+        "annihilator2"
+    ],
+    "ITALIRSX": [
+        "italirsx"
+    ],
+    "VETO": [
+        "veto"
+    ],
+    "TOREADOR": [
+        "toreador"
+    ],
+    "SLAMTRUCK": [
+        "slamtruck"
+    ],
+    "WEEVIL": [
+        "weevil"
+    ],
+    "vetir": [
+        "vetir"
+    ],
+    "ALKONOST": [
+        "alkonost"
+    ],
+    "PATROLBOAT": [
+        "patrolboat"
+    ],
+    "AVISA": [
+        "avisa"
+    ],
+    "BRIOSO2": [
+        "brioso2"
+    ],
+    "VERUS": [
+        "verus"
+    ],
+    "LONGFIN": [
+        "longfin"
+    ],
+    "SEASPARROW2": [
+        "seasparrow2",
+        "seasparrow3"
+    ],
+    "winky": [
+        "winky"
+    ],
+    "MANCHEZ2": [
+        "manchez2"
+    ],
+    "KOSATKA": [
+        "kosatka"
+    ],
+    "RHAPSODY1": [
+        "rhapsody"
+    ],
+    "WARRENER": [
+        "warrener"
+    ],
+    "BLADE": [
+        "blade"
+    ],
+    "GLENDALE": [
+        "glendale"
+    ],
+    "PANTO": [
+        "panto"
+    ],
+    "DUBSTA3": [
+        "dubsta3"
+    ],
+    "PIGALLE": [
+        "pigalle"
+    ],
+    "ELEGY": [
+        "elegy"
+    ],
+    "TEMPESTA": [
+        "tempesta"
+    ],
+    "ITALIGTB": [
+        "italigtb"
+    ],
+    "ITALIGTB2": [
+        "italigtb2"
+    ],
+    "NERO": [
+        "nero"
+    ],
+    "NERO2": [
+        "nero2"
+    ],
+    "SPECTER": [
+        "specter"
+    ],
+    "SPECTER2": [
+        "specter2"
+    ],
+    "DIABLOUS": [
+        "diablous"
+    ],
+    "DIABLOUS2": [
+        "diablous2"
+    ],
+    "BLAZER5": [
+        "blazer5"
+    ],
+    "RUINER2": [
+        "ruiner2"
+    ],
+    "DUNE4": [
+        "dune4"
+    ],
+    "DUNE5": [
+        "dune5"
+    ],
+    "PHANTOM2": [
+        "phantom2"
+    ],
+    "VOLTIC2": [
+        "voltic2"
+    ],
+    "PENETRATOR": [
+        "penetrator"
+    ],
+    "BOXVILLE5": [
+        "boxville5"
+    ],
+    "WASTELANDER": [
+        "wastelander"
+    ],
+    "TECHNICAL2": [
+        "technical2"
+    ],
+    "FCR": [
+        "fcr"
+    ],
+    "FCR2": [
+        "fcr2"
+    ],
+    "COMET3": [
+        "comet3"
+    ],
+    "MONSTER": [
+        "monster"
+    ],
+    "SULTANRS": [
+        "sultanrs"
+    ],
+    "BANSHEE2": [
+        "banshee2"
+    ],
+    "VERLIER": [
+        "verlierer2"
+    ],
+    "NITESHAD": [
+        "nightshade"
+    ],
+    "MAMBA": [
+        "mamba"
+    ],
+    "LIMO2": [
+        "limo2"
+    ],
+    "SCHAFTER3": [
+        "schafter3"
+    ],
+    "SCHAFTER4": [
+        "schafter4"
+    ],
+    "SCHAFTER5": [
+        "schafter5"
+    ],
+    "SCHAFTER6": [
+        "schafter6"
+    ],
+    "COG55": [
+        "cog55"
+    ],
+    "COG552": [
+        "cog552"
+    ],
+    "COGNOSC": [
+        "cognoscenti"
+    ],
+    "COGNOSC2": [
+        "cognoscenti2"
+    ],
+    "BALLER3": [
+        "baller3"
+    ],
+    "BALLER4": [
+        "baller4"
+    ],
+    "BALLER5": [
+        "baller5"
+    ],
+    "BALLER6": [
+        "baller6"
+    ],
+    "TORO": [
+        "toro2",
+        "toro"
+    ],
+    "SPEEDER": [
+        "speeder"
+    ],
+    "SVOLITO": [
+        "supervolito",
+        "supervolito2"
+    ],
+    "VALKYR2": [
+        "valkyrie2"
+    ],
+    "FACTION": [
+        "faction",
+        "faction2"
+    ],
+    "MOONBEAM": [
+        "moonbeam",
+        "moonbeam2"
+    ],
+    "PRIMO2": [
+        "primo2"
+    ],
+    "CHINO2": [
+        "chino2"
+    ],
+    "BUCCANEE2": [
+        "buccaneer2"
+    ],
+    "VOODOO": [
+        "voodoo"
+    ],
+    "FACTION3": [
+        "faction3"
+    ],
+    "MINIVAN2": [
+        "minivan2"
+    ],
+    "SABREGT2": [
+        "sabregt2"
+    ],
+    "SLAMVAN3": [
+        "slamvan3"
+    ],
+    "TORNADO5": [
+        "tornado5"
+    ],
+    "VIRGO2": [
+        "virgo2"
+    ],
+    "VIRGO3": [
+        "virgo3"
+    ],
+    "INNOVAT": [
+        "innovation"
+    ],
+    "HAKUCHOU": [
+        "hakuchou"
+    ],
+    "FUROREGT": [
+        "furoregt"
+    ],
+    "SWIFT2": [
+        "swift2"
+    ],
+    "LUXOR2": [
+        "luxor2"
+    ],
+    "FELTZER3": [
+        "feltzer3"
+    ],
+    "OSIRIS": [
+        "osiris"
+    ],
+    "VIRGO": [
+        "virgo"
+    ],
+    "WINDSOR": [
+        "windsor"
+    ],
+    "COQUETTE3": [
+        "coquette3"
+    ],
+    "VINDICATOR": [
+        "vindicator"
+    ],
+    "T20": [
+        "t20"
+    ],
+    "BRAWLER": [
+        "brawler"
+    ],
+    "CHINO": [
+        "chino"
+    ],
+    "MILJET": [
+        "miljet"
+    ],
+    "BESRA": [
+        "besra"
+    ],
+    "COQUETTE2": [
+        "coquette2"
+    ],
+    "SWIFT": [
+        "swift"
+    ],
+    "VIGILANTE": [
+        "vigilante"
+    ],
+    "BOMBUSHKA": [
+        "bombushka"
+    ],
+    "ALPHAZ1": [
+        "alphaz1"
+    ],
+    "SEABREEZE": [
+        "seabreeze"
+    ],
+    "TULA": [
+        "tula"
+    ],
+    "HAVOK": [
+        "havok"
+    ],
+    "HUNTER": [
+        "hunter"
+    ],
+    "MICROLIGHT": [
+        "microlight"
+    ],
+    "ROGUE": [
+        "rogue"
+    ],
+    "PYRO": [
+        "pyro"
+    ],
+    "HOWARD": [
+        "howard"
+    ],
+    "MOGUL": [
+        "mogul"
+    ],
+    "STARLING": [
+        "starling"
+    ],
+    "NOKOTA": [
+        "nokota"
+    ],
+    "MOLOTOK": [
+        "molotok"
+    ],
+    "RAPIDGT3": [
+        "rapidgt3"
+    ],
+    "RETINUE": [
+        "retinue"
+    ],
+    "CYCLONE": [
+        "cyclone"
+    ],
+    "VISIONE": [
+        "visione"
+    ],
+    "LYNX": [
+        "lynx"
+    ],
+    "GARGOYLE": [
+        "gargoyle"
+    ],
+    "TYRUS": [
+        "tyrus"
+    ],
+    "SHEAVA": [
+        "sheava"
+    ],
+    "OMNIS": [
+        "omnis"
+    ],
+    "LE7B": [
+        "le7b"
+    ],
+    "CONTENDER": [
+        "contender"
+    ],
+    "TROPHY": [
+        "trophytruck"
+    ],
+    "TROPHY2": [
+        "trophytruck2"
+    ],
+    "RALLYTRUCK": [
+        "rallytruck"
+    ],
+    "CLIFFHANG": [
+        "cliffhanger"
+    ],
+    "BF400": [
+        "bf400"
+    ],
+    "TROPOS": [
+        "tropos"
+    ],
+    "BRIOSO": [
+        "brioso"
+    ],
+    "TAMPA2": [
+        "tampa2"
+    ],
+    "COMET6": [
+        "comet6"
+    ],
+    "DOMINATOR7": [
+        "dominator7"
+    ],
+    "DOMINATOR8": [
+        "dominator8"
+    ],
+    "EUROS": [
+        "euros"
+    ],
+    "FUTO2": [
+        "futo2"
+    ],
+    "RT3000": [
+        "rt3000"
+    ],
+    "SULTAN3": [
+        "sultan3"
+    ],
+    "TAILGATER2": [
+        "tailgater2"
+    ],
+    "GROWLER": [
+        "growler"
+    ],
+    "VECTRE": [
+        "vectre"
+    ],
+    "REMUS": [
+        "remus"
+    ],
+    "CALICO": [
+        "calico"
+    ],
+    "CYPHER": [
+        "cypher"
+    ],
+    "JESTER4": [
+        "jester4"
+    ],
+    "ZR350": [
+        "zr350"
+    ],
+    "previon": [
+        "previon"
+    ],
+    "WARRENER2": [
+        "warrener2"
+    ],
+    "ROOSEVELT": [
+        "btype"
+    ],
+    "ENTITY2": [
+        "entity2"
+    ],
+    "CHEBUREK": [
+        "cheburek"
+    ],
+    "JESTER3": [
+        "jester3"
+    ],
+    "CARACARA": [
+        "caracara"
+    ],
+    "HOTRING": [
+        "hotring"
+    ],
+    "SEASPARROW": [
+        "seasparrow"
+    ],
+    "FLASHGT": [
+        "flashgt"
+    ],
+    "ELLIE": [
+        "ellie"
+    ],
+    "MICHELLI": [
+        "michelli"
+    ],
+    "FAGALOA": [
+        "fagaloa"
+    ],
+    "DOMINATOR3": [
+        "dominator3"
+    ],
+    "TYRANT": [
+        "tyrant"
+    ],
+    "TEZERACT": [
+        "tezeract"
+    ],
+    "GB200": [
+        "gb200"
+    ],
+    "ISSI3": [
+        "issi3"
+    ],
+    "TAIPAN": [
+        "taipan"
+    ],
+    "PARAGON": [
+        "paragon"
+    ],
+    "PARAGON2": [
+        "paragon2"
+    ],
+    "JUGULAR": [
+        "jugular"
+    ],
+    "RROCKET": [
+        "rrocket"
+    ],
+    "NEO": [
+        "neo"
+    ],
+    "KRIEGER": [
+        "krieger"
+    ],
+    "PEYOTE2": [
+        "peyote2"
+    ],
+    "GAUNTLET4": [
+        "gauntlet4"
+    ],
+    "S80": [
+        "s80"
+    ],
+    "CARACARA2": [
+        "caracara2"
+    ],
+    "THRAX": [
+        "thrax"
+    ],
+    "NOVAK": [
+        "Novak"
+    ],
+    "ZORRUSSO": [
+        "zorrusso"
+    ],
+    "ISSI7": [
+        "issi7"
+    ],
+    "LOCUST": [
+        "locust"
+    ],
+    "EMERUS": [
+        "emerus"
+    ],
+    "HELLION": [
+        "hellion"
+    ],
+    "DYNASTY": [
+        "Dynasty"
+    ],
+    "GAUNTLET3": [
+        "gauntlet3"
+    ],
+    "NEBULA": [
+        "nebula"
+    ],
+    "ZION3": [
+        "zion3"
+    ],
+    "DRAFTER": [
+        "drafter"
+    ],
+    "SUBMERSIBLE2": [
+        "submersible2"
+    ],
+    "DUKES": [
+        "dukes"
+    ],
+    "DUKES2": [
+        "dukes2"
+    ],
+    "BUFFALO3": [
+        "buffalo3"
+    ],
+    "DOMINATOR2": [
+        "dominator2"
+    ],
+    "SEAPLANE": [
+        "dodo"
+    ],
+    "MARSHALL": [
+        "marshall"
+    ],
+    "BLIMP2": [
+        "blimp2"
+    ],
+    "GAUNTLET2": [
+        "gauntlet2"
+    ],
+    "STALION": [
+        "stalion"
+    ],
+    "STALION2": [
+        "stalion2"
+    ],
+    "BLISTA2": [
+        "blista2",
+        "blista3"
+    ],
+    "STAFFORD": [
+        "stafford"
+    ],
+    "SCRAMJET": [
+        "scramjet"
+    ],
+    "STRIKEFORCE": [
+        "strikeforce"
+    ],
+    "TERRORBYTE": [
+        "terbyte"
+    ],
+    "PBUS2": [
+        "pbus2"
+    ],
+    "OPPRESSOR2": [
+        "oppressor2"
+    ],
+    "POUNDER2": [
+        "pounder2"
+    ],
+    "SPEEDO4": [
+        "speedo4"
+    ],
+    "FREECRAWLER": [
+        "freecrawler"
+    ],
+    "MULE4": [
+        "mule4"
+    ],
+    "MENACER": [
+        "menacer"
+    ],
+    "SWINGER": [
+        "swinger"
+    ],
+    "PATRIOT2": [
+        "patriot2"
+    ],
+    "TORNADO6": [
+        "tornado6"
+    ],
+    "FAGGIO3": [
+        "faggio3"
+    ],
+    "FAGGION": [
+        "faggio"
+    ],
+    "RAPTOR": [
+        "raptor"
+    ],
+    "VORTEX": [
+        "vortex"
+    ],
+    "AVARUS": [
+        "avarus"
+    ],
+    "SANCTUS": [
+        "sanctus"
+    ],
+    "YOUGA2": [
+        "youga2"
+    ],
+    "HAKUCHOU2": [
+        "hakuchou2"
+    ],
+    "NIGHTBLADE": [
+        "nightblade"
+    ],
+    "CHIMERA": [
+        "chimera"
+    ],
+    "ESSKEY": [
+        "esskey"
+    ],
+    "WOLFSBANE": [
+        "wolfsbane"
+    ],
+    "ZOMBIEA": [
+        "zombiea"
+    ],
+    "ZOMBIEB": [
+        "zombieb"
+    ],
+    "DEFILER": [
+        "defiler"
+    ],
+    "DAEMON2": [
+        "daemon2"
+    ],
+    "RATBIKE": [
+        "ratbike"
+    ],
+    "SHOTARO": [
+        "shotaro"
+    ],
+    "MANCHEZ": [
+        "manchez"
+    ],
+    "BLAZER4": [
+        "blazer4"
+    ],
+    "jester2": [
+        "jester2"
+    ],
+    "massacro2": [
+        "massacro2"
+    ],
+    "RLOADER2": [
+        "ratloader2"
+    ],
+    "SLAMVAN": [
+        "slamvan"
+    ],
+    "Z190": [
+        "z190"
+    ],
+    "VISERIS": [
+        "viseris"
+    ],
+    "COMET5": [
+        "comet5"
+    ],
+    "RAIDEN": [
+        "raiden"
+    ],
+    "RIATA": [
+        "riata"
+    ],
+    "SC1": [
+        "sc1"
+    ],
+    "AUTARCH": [
+        "autarch"
+    ],
+    "SAVESTRA": [
+        "savestra"
+    ],
+    "GT500": [
+        "gt500"
+    ],
+    "COMET4": [
+        "comet4"
+    ],
+    "NEON": [
+        "neon"
+    ],
+    "SENTINEL3": [
+        "sentinel3"
+    ],
+    "KHANJALI": [
+        "khanjali"
+    ],
+    "BARRAGE": [
+        "barrage"
+    ],
+    "VOLATOL": [
+        "volatol"
+    ],
+    "AKULA": [
+        "akula"
+    ],
+    "DELUXO": [
+        "deluxo"
+    ],
+    "STROMBER": [
+        "stromberg"
+    ],
+    "CHERNOBOG": [
+        "chernobog"
+    ],
+    "RIOT2": [
+        "riot2"
+    ],
+    "AVENGER": [
+        "avenger",
+        "avenger2"
+    ],
+    "THRUSTER": [
+        "thruster"
+    ],
+    "YOSEMITE": [
+        "yosemite"
+    ],
+    "HERMES": [
+        "hermes"
+    ],
+    "HUSTLER": [
+        "hustler"
+    ],
+    "STREITER": [
+        "streiter"
+    ],
+    "REVOLTER": [
+        "revolter"
+    ],
+    "PARIAH": [
+        "pariah"
+    ],
+    "KAMACHO": [
+        "kamacho"
+    ],
+    "ASTRON2": [
+        "astron2"
+    ],
+    "CYCLONE2": [
+        "cyclone2"
+    ],
+    "ARBITERGT": [
+        "arbitergt"
+    ],
+    "IGNUS2": [
+        "ignus2"
+    ],
+    "S95": [
+        "s95"
+    ],
+    "LURCHER": [
+        "Lurcher"
+    ],
+    "BTYPE2": [
+        "btype2"
+    ],
+    "BIFTA": [
+        "bifta"
+    ],
+    "KALAHARI": [
+        "kalahari"
+    ],
+    "PARADISE": [
+        "paradise"
+    ],
+    "SHINOBI": [
+        "shinobi"
+    ],
+    "REEVER": [
+        "reever"
+    ],
+    "CHAMPION": [
+        "champion"
+    ],
+    "CINQUEMILA": [
+        "cinquemila"
+    ],
+    "I-WAGEN": [
+        "iwagen"
+    ],
+    "ASTRON": [
+        "astron"
+    ],
+    "BALLER7": [
+        "baller7"
+    ],
+    "BUFFALO4": [
+        "buffalo4"
+    ],
+    "COMET7": [
+        "comet7"
+    ],
+    "DEITY": [
+        "deity"
+    ],
+    "IGNUS": [
+        "ignus"
+    ],
+    "JUBILEE": [
+        "jubilee"
+    ],
+    "PATRIOT3": [
+        "patriot3"
+    ],
+    "ZENO": [
+        "zeno"
+    ],
+    "GRANGER2": [
+        "granger2"
+    ],
+    "YOUGA4": [
+        "youga4"
+    ],
+    "TURISMO2": [
+        "turismo2"
+    ],
+    "INFERNUS2": [
+        "infernus2"
+    ],
+    "GP1": [
+        "gp1"
+    ],
+    "RUSTON": [
+        "ruston"
+    ],
+    "OPENWHEEL1": [
+        "openwheel1"
+    ],
+    "COQUETTE4": [
+        "coquette4"
+    ],
+    "TIGON": [
+        "tigon"
+    ],
+    "penumbra2": [
+        "penumbra2"
+    ],
+    "LANDSTLKR2": [
+        "landstalker2"
+    ],
+    "YOSEMITE3": [
+        "yosemite3"
+    ],
+    "CLUB": [
+        "club"
+    ],
+    "GAUNTLET5": [
+        "gauntlet5"
+    ],
+    "DUKES3": [
+        "dukes3"
+    ],
+    "YOUGA3": [
+        "youga3"
+    ],
+    "GLENDALE2": [
+        "glendale2"
+    ],
+    "SEMINOLE2": [
+        "seminole2"
+    ],
+    "OPENWHEEL2": [
+        "openwheel2"
+    ],
+    "PEYOTE3": [
+        "peyote3"
+    ],
+    "MANANA2": [
+        "manana2"
+    ],
+    "OMNISEGT": [
+        "omnisegt"
+    ],
+    "SENTINEL4": [
+        "sentinel4"
+    ],
+    "RUINER4": [
+        "ruiner4"
+    ],
+    "BRIOSO3": [
+        "brioso3"
+    ],
+    "CORSITA": [
+        "corsita"
+    ],
+    "DRAUGUR": [
+        "draugur"
+    ],
+    "KANJOSJ": [
+        "kanjosj"
+    ],
+    "POSTLUDE": [
+        "postlude"
+    ],
+    "TORERO2": [
+        "torero2"
+    ],
+    "VIGERO2": [
+        "vigero2"
+    ],
+    "LM87": [
+        "lm87"
+    ],
+    "TENF": [
+        "tenf"
+    ],
+    "TENF2": [
+        "tenf2"
+    ],
+    "RHINEHART": [
+        "rhinehart"
+    ],
+    "CONADA": [
+        "conada"
+    ],
+    "GREENWOOD": [
+        "greenwood"
+    ],
+    "SM722": [
+        "sm722"
+    ],
+    "WEEVIL2": [
+        "weevil2"
+    ],
+    "ROOSEVELT2": [
+        "btype3"
+    ],
+    "TAMPA": [
+        "tampa"
+    ],
+    "JESTER": [
+        "jester"
+    ],
+    "TURISMOR": [
+        "turismor"
+    ],
+    "ALPHA": [
+        "alpha"
+    ],
+    "VESTRA": [
+        "vestra"
+    ],
+    "ZENTORNO": [
+        "zentorno"
+    ],
+    "MASSACRO": [
+        "massacro"
+    ],
+    "HUNTLEY": [
+        "huntley"
+    ],
+    "THRUST": [
+        "thrust"
+    ]
+}
