@@ -3,7 +3,7 @@
         "models": [
             "airtug"
         ],
-        "data": {
+        "handling": {
             "handlingName": "AIRTUG",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -63,7 +63,7 @@
         "models": [
             "adder"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ADDER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -123,7 +123,7 @@
         "models": [
             "airbus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "AIRBUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -183,7 +183,7 @@
         "models": [
             "ambulance"
         ],
-        "data": {
+        "handling": {
             "handlingName": "AMBULAN",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -244,7 +244,7 @@
             "asea",
             "asea2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ASEA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -304,7 +304,7 @@
         "models": [
             "asterope"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ASTEROPE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -365,7 +365,7 @@
             "barracks3",
             "barracks"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BARRACKS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -425,7 +425,7 @@
         "models": [
             "barracks2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BARRACKS2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -485,7 +485,7 @@
         "models": [
             "biff"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BIFF",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -545,7 +545,7 @@
         "models": [
             "baller"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BALLER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -605,7 +605,7 @@
         "models": [
             "baller2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BALLER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -665,7 +665,7 @@
         "models": [
             "banshee"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BANSHEE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -725,7 +725,7 @@
         "models": [
             "benson"
         ],
-        "data": {
+        "handling": {
             "handlingName": "benson",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -787,7 +787,7 @@
             "bison2",
             "bison3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BISON",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -847,7 +847,7 @@
         "models": [
             "bfinjection"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BFINJECT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -907,7 +907,7 @@
         "models": [
             "bjxl"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BJXL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -968,7 +968,7 @@
             "blazer",
             "blazer3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BLAZER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1028,7 +1028,7 @@
         "models": [
             "blazer2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BLAZER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1088,7 +1088,7 @@
         "models": [
             "blista"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BLISTA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1148,7 +1148,7 @@
         "models": [
             "bobcatxl"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BOBCATXL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1208,7 +1208,7 @@
         "models": [
             "bodhi2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BODHI2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1271,7 +1271,7 @@
             "boxville2",
             "boxville3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BOXVILLE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1331,7 +1331,7 @@
         "models": [
             "buccaneer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BUCCANEE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1391,7 +1391,7 @@
         "models": [
             "buffalo"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BUFFALO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1451,7 +1451,7 @@
         "models": [
             "buffalo2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BUFFALO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1511,7 +1511,7 @@
         "models": [
             "bullet"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BULLET",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1576,7 +1576,7 @@
             "burrito5",
             "gburrito"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BURRITO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1636,7 +1636,7 @@
         "models": [
             "bus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1696,7 +1696,7 @@
         "models": [
             "caddy"
         ],
-        "data": {
+        "handling": {
             "handlingName": "caddy",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1756,7 +1756,7 @@
         "models": [
             "caddy2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CADDY2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1816,7 +1816,7 @@
         "models": [
             "camper"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CAMPER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1876,7 +1876,7 @@
         "models": [
             "carbonizzare"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CARBONIZ",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1937,7 +1937,7 @@
             "cavalcade",
             "cavalcade2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CAVCADE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -1997,7 +1997,7 @@
         "models": [
             "cheetah"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CHEETAH",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2057,7 +2057,7 @@
         "models": [
             "coach"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COACH",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2117,7 +2117,7 @@
         "models": [
             "cogcabrio"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COGCABRIO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2177,7 +2177,7 @@
         "models": [
             "comet2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COMET",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2237,7 +2237,7 @@
         "models": [
             "coquette"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COQUETTE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2297,7 +2297,7 @@
         "models": [
             "crusader"
         ],
-        "data": {
+        "handling": {
             "handlingName": "crusader",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2358,7 +2358,7 @@
             "dilettante",
             "dilettante2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DILETTANTE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2418,7 +2418,7 @@
         "models": [
             "docktug"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DOCKTUG",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2478,7 +2478,7 @@
         "models": [
             "dominator"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DOMINATOR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2538,7 +2538,7 @@
         "models": [
             "dloader"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DLOADER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2599,7 +2599,7 @@
             "dubsta",
             "dubsta2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DUBSTA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2659,7 +2659,7 @@
         "models": [
             "dune"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DUNE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2719,7 +2719,7 @@
         "models": [
             "dune2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DUNE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2779,7 +2779,7 @@
         "models": [
             "elegy2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ELEGY2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2839,7 +2839,7 @@
         "models": [
             "entityxf"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ENTITYXF",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2901,7 +2901,7 @@
             "emperor2",
             "emperor3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "EMPEROR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -2961,7 +2961,7 @@
         "models": [
             "exemplar"
         ],
-        "data": {
+        "handling": {
             "handlingName": "EXEMPLAR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3021,7 +3021,7 @@
         "models": [
             "f620"
         ],
-        "data": {
+        "handling": {
             "handlingName": "F620",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3081,7 +3081,7 @@
         "models": [
             "fbi"
         ],
-        "data": {
+        "handling": {
             "handlingName": "fbi",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3142,7 +3142,7 @@
             "fbi2",
             "sheriff2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "fbi2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3202,7 +3202,7 @@
         "models": [
             "felon"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FELON",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3262,7 +3262,7 @@
         "models": [
             "felon2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FELON2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3322,7 +3322,7 @@
         "models": [
             "feltzer2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FELTZER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3382,7 +3382,7 @@
         "models": [
             "flatbed"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FLATBED",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3442,7 +3442,7 @@
         "models": [
             "firetruk"
         ],
-        "data": {
+        "handling": {
             "handlingName": "firetruk",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3502,7 +3502,7 @@
         "models": [
             "forklift"
         ],
-        "data": {
+        "handling": {
             "handlingName": "forklift",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3562,7 +3562,7 @@
         "models": [
             "fq2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FQ2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3622,7 +3622,7 @@
         "models": [
             "fugitive"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FUGITIVE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3682,7 +3682,7 @@
         "models": [
             "futo"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FUTO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3742,7 +3742,7 @@
         "models": [
             "fusilade"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FUSILADE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3802,7 +3802,7 @@
         "models": [
             "gauntlet"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GAUNTLET",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3862,7 +3862,7 @@
         "models": [
             "granger"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GRANGER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3922,7 +3922,7 @@
         "models": [
             "gresley"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GRESLEY",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -3982,7 +3982,7 @@
         "models": [
             "habanero"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HABANERO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4042,7 +4042,7 @@
         "models": [
             "handler"
         ],
-        "data": {
+        "handling": {
             "handlingName": "handler",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4102,7 +4102,7 @@
         "models": [
             "hauler"
         ],
-        "data": {
+        "handling": {
             "handlingName": "hauler",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4162,7 +4162,7 @@
         "models": [
             "hotknife"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HOTKNIFE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4222,7 +4222,7 @@
         "models": [
             "infernus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "INFERNUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4282,7 +4282,7 @@
         "models": [
             "ingot"
         ],
-        "data": {
+        "handling": {
             "handlingName": "INGOT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4342,7 +4342,7 @@
         "models": [
             "intruder"
         ],
-        "data": {
+        "handling": {
             "handlingName": "INTRUDER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4402,7 +4402,7 @@
         "models": [
             "issi2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ISSI",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4462,7 +4462,7 @@
         "models": [
             "Jackal"
         ],
-        "data": {
+        "handling": {
             "handlingName": "JACKAL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4522,7 +4522,7 @@
         "models": [
             "jb700"
         ],
-        "data": {
+        "handling": {
             "handlingName": "JB700",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4582,7 +4582,7 @@
         "models": [
             "journey"
         ],
-        "data": {
+        "handling": {
             "handlingName": "JOURNEY",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4642,7 +4642,7 @@
         "models": [
             "khamelion"
         ],
-        "data": {
+        "handling": {
             "handlingName": "KHAMEL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4702,7 +4702,7 @@
         "models": [
             "landstalker"
         ],
-        "data": {
+        "handling": {
             "handlingName": "LANDSTALKER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4762,7 +4762,7 @@
         "models": [
             "lguard"
         ],
-        "data": {
+        "handling": {
             "handlingName": "LGUARD",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4822,7 +4822,7 @@
         "models": [
             "manana"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MANANA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4882,7 +4882,7 @@
         "models": [
             "minivan"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MINIVAN",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -4942,7 +4942,7 @@
         "models": [
             "mixer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MIXER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5002,7 +5002,7 @@
         "models": [
             "mixer2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MIXER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5064,7 +5064,7 @@
             "mesa2",
             "mesa3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MESA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5125,7 +5125,7 @@
             "mule",
             "mule2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MULE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5185,7 +5185,7 @@
         "models": [
             "monroe"
         ],
-        "data": {
+        "handling": {
             "handlingName": "monroe",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5245,7 +5245,7 @@
         "models": [
             "mower"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MOWER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5306,7 +5306,7 @@
             "ninef",
             "ninef2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NINEF",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5366,7 +5366,7 @@
         "models": [
             "oracle"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ORACLE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5426,7 +5426,7 @@
         "models": [
             "oracle2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ORACLE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5486,7 +5486,7 @@
         "models": [
             "packer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PACKER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5546,7 +5546,7 @@
         "models": [
             "pbus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PBUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5606,7 +5606,7 @@
         "models": [
             "phantom"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PHANTOM",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5666,7 +5666,7 @@
         "models": [
             "patriot"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PATRIOT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5726,7 +5726,7 @@
         "models": [
             "penumbra"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PENUMBRA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5786,7 +5786,7 @@
         "models": [
             "peyote"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PEYOTE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5846,7 +5846,7 @@
         "models": [
             "phoenix"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PHOENIX",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5906,7 +5906,7 @@
         "models": [
             "picador"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PICADOR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -5967,7 +5967,7 @@
             "police",
             "police4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "police",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6027,7 +6027,7 @@
         "models": [
             "police2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "police2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6087,7 +6087,7 @@
         "models": [
             "police3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "police3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6147,7 +6147,7 @@
         "models": [
             "policet"
         ],
-        "data": {
+        "handling": {
             "handlingName": "POLICET",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6207,7 +6207,7 @@
         "models": [
             "policeold1"
         ],
-        "data": {
+        "handling": {
             "handlingName": "POLICEOLD",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6267,7 +6267,7 @@
         "models": [
             "policeold2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "POLICEOL2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6328,7 +6328,7 @@
             "pony",
             "pony2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PONY",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6388,7 +6388,7 @@
         "models": [
             "pounder"
         ],
-        "data": {
+        "handling": {
             "handlingName": "POUNDER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6448,7 +6448,7 @@
         "models": [
             "prairie"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PRAIRIE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6508,7 +6508,7 @@
         "models": [
             "pranger"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PRANGER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6568,7 +6568,7 @@
         "models": [
             "premier"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PREMIER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6628,7 +6628,7 @@
         "models": [
             "primo"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PRIMO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6688,7 +6688,7 @@
         "models": [
             "radi"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RADI",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6749,7 +6749,7 @@
             "rancherxl",
             "rancherxl2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RANCHERXL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6809,7 +6809,7 @@
         "models": [
             "ratloader"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RLOADER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6870,7 +6870,7 @@
             "rapidgt",
             "rapidgt2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RAPIDGT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6931,7 +6931,7 @@
             "rebel",
             "rebel2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "REBEL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -6991,7 +6991,7 @@
         "models": [
             "regina"
         ],
-        "data": {
+        "handling": {
             "handlingName": "REGINA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7051,7 +7051,7 @@
         "models": [
             "riot"
         ],
-        "data": {
+        "handling": {
             "handlingName": "riot",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7111,7 +7111,7 @@
         "models": [
             "ripley"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RIPLEY",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7171,7 +7171,7 @@
         "models": [
             "rocoto"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ROCOTO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7231,7 +7231,7 @@
         "models": [
             "romero"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ROMERO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7291,7 +7291,7 @@
         "models": [
             "rubble"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RUBBLE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7352,7 +7352,7 @@
             "ruiner3",
             "ruiner"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RUINER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7413,7 +7413,7 @@
             "rumpo",
             "rumpo2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RUMPO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7474,7 +7474,7 @@
             "sadler",
             "sadler2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SADLER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7534,7 +7534,7 @@
         "models": [
             "sabregt"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SABREGT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7595,7 +7595,7 @@
             "sandking",
             "sandking2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SANDKING",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7655,7 +7655,7 @@
         "models": [
             "schafter2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SCHAFTER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7715,7 +7715,7 @@
         "models": [
             "schwarzer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SCHWARZE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7775,7 +7775,7 @@
         "models": [
             "scrap"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SCRAP",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7836,7 +7836,7 @@
             "sentinel",
             "sentinel2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SENTINEL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7896,7 +7896,7 @@
         "models": [
             "seminole"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SEMINOLE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -7956,7 +7956,7 @@
         "models": [
             "serrano"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SERRANO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8016,7 +8016,7 @@
         "models": [
             "sheriff"
         ],
-        "data": {
+        "handling": {
             "handlingName": "sheriff",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8077,7 +8077,7 @@
             "speedo",
             "speedo2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "speedo",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8137,7 +8137,7 @@
         "models": [
             "stanier"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STANIER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8197,7 +8197,7 @@
         "models": [
             "stinger"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STINGER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8257,7 +8257,7 @@
         "models": [
             "stingergt"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STINGERGT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8318,7 +8318,7 @@
             "stockade",
             "stockade3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "stockade",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8378,7 +8378,7 @@
         "models": [
             "stratum"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STRATUM",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8438,7 +8438,7 @@
         "models": [
             "stretch"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STRETCH",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8498,7 +8498,7 @@
         "models": [
             "sultan"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SULTAN",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8558,7 +8558,7 @@
         "models": [
             "surano"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SURANO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8619,7 +8619,7 @@
             "surfer",
             "surfer2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SURFER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8679,7 +8679,7 @@
         "models": [
             "surge"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SURGE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8739,7 +8739,7 @@
         "models": [
             "superd"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SUPERD",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8799,7 +8799,7 @@
         "models": [
             "taco"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TACO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8859,7 +8859,7 @@
         "models": [
             "tailgater"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TAILGATE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8919,7 +8919,7 @@
         "models": [
             "taxi"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TAXI2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -8979,7 +8979,7 @@
         "models": [
             "tiptruck"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TIPTRUCK",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9039,7 +9039,7 @@
         "models": [
             "tiptruck2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TIPTRUCK2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9102,7 +9102,7 @@
             "tornado3",
             "tornado4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TORNADO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9163,7 +9163,7 @@
             "rentalbus",
             "tourbus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TOURBUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9223,7 +9223,7 @@
         "models": [
             "towtruck"
         ],
-        "data": {
+        "handling": {
             "handlingName": "towtruck",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9283,7 +9283,7 @@
         "models": [
             "towtruck2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "towtruck2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9344,7 +9344,7 @@
             "trash2",
             "trash"
         ],
-        "data": {
+        "handling": {
             "handlingName": "trash",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9404,7 +9404,7 @@
         "models": [
             "tractor"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TRACTOR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9465,7 +9465,7 @@
             "tractor2",
             "tractor3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TRACTOR2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9525,7 +9525,7 @@
         "models": [
             "utillitruck"
         ],
-        "data": {
+        "handling": {
             "handlingName": "UTILTRUC",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9585,7 +9585,7 @@
         "models": [
             "utillitruck2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "UTILTRUC2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9645,7 +9645,7 @@
         "models": [
             "utillitruck3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "UTILTRUC3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9705,7 +9705,7 @@
         "models": [
             "vacca"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VACCA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9765,7 +9765,7 @@
         "models": [
             "vigero"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VIGERO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9825,7 +9825,7 @@
         "models": [
             "voodoo2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VOODOO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9885,7 +9885,7 @@
         "models": [
             "voltic"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VOLTIC",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -9945,7 +9945,7 @@
         "models": [
             "washington"
         ],
-        "data": {
+        "handling": {
             "handlingName": "WASHINGTON",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10005,7 +10005,7 @@
         "models": [
             "youga"
         ],
-        "data": {
+        "handling": {
             "handlingName": "YOUGA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10065,7 +10065,7 @@
         "models": [
             "ztype"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ztype",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10126,7 +10126,7 @@
             "zion",
             "zion2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ZION",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10186,7 +10186,7 @@
         "models": [
             "akuma"
         ],
-        "data": {
+        "handling": {
             "handlingName": "AKUMA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10246,7 +10246,7 @@
         "models": [
             "bagger"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BAGGER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10307,7 +10307,7 @@
             "bati",
             "bati2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BATI",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10367,7 +10367,7 @@
         "models": [
             "carbonrs"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CARBON",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10427,7 +10427,7 @@
         "models": [
             "daemon"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DAEMON",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10487,7 +10487,7 @@
         "models": [
             "double"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DOUBLE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10547,7 +10547,7 @@
         "models": [
             "faggio2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FAGGIO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10607,7 +10607,7 @@
         "models": [
             "hexer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HEXER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10667,7 +10667,7 @@
         "models": [
             "nemesis"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NEMESIS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10727,7 +10727,7 @@
         "models": [
             "pcj"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PCJ",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10787,7 +10787,7 @@
         "models": [
             "ruffian"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RUFFIAN",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10848,7 +10848,7 @@
             "sanchez",
             "sanchez2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "sanchez",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10909,7 +10909,7 @@
             "sovereign",
             "policeb"
         ],
-        "data": {
+        "handling": {
             "handlingName": "POLICEB",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -10969,7 +10969,7 @@
         "models": [
             "vader"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VADER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11029,7 +11029,7 @@
         "models": [
             "BMX"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BMX",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11089,7 +11089,7 @@
         "models": [
             "cruiser"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CRUISER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11149,7 +11149,7 @@
         "models": [
             "fixter"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FIXTER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11209,7 +11209,7 @@
         "models": [
             "scorcher"
         ],
-        "data": {
+        "handling": {
             "handlingName": "scorcher",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11271,7 +11271,7 @@
             "tribike2",
             "tribike3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TRIBIKE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11331,7 +11331,7 @@
         "models": [
             "cargoplane"
         ],
-        "data": {
+        "handling": {
             "handlingName": "cargoplane",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11391,7 +11391,7 @@
         "models": [
             "cuban800"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CUBAN800",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11451,7 +11451,7 @@
         "models": [
             "duster"
         ],
-        "data": {
+        "handling": {
             "handlingName": "duster",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11511,7 +11511,7 @@
         "models": [
             "luxor"
         ],
-        "data": {
+        "handling": {
             "handlingName": "luxor",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11571,7 +11571,7 @@
         "models": [
             "jet"
         ],
-        "data": {
+        "handling": {
             "handlingName": "jet",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11631,7 +11631,7 @@
         "models": [
             "lazer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "LAZER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11691,7 +11691,7 @@
         "models": [
             "stunt"
         ],
-        "data": {
+        "handling": {
             "handlingName": "stunt",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11751,7 +11751,7 @@
         "models": [
             "titan"
         ],
-        "data": {
+        "handling": {
             "handlingName": "titan",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11811,7 +11811,7 @@
         "models": [
             "shamal"
         ],
-        "data": {
+        "handling": {
             "handlingName": "shamal",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11871,7 +11871,7 @@
         "models": [
             "mammatus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "mammatus",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11932,7 +11932,7 @@
             "velum2",
             "velum"
         ],
-        "data": {
+        "handling": {
             "handlingName": "velum",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -11997,7 +11997,7 @@
             "freightgrain",
             "tankercar"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FREIGHT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12058,7 +12058,7 @@
             "freightcar2",
             "freightcar"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FREIGHTCAR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12118,7 +12118,7 @@
         "models": [
             "metrotrain"
         ],
-        "data": {
+        "handling": {
             "handlingName": "metrotrain",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12180,7 +12180,7 @@
             "armytrailer2",
             "freighttrailer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ARMYTRAILER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12240,7 +12240,7 @@
         "models": [
             "baletrailer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BALETRAILER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12300,7 +12300,7 @@
         "models": [
             "boattrailer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BOATTRAILER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12360,7 +12360,7 @@
         "models": [
             "docktrailer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DOCKTRAILER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12420,7 +12420,7 @@
         "models": [
             "graintrailer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GRAINTRAIL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12480,7 +12480,7 @@
         "models": [
             "proptrailer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "proptrailer",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12540,7 +12540,7 @@
         "models": [
             "raketrailer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RAKETRAILER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12602,7 +12602,7 @@
             "armytanker",
             "tanker"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TANKER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12662,7 +12662,7 @@
         "models": [
             "trailerlogs"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TRAILERL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12727,7 +12727,7 @@
             "tvtrailer",
             "trflat"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TRAILER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12788,7 +12788,7 @@
             "tr2",
             "tr4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "tr2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12848,7 +12848,7 @@
         "models": [
             "tr3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TR3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12908,7 +12908,7 @@
         "models": [
             "trailersmall"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TRAILERSMALL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -12968,7 +12968,7 @@
         "models": [
             "bulldozer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BULLDOZE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13028,7 +13028,7 @@
         "models": [
             "cutter"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CUTTER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13088,7 +13088,7 @@
         "models": [
             "dump"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DUMP",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13148,7 +13148,7 @@
         "models": [
             "rhino"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RHINO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13209,7 +13209,7 @@
         "models": [
             "submersible"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SUBMERSIBLE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13271,7 +13271,7 @@
             "dinghy3",
             "dinghy"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DINGHY",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13331,7 +13331,7 @@
         "models": [
             "dinghy2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DINGHY2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13391,7 +13391,7 @@
         "models": [
             "marquis"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MARQUIS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13451,7 +13451,7 @@
         "models": [
             "predator"
         ],
-        "data": {
+        "handling": {
             "handlingName": "predator",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13511,7 +13511,7 @@
         "models": [
             "jetmax"
         ],
-        "data": {
+        "handling": {
             "handlingName": "JETMAX",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13571,7 +13571,7 @@
         "models": [
             "squalo"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SQUALO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13631,7 +13631,7 @@
         "models": [
             "suntrap"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SUNTRAP",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13693,7 +13693,7 @@
             "seashark",
             "seashark2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SEASHARK",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13754,7 +13754,7 @@
             "tropic2",
             "tropic"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TROPIC",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13814,7 +13814,7 @@
         "models": [
             "annihilator"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ANNIHL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13874,7 +13874,7 @@
         "models": [
             "buzzard"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BUZZARD",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13934,7 +13934,7 @@
         "models": [
             "buzzard2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BUZZARD2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -13997,7 +13997,7 @@
             "cargobob2",
             "cargobob3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "cargobob",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14058,7 +14058,7 @@
             "frogger",
             "frogger2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FROGGER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14118,7 +14118,7 @@
         "models": [
             "maverick"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MAVERICK",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14178,7 +14178,7 @@
         "models": [
             "polmav"
         ],
-        "data": {
+        "handling": {
             "handlingName": "polmav",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14238,7 +14238,7 @@
         "models": [
             "skylift"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SKYLIFT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14299,7 +14299,7 @@
             "blimp3",
             "blimp"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BLIMP",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14359,7 +14359,7 @@
         "models": [
             "innovation"
         ],
-        "data": {
+        "handling": {
             "handlingName": "INNOVAT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14419,7 +14419,7 @@
         "models": [
             "stalion"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STALION",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14479,7 +14479,7 @@
         "models": [
             "speeder"
         ],
-        "data": {
+        "handling": {
             "handlingName": "speeder",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14539,7 +14539,7 @@
         "models": [
             "stalion2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STALION2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14599,7 +14599,7 @@
         "models": [
             "insurgent"
         ],
-        "data": {
+        "handling": {
             "handlingName": "INSURGENT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14659,7 +14659,7 @@
         "models": [
             "insurgent2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "INSURGENT2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14719,7 +14719,7 @@
         "models": [
             "caracara"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CARACARA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14779,7 +14779,7 @@
         "models": [
             "cheburek"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CHEBUREK",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14839,7 +14839,7 @@
         "models": [
             "dominator3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DOMINATOR3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14900,7 +14900,7 @@
         "models": [
             "ellie"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ELLIE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -14961,7 +14961,7 @@
         "models": [
             "entity2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ENTITY2",
             "fMass": null,
             "fDownforceModifier": null,
@@ -15022,7 +15022,7 @@
         "models": [
             "fagaloa"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FAGALOA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -15082,7 +15082,7 @@
         "models": [
             "flashgt"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FLASHGT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -15143,7 +15143,7 @@
         "models": [
             "gb200"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GB200",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -15204,7 +15204,7 @@
         "models": [
             "hotring"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HOTRING",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -15265,7 +15265,7 @@
         "models": [
             "issi3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ISSI3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -15332,7 +15332,7 @@
         "models": [
             "jester3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "JESTER3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -15392,7 +15392,7 @@
         "models": [
             "michelli"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MICHELLI",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -15452,7 +15452,7 @@
         "models": [
             "seasparrow"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SEASPARROW",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -15530,7 +15530,7 @@
         "models": [
             "tezeract"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TEZERACT",
             "fMass": null,
             "fDownforceModifier": null,
@@ -15591,7 +15591,7 @@
         "models": [
             "taipan"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TAIPAN",
             "fMass": null,
             "fDownforceModifier": null,
@@ -15652,7 +15652,7 @@
         "models": [
             "tyrant"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TYRANT",
             "fMass": null,
             "fDownforceModifier": null,
@@ -15713,7 +15713,7 @@
         "models": [
             "freecrawler"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FREECRAWLER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -15773,7 +15773,7 @@
         "models": [
             "menacer"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MENACER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -15833,7 +15833,7 @@
         "models": [
             "mule4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MULE4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -15893,7 +15893,7 @@
         "models": [
             "oppressor2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "OPPRESSOR2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -15973,7 +15973,7 @@
         "models": [
             "patriot2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PATRIOT2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16033,7 +16033,7 @@
         "models": [
             "pbus2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PBUS2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16093,7 +16093,7 @@
         "models": [
             "pounder2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "POUNDER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16153,7 +16153,7 @@
         "models": [
             "scramjet"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SCRAMJET",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16215,7 +16215,7 @@
         "models": [
             "speedo4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SPEEDO4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16275,7 +16275,7 @@
         "models": [
             "stafford"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STAFFORD",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16335,7 +16335,7 @@
         "models": [
             "strikeforce"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STRIKEFORCE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16395,7 +16395,7 @@
         "models": [
             "swinger"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SWINGER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16461,7 +16461,7 @@
         "models": [
             "terbyte"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TERRORBYTE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16521,7 +16521,7 @@
         "models": [
             "chimera"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CHIMERA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16581,7 +16581,7 @@
         "models": [
             "defiler"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DEFILER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16641,7 +16641,7 @@
         "models": [
             "vortex"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VORTEX",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16701,7 +16701,7 @@
         "models": [
             "nightblade"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NIGHTBLADE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16761,7 +16761,7 @@
         "models": [
             "zombiea"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ZOMBIEA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16821,7 +16821,7 @@
         "models": [
             "zombieb"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ZOMBIEB",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16881,7 +16881,7 @@
         "models": [
             "avarus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "AVARUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -16941,7 +16941,7 @@
         "models": [
             "sanctus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SANCTUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17001,7 +17001,7 @@
         "models": [
             "esskey"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ESSKEY",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17061,7 +17061,7 @@
         "models": [
             "manchez"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MANCHEZ",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17121,7 +17121,7 @@
         "models": [
             "ratbike"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RATBIKE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17181,7 +17181,7 @@
         "models": [
             "hakuchou2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HAKUCHOU2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17241,7 +17241,7 @@
         "models": [
             "shotaro"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SHOTARO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17301,7 +17301,7 @@
         "models": [
             "raptor"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RAPTOR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17358,7 +17358,7 @@
         "models": [
             "wolfsbane"
         ],
-        "data": {
+        "handling": {
             "handlingName": "WOLFSBANE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17418,7 +17418,7 @@
         "models": [
             "blazer4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BLAZER4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17478,7 +17478,7 @@
         "models": [
             "faggio3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FAGGIO3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17538,7 +17538,7 @@
         "models": [
             "tornado6"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TORNADO6",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17598,7 +17598,7 @@
         "models": [
             "youga2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "YOUGA2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17658,7 +17658,7 @@
         "models": [
             "daemon2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DAEMON2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17718,7 +17718,7 @@
         "models": [
             "faggio"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FAGGION",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17778,7 +17778,7 @@
         "models": [
             "ratloader2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RLOADER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17838,7 +17838,7 @@
         "models": [
             "slamvan"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SLAMVAN",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17898,7 +17898,7 @@
         "models": [
             "jester2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "jester2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -17958,7 +17958,7 @@
         "models": [
             "massacro2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "massacro2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18018,7 +18018,7 @@
         "models": [
             "akula"
         ],
-        "data": {
+        "handling": {
             "handlingName": "AKULA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18078,7 +18078,7 @@
         "models": [
             "autarch"
         ],
-        "data": {
+        "handling": {
             "handlingName": "AUTARCH",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18140,7 +18140,7 @@
             "avenger",
             "avenger2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "AVENGER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18220,7 +18220,7 @@
         "models": [
             "barrage"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BARRAGE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18298,7 +18298,7 @@
         "models": [
             "chernobog"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CHERNOBOG",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18358,7 +18358,7 @@
         "models": [
             "comet4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COMET4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18418,7 +18418,7 @@
         "models": [
             "comet5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COMET5",
             "fMass": null,
             "fDownforceModifier": null,
@@ -18479,7 +18479,7 @@
         "models": [
             "deluxo"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DELUXO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18539,7 +18539,7 @@
         "models": [
             "gt500"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GT500",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18599,7 +18599,7 @@
         "models": [
             "hermes"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HERMES",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18659,7 +18659,7 @@
         "models": [
             "hustler"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HUSTLER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18719,7 +18719,7 @@
         "models": [
             "kamacho"
         ],
-        "data": {
+        "handling": {
             "handlingName": "KAMACHO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18779,7 +18779,7 @@
         "models": [
             "khanjali"
         ],
-        "data": {
+        "handling": {
             "handlingName": "KHANJALI",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18840,7 +18840,7 @@
         "models": [
             "neon"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NEON",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18900,7 +18900,7 @@
         "models": [
             "pariah"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PARIAH",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -18960,7 +18960,7 @@
         "models": [
             "raiden"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RAIDEN",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19020,7 +19020,7 @@
         "models": [
             "revolter"
         ],
-        "data": {
+        "handling": {
             "handlingName": "REVOLTER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19080,7 +19080,7 @@
         "models": [
             "riata"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RIATA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19140,7 +19140,7 @@
         "models": [
             "riot2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RIOT2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19200,7 +19200,7 @@
         "models": [
             "savestra"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SAVESTRA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19260,7 +19260,7 @@
         "models": [
             "sc1"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SC1",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19320,7 +19320,7 @@
         "models": [
             "streiter"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STREITER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19380,7 +19380,7 @@
         "models": [
             "stromberg"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STROMBER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19440,7 +19440,7 @@
         "models": [
             "sentinel3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SENTINEL3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19500,7 +19500,7 @@
         "models": [
             "thruster"
         ],
-        "data": {
+        "handling": {
             "handlingName": "THRUSTER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19580,7 +19580,7 @@
         "models": [
             "viseris"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VISERIS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19641,7 +19641,7 @@
         "models": [
             "volatol"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VOLATOL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19721,7 +19721,7 @@
         "models": [
             "yosemite"
         ],
-        "data": {
+        "handling": {
             "handlingName": "YOSEMITE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19781,7 +19781,7 @@
         "models": [
             "z190"
         ],
-        "data": {
+        "handling": {
             "handlingName": "z190",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19842,7 +19842,7 @@
             "bruiser",
             "bruiser3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BRUISER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19902,7 +19902,7 @@
         "models": [
             "bruiser2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BRUISER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -19963,7 +19963,7 @@
             "brutus",
             "brutus3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BRUTUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20023,7 +20023,7 @@
         "models": [
             "brutus2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BRUTUS2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20084,7 +20084,7 @@
             "cerberus3",
             "cerberus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CERBERUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20144,7 +20144,7 @@
         "models": [
             "cerberus2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CERBERUS2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20204,7 +20204,7 @@
         "models": [
             "clique"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CLIQUE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20265,7 +20265,7 @@
             "deathbike3",
             "deathbike"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DEATHBIKE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20325,7 +20325,7 @@
         "models": [
             "deathbike2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DEATHBIKE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20385,7 +20385,7 @@
         "models": [
             "deveste"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DEVESTE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20445,7 +20445,7 @@
         "models": [
             "deviant"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DEVIANT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20511,7 +20511,7 @@
             "dominator6",
             "dominator4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DOMINATOR4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20571,7 +20571,7 @@
         "models": [
             "dominator5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DOMINATOR5",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20631,7 +20631,7 @@
         "models": [
             "impaler"
         ],
-        "data": {
+        "handling": {
             "handlingName": "IMPALER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20693,7 +20693,7 @@
             "impaler4",
             "impaler2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "IMPALER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20753,7 +20753,7 @@
         "models": [
             "impaler3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "IMPALER3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20815,7 +20815,7 @@
             "imperator",
             "imperator3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "IMPERATOR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20875,7 +20875,7 @@
         "models": [
             "imperator2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "IMPERATOR2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20936,7 +20936,7 @@
             "issi6",
             "issi4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ISSI4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -20996,7 +20996,7 @@
         "models": [
             "issi5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ISSI5",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21056,7 +21056,7 @@
         "models": [
             "italigto"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ITALIGTO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21118,7 +21118,7 @@
             "monster5",
             "monster3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MONSTER3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21193,7 +21193,7 @@
         "models": [
             "rcbandito"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RCBANDITO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21254,7 +21254,7 @@
             "scarab",
             "scarab3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SCARAB",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21314,7 +21314,7 @@
         "models": [
             "scarab2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SCARAB2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21374,7 +21374,7 @@
         "models": [
             "schlagen"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SCHLAGEN",
             "fMass": null,
             "fDownforceModifier": null,
@@ -21436,7 +21436,7 @@
             "slamvan6",
             "slamvan4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SLAMVAN4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21496,7 +21496,7 @@
         "models": [
             "slamvan5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SLAMVAN5",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21556,7 +21556,7 @@
         "models": [
             "toros"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TOROS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21616,7 +21616,7 @@
         "models": [
             "tulip"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TULIP",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21676,7 +21676,7 @@
         "models": [
             "vamos"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VAMOS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21741,7 +21741,7 @@
             "zr380",
             "zr3803"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ZR380",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21801,7 +21801,7 @@
         "models": [
             "zr3802"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ZR3802",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21861,7 +21861,7 @@
         "models": [
             "seven70"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SEVEN70",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21921,7 +21921,7 @@
         "models": [
             "pfister811"
         ],
-        "data": {
+        "handling": {
             "handlingName": "pfister811",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -21981,7 +21981,7 @@
         "models": [
             "bestiagts"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BESTIAGTS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22041,7 +22041,7 @@
         "models": [
             "brickade"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BRICKADE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22101,7 +22101,7 @@
         "models": [
             "prototipo"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PROTOTIPO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22161,7 +22161,7 @@
         "models": [
             "rumpo3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RUMPO3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22221,7 +22221,7 @@
         "models": [
             "tug"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TUG",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22281,7 +22281,7 @@
         "models": [
             "volatus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VOLATUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22341,7 +22341,7 @@
         "models": [
             "xls"
         ],
-        "data": {
+        "handling": {
             "handlingName": "XLS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22401,7 +22401,7 @@
         "models": [
             "xls2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "XLS2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22461,7 +22461,7 @@
         "models": [
             "windsor2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "WINDSOR2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22521,7 +22521,7 @@
         "models": [
             "fmj"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FMJ",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22581,7 +22581,7 @@
         "models": [
             "nimbus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NIMBUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22641,7 +22641,7 @@
         "models": [
             "reaper"
         ],
-        "data": {
+        "handling": {
             "handlingName": "REAPER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22701,7 +22701,7 @@
         "models": [
             "arbitergt"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ARBITERGT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22772,7 +22772,7 @@
         "models": [
             "astron2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ASTRON2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22832,7 +22832,7 @@
         "models": [
             "cyclone2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CYCLONE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22892,7 +22892,7 @@
         "models": [
             "ignus2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "IGNUS2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -22952,7 +22952,7 @@
         "models": [
             "s95"
         ],
-        "data": {
+        "handling": {
             "handlingName": "S95",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23012,7 +23012,7 @@
         "models": [
             "dune3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DUNE3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23072,7 +23072,7 @@
         "models": [
             "tampa3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TAMPA3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23132,7 +23132,7 @@
         "models": [
             "halftrack"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HALFTRACK",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23193,7 +23193,7 @@
         "models": [
             "apc"
         ],
-        "data": {
+        "handling": {
             "handlingName": "APC",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23253,7 +23253,7 @@
         "models": [
             "cheetah2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CHEETAH2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23314,7 +23314,7 @@
         "models": [
             "ardent"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ARDENT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23375,7 +23375,7 @@
         "models": [
             "torero"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TORERO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23436,7 +23436,7 @@
         "models": [
             "technical3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TECHNICAL3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23496,7 +23496,7 @@
         "models": [
             "insurgent3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "INSURGENT3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23556,7 +23556,7 @@
         "models": [
             "trailersmall2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TRAILERSMALL2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23616,7 +23616,7 @@
         "models": [
             "vagner"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VAGNER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23677,7 +23677,7 @@
         "models": [
             "caddy3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CADDY3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23737,7 +23737,7 @@
         "models": [
             "hauler2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HAULER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23797,7 +23797,7 @@
         "models": [
             "phantom3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PHANTOM3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23857,7 +23857,7 @@
         "models": [
             "nightshark"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NIGHTSHARK",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23917,7 +23917,7 @@
         "models": [
             "oppressor"
         ],
-        "data": {
+        "handling": {
             "handlingName": "OPPRESSOR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -23977,7 +23977,7 @@
         "models": [
             "xa21"
         ],
-        "data": {
+        "handling": {
             "handlingName": "XA21",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24037,7 +24037,7 @@
         "models": [
             "trailerlarge"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TRAILERLARGE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24097,7 +24097,7 @@
         "models": [
             "btype2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BTYPE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24157,7 +24157,7 @@
         "models": [
             "Lurcher"
         ],
-        "data": {
+        "handling": {
             "handlingName": "LURCHER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24217,7 +24217,7 @@
         "models": [
             "limo2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "LIMO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24277,7 +24277,7 @@
         "models": [
             "mamba"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MAMBA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24337,7 +24337,7 @@
         "models": [
             "nightshade"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NITESHAD",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24397,7 +24397,7 @@
         "models": [
             "schafter3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SCHAFTER3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24457,7 +24457,7 @@
         "models": [
             "schafter4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SCHAFTER4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24517,7 +24517,7 @@
         "models": [
             "schafter5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SCHAFTER5",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24577,7 +24577,7 @@
         "models": [
             "schafter6"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SCHAFTER6",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24638,7 +24638,7 @@
             "supervolito",
             "supervolito2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SVOLITO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24698,7 +24698,7 @@
         "models": [
             "verlierer2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VERLIER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24758,7 +24758,7 @@
         "models": [
             "cognoscenti"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COGNOSC",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24818,7 +24818,7 @@
         "models": [
             "cog55"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COG55",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24878,7 +24878,7 @@
         "models": [
             "cognoscenti2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COGNOSC2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24938,7 +24938,7 @@
         "models": [
             "cog552"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COG552",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -24998,7 +24998,7 @@
         "models": [
             "baller3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BALLER3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25058,7 +25058,7 @@
         "models": [
             "baller4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BALLER4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25118,7 +25118,7 @@
         "models": [
             "baller5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BALLER5",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25178,7 +25178,7 @@
         "models": [
             "baller6"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BALLER6",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25238,7 +25238,7 @@
         "models": [
             "valkyrie2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VALKYR2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25298,7 +25298,7 @@
         "models": [
             "casco"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CASCO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25358,7 +25358,7 @@
         "models": [
             "enduro"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ENDURO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25418,7 +25418,7 @@
         "models": [
             "guardian"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GUARDIAN",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25478,7 +25478,7 @@
         "models": [
             "hydra"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HYDRA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25553,7 +25553,7 @@
         "models": [
             "lectro"
         ],
-        "data": {
+        "handling": {
             "handlingName": "LECTRO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25613,7 +25613,7 @@
         "models": [
             "savage"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SAVAGE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25673,7 +25673,7 @@
         "models": [
             "technical"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TECHNICAL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25733,7 +25733,7 @@
         "models": [
             "gburrito2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GBURRITO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25793,7 +25793,7 @@
         "models": [
             "kuruma"
         ],
-        "data": {
+        "handling": {
             "handlingName": "KURUMA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25854,7 +25854,7 @@
             "mule3",
             "mule5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MULE3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25914,7 +25914,7 @@
         "models": [
             "kuruma2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "KURUMA2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -25974,7 +25974,7 @@
         "models": [
             "valkyrie"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VALKYR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26034,7 +26034,7 @@
         "models": [
             "slamvan2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SLAMVAN2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26094,7 +26094,7 @@
         "models": [
             "asbo"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ASBO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26158,7 +26158,7 @@
         "models": [
             "everon"
         ],
-        "data": {
+        "handling": {
             "handlingName": "EVERON",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26218,7 +26218,7 @@
         "models": [
             "formula"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FORMULA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26279,7 +26279,7 @@
         "models": [
             "formula2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FORMULA2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26340,7 +26340,7 @@
         "models": [
             "furia"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FURIA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26400,7 +26400,7 @@
         "models": [
             "imorgon"
         ],
-        "data": {
+        "handling": {
             "handlingName": "IMORGON",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26461,7 +26461,7 @@
         "models": [
             "jb7002"
         ],
-        "data": {
+        "handling": {
             "handlingName": "JB7002",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26521,7 +26521,7 @@
         "models": [
             "kanjo"
         ],
-        "data": {
+        "handling": {
             "handlingName": "KANJO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26585,7 +26585,7 @@
         "models": [
             "komoda"
         ],
-        "data": {
+        "handling": {
             "handlingName": "KOMODA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26645,7 +26645,7 @@
         "models": [
             "minitank"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MINITANK",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26706,7 +26706,7 @@
         "models": [
             "outlaw"
         ],
-        "data": {
+        "handling": {
             "handlingName": "OUTLAW",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26766,7 +26766,7 @@
         "models": [
             "rebla"
         ],
-        "data": {
+        "handling": {
             "handlingName": "REBLA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26826,7 +26826,7 @@
         "models": [
             "retinue2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RETINUE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -26886,7 +26886,7 @@
         "models": [
             "Sugoi"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SUGOI",
             "fMass": null,
             "fDownforceModifier": null,
@@ -26947,7 +26947,7 @@
         "models": [
             "sultan2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SULTAN2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27007,7 +27007,7 @@
         "models": [
             "Stryder"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STRYDER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27064,7 +27064,7 @@
         "models": [
             "vagrant"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VAGRANT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27124,7 +27124,7 @@
         "models": [
             "vstr"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VSTR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27184,7 +27184,7 @@
         "models": [
             "yosemite2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "YOSEMITE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27246,7 +27246,7 @@
         "models": [
             "zhaba"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ZHABA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27335,7 +27335,7 @@
         "models": [
             "alkonost"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ALKONOST",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27395,7 +27395,7 @@
         "models": [
             "annihilator2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ANNIHLATOR2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27455,7 +27455,7 @@
         "models": [
             "avisa"
         ],
-        "data": {
+        "handling": {
             "handlingName": "AVISA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27515,7 +27515,7 @@
         "models": [
             "brioso2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BRIOSO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27576,7 +27576,7 @@
         "models": [
             "dinghy5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DINGHY5",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27636,7 +27636,7 @@
         "models": [
             "italirsx"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ITALIRSX",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27697,7 +27697,7 @@
         "models": [
             "kosatka"
         ],
-        "data": {
+        "handling": {
             "handlingName": "KOSATKA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27757,7 +27757,7 @@
         "models": [
             "longfin"
         ],
-        "data": {
+        "handling": {
             "handlingName": "LONGFIN",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27817,7 +27817,7 @@
         "models": [
             "manchez2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MANCHEZ2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27877,7 +27877,7 @@
         "models": [
             "patrolboat"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PATROLBOAT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27938,7 +27938,7 @@
             "seasparrow2",
             "seasparrow3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SEASPARROW2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -27998,7 +27998,7 @@
         "models": [
             "slamtruck"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SLAMTRUCK",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28058,7 +28058,7 @@
         "models": [
             "squaddie"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SQUADDIE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28118,7 +28118,7 @@
         "models": [
             "toreador"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TOREADOR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28182,7 +28182,7 @@
         "models": [
             "verus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VERUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28242,7 +28242,7 @@
         "models": [
             "vetir"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VETIR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28302,7 +28302,7 @@
         "models": [
             "veto"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VETO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28362,7 +28362,7 @@
         "models": [
             "veto2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VETO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28422,7 +28422,7 @@
         "models": [
             "weevil"
         ],
-        "data": {
+        "handling": {
             "handlingName": "WEEVIL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28482,7 +28482,7 @@
         "models": [
             "winky"
         ],
-        "data": {
+        "handling": {
             "handlingName": "WINKY",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28542,7 +28542,7 @@
         "models": [
             "technical2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TECHNICAL2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28602,7 +28602,7 @@
         "models": [
             "blazer5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BLAZER5",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28677,7 +28677,7 @@
         "models": [
             "boxville5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BOXVILLE5",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28737,7 +28737,7 @@
         "models": [
             "penetrator"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PENETRATOR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28797,7 +28797,7 @@
         "models": [
             "phantom2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PHANTOM2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28857,7 +28857,7 @@
         "models": [
             "comet3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COMET3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28918,7 +28918,7 @@
         "models": [
             "dune4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DUNE4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -28979,7 +28979,7 @@
         "models": [
             "dune5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DUNE5",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29040,7 +29040,7 @@
         "models": [
             "wastelander"
         ],
-        "data": {
+        "handling": {
             "handlingName": "WASTELANDER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29100,7 +29100,7 @@
         "models": [
             "diablous"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DIABLOUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29160,7 +29160,7 @@
         "models": [
             "diablous2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DIABLOUS2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29220,7 +29220,7 @@
         "models": [
             "nero"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NERO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29280,7 +29280,7 @@
         "models": [
             "nero2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NERO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29340,7 +29340,7 @@
         "models": [
             "fcr"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FCR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29400,7 +29400,7 @@
         "models": [
             "fcr2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FCR2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29460,7 +29460,7 @@
         "models": [
             "italigtb"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ITALIGTB",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29520,7 +29520,7 @@
         "models": [
             "italigtb2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ITALIGTB2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29581,7 +29581,7 @@
         "models": [
             "ruiner2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RUINER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29641,7 +29641,7 @@
         "models": [
             "voltic2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VOLTIC2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29701,7 +29701,7 @@
         "models": [
             "elegy"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ELEGY",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29761,7 +29761,7 @@
         "models": [
             "tempesta"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TEMPESTA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29821,7 +29821,7 @@
         "models": [
             "specter"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SPECTER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29881,7 +29881,7 @@
         "models": [
             "specter2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SPECTER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -29942,7 +29942,7 @@
         "models": [
             "banshee2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BANSHEE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30002,7 +30002,7 @@
         "models": [
             "sultanrs"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SULTANRS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30062,7 +30062,7 @@
         "models": [
             "buccaneer2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BUCCANEE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30122,7 +30122,7 @@
         "models": [
             "chino2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CHINO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30183,7 +30183,7 @@
             "faction",
             "faction2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FACTION",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30244,7 +30244,7 @@
             "moonbeam",
             "moonbeam2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MOONBEAM",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30304,7 +30304,7 @@
         "models": [
             "primo2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PRIMO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30364,7 +30364,7 @@
         "models": [
             "voodoo"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VOODOO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30424,7 +30424,7 @@
         "models": [
             "faction3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FACTION3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30484,7 +30484,7 @@
         "models": [
             "minivan2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MINIVAN2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30544,7 +30544,7 @@
         "models": [
             "sabregt2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SABREGT2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30604,7 +30604,7 @@
         "models": [
             "slamvan3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SLAMVAN3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30664,7 +30664,7 @@
         "models": [
             "tornado5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TORNADO5",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30724,7 +30724,7 @@
         "models": [
             "virgo2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VIRGO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30784,7 +30784,7 @@
         "models": [
             "virgo3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VIRGO3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30844,7 +30844,7 @@
         "models": [
             "feltzer3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FELTZER3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30904,7 +30904,7 @@
         "models": [
             "osiris"
         ],
-        "data": {
+        "handling": {
             "handlingName": "OSIRIS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -30964,7 +30964,7 @@
         "models": [
             "luxor2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "luxor2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31024,7 +31024,7 @@
         "models": [
             "swift2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SWIFT2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31084,7 +31084,7 @@
         "models": [
             "virgo"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VIRGO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31144,7 +31144,7 @@
         "models": [
             "windsor"
         ],
-        "data": {
+        "handling": {
             "handlingName": "WINDSOR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31204,7 +31204,7 @@
         "models": [
             "brawler"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BRAWLER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31264,7 +31264,7 @@
         "models": [
             "chino"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CHINO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31324,7 +31324,7 @@
         "models": [
             "coquette3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COQUETTE3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31384,7 +31384,7 @@
         "models": [
             "t20"
         ],
-        "data": {
+        "handling": {
             "handlingName": "T20",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31445,7 +31445,7 @@
             "toro2",
             "toro"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TORO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31505,7 +31505,7 @@
         "models": [
             "vindicator"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VINDICATOR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31565,7 +31565,7 @@
         "models": [
             "astron"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ASTRON",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31625,7 +31625,7 @@
         "models": [
             "baller7"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BALLER7",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31685,7 +31685,7 @@
         "models": [
             "buffalo4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BUFFALO4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31745,7 +31745,7 @@
         "models": [
             "champion"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CHAMPION",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31805,7 +31805,7 @@
         "models": [
             "cinquemila"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CINQUEMILA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31865,7 +31865,7 @@
         "models": [
             "comet7"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COMET7",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31926,7 +31926,7 @@
         "models": [
             "deity"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DEITY",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -31986,7 +31986,7 @@
         "models": [
             "granger2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GRANGER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32046,7 +32046,7 @@
         "models": [
             "iwagen"
         ],
-        "data": {
+        "handling": {
             "handlingName": "I-WAGEN",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32106,7 +32106,7 @@
         "models": [
             "ignus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "IGNUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32166,7 +32166,7 @@
         "models": [
             "jubilee"
         ],
-        "data": {
+        "handling": {
             "handlingName": "JUBILEE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32226,7 +32226,7 @@
         "models": [
             "patriot3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PATRIOT3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32286,7 +32286,7 @@
         "models": [
             "reever"
         ],
-        "data": {
+        "handling": {
             "handlingName": "REEVER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32346,7 +32346,7 @@
         "models": [
             "shinobi"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SHINOBI",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32406,7 +32406,7 @@
         "models": [
             "youga4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "YOUGA4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32466,7 +32466,7 @@
         "models": [
             "zeno"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ZENO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32526,7 +32526,7 @@
         "models": [
             "hunter"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HUNTER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32586,7 +32586,7 @@
         "models": [
             "tula"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TULA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32666,7 +32666,7 @@
         "models": [
             "seabreeze"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SEABREEZE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32726,7 +32726,7 @@
         "models": [
             "microlight"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MICROLIGHT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32786,7 +32786,7 @@
         "models": [
             "pyro"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PYRO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32846,7 +32846,7 @@
         "models": [
             "starling"
         ],
-        "data": {
+        "handling": {
             "handlingName": "STARLING",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32908,7 +32908,7 @@
         "models": [
             "mogul"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MOGUL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -32970,7 +32970,7 @@
         "models": [
             "alphaz1"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ALPHAZ1",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33030,7 +33030,7 @@
         "models": [
             "rogue"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ROGUE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33090,7 +33090,7 @@
         "models": [
             "nokota"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NOKOTA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33150,7 +33150,7 @@
         "models": [
             "bombushka"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BOMBUSHKA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33212,7 +33212,7 @@
         "models": [
             "molotok"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MOLOTOK",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33272,7 +33272,7 @@
         "models": [
             "havok"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HAVOK",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33332,7 +33332,7 @@
         "models": [
             "howard"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HOWARD",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33392,7 +33392,7 @@
         "models": [
             "rapidgt3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RAPIDGT3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33453,7 +33453,7 @@
         "models": [
             "retinue"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RETINUE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33513,7 +33513,7 @@
         "models": [
             "visione"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VISIONE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33574,7 +33574,7 @@
         "models": [
             "cyclone"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CYCLONE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33634,7 +33634,7 @@
         "models": [
             "vigilante"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VIGILANTE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33695,7 +33695,7 @@
         "models": [
             "gp1"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GP1",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33756,7 +33756,7 @@
         "models": [
             "infernus2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "INFERNUS2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33817,7 +33817,7 @@
         "models": [
             "ruston"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RUSTON",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33878,7 +33878,7 @@
         "models": [
             "turismo2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TURISMO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33939,7 +33939,7 @@
         "models": [
             "bf400"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BF400",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -33999,7 +33999,7 @@
         "models": [
             "cliffhanger"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CLIFFHANG",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34059,7 +34059,7 @@
         "models": [
             "contender"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CONTENDER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34119,7 +34119,7 @@
         "models": [
             "trophytruck"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TROPHY",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34179,7 +34179,7 @@
         "models": [
             "trophytruck2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TROPHY2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34239,7 +34239,7 @@
         "models": [
             "omnis"
         ],
-        "data": {
+        "handling": {
             "handlingName": "OMNIS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34300,7 +34300,7 @@
         "models": [
             "tropos"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TROPOS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34360,7 +34360,7 @@
         "models": [
             "brioso"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BRIOSO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34420,7 +34420,7 @@
         "models": [
             "le7b"
         ],
-        "data": {
+        "handling": {
             "handlingName": "LE7B",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34481,7 +34481,7 @@
         "models": [
             "rallytruck"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RALLYTRUCK",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34541,7 +34541,7 @@
         "models": [
             "tampa2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TAMPA2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34601,7 +34601,7 @@
         "models": [
             "tyrus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TYRUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34662,7 +34662,7 @@
         "models": [
             "gargoyle"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GARGOYLE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34722,7 +34722,7 @@
         "models": [
             "lynx"
         ],
-        "data": {
+        "handling": {
             "handlingName": "LYNX",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34782,7 +34782,7 @@
         "models": [
             "sheava"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SHEAVA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34843,7 +34843,7 @@
         "models": [
             "club"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CLUB",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -34903,7 +34903,7 @@
         "models": [
             "coquette4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COQUETTE4",
             "fMass": null,
             "fDownforceModifier": null,
@@ -34964,7 +34964,7 @@
         "models": [
             "dukes3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DUKES3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35024,7 +35024,7 @@
         "models": [
             "gauntlet5"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GAUNTLET5",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35085,7 +35085,7 @@
         "models": [
             "glendale2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GLENDALE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35145,7 +35145,7 @@
         "models": [
             "landstalker2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "LANDSTLKR2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35205,7 +35205,7 @@
         "models": [
             "manana2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MANANA2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35265,7 +35265,7 @@
         "models": [
             "openwheel1"
         ],
-        "data": {
+        "handling": {
             "handlingName": "OPENWHEEL1",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35326,7 +35326,7 @@
         "models": [
             "openwheel2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "OPENWHEEL2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35387,7 +35387,7 @@
         "models": [
             "penumbra2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PENUMBRA2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35447,7 +35447,7 @@
         "models": [
             "peyote3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PEYOTE3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35507,7 +35507,7 @@
         "models": [
             "seminole2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SEMINOLE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35567,7 +35567,7 @@
         "models": [
             "tigon"
         ],
-        "data": {
+        "handling": {
             "handlingName": "Tigon",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35628,7 +35628,7 @@
         "models": [
             "yosemite3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "YOSEMITE3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35688,7 +35688,7 @@
         "models": [
             "youga3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "YOUGA3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35748,7 +35748,7 @@
         "models": [
             "brioso3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BRIOSO3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35809,7 +35809,7 @@
         "models": [
             "conada"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CONADA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35869,7 +35869,7 @@
         "models": [
             "corsita"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CORSITA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35930,7 +35930,7 @@
         "models": [
             "draugur"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DRAUGUR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -35990,7 +35990,7 @@
         "models": [
             "greenwood"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GREENWOOD",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36050,7 +36050,7 @@
         "models": [
             "kanjosj"
         ],
-        "data": {
+        "handling": {
             "handlingName": "KANJOSJ",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36114,7 +36114,7 @@
         "models": [
             "lm87"
         ],
-        "data": {
+        "handling": {
             "handlingName": "LM87",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36175,7 +36175,7 @@
         "models": [
             "omnisegt"
         ],
-        "data": {
+        "handling": {
             "handlingName": "OMNISEGT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36236,7 +36236,7 @@
         "models": [
             "postlude"
         ],
-        "data": {
+        "handling": {
             "handlingName": "POSTLUDE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36300,7 +36300,7 @@
         "models": [
             "rhinehart"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RHINEHART",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36360,7 +36360,7 @@
         "models": [
             "ruiner4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RUINER4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36420,7 +36420,7 @@
         "models": [
             "sentinel4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SENTINEL4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36481,7 +36481,7 @@
         "models": [
             "sm722"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SM722",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36541,7 +36541,7 @@
         "models": [
             "tenf"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TENF",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36602,7 +36602,7 @@
         "models": [
             "tenf2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TENF2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36663,7 +36663,7 @@
         "models": [
             "torero2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TORERO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36723,7 +36723,7 @@
         "models": [
             "vigero2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VIGERO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36784,7 +36784,7 @@
         "models": [
             "weevil2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "WEEVIL2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36844,7 +36844,7 @@
         "models": [
             "calico"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CALICO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36905,7 +36905,7 @@
         "models": [
             "comet6"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COMET6",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -36966,7 +36966,7 @@
         "models": [
             "cypher"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CYPHER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37026,7 +37026,7 @@
         "models": [
             "dominator7"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DOMINATOR7",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37087,7 +37087,7 @@
         "models": [
             "dominator8"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DOMINATOR8",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37147,7 +37147,7 @@
         "models": [
             "euros"
         ],
-        "data": {
+        "handling": {
             "handlingName": "EUROS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37207,7 +37207,7 @@
         "models": [
             "futo2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FUTO2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37268,7 +37268,7 @@
         "models": [
             "growler"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GROWLER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37328,7 +37328,7 @@
         "models": [
             "jester4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "JESTER4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37388,7 +37388,7 @@
         "models": [
             "previon"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PREVION",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37448,7 +37448,7 @@
         "models": [
             "remus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "REMUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37509,7 +37509,7 @@
         "models": [
             "rt3000"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RT3000",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37569,7 +37569,7 @@
         "models": [
             "sultan3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SULTAN3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37629,7 +37629,7 @@
         "models": [
             "tailgater2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TAILGATER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37689,7 +37689,7 @@
         "models": [
             "vectre"
         ],
-        "data": {
+        "handling": {
             "handlingName": "VECTRE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37749,7 +37749,7 @@
         "models": [
             "warrener2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "WARRENER2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37809,7 +37809,7 @@
         "models": [
             "zr350"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ZR350",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37870,7 +37870,7 @@
         "models": [
             "btype3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ROOSEVELT2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37930,7 +37930,7 @@
         "models": [
             "caracara2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "CARACARA2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -37990,7 +37990,7 @@
         "models": [
             "drafter"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DRAFTER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38050,7 +38050,7 @@
         "models": [
             "Dynasty"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DYNASTY",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38112,7 +38112,7 @@
         "models": [
             "emerus"
         ],
-        "data": {
+        "handling": {
             "handlingName": "EMERUS",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38173,7 +38173,7 @@
         "models": [
             "gauntlet3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GAUNTLET3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38234,7 +38234,7 @@
         "models": [
             "gauntlet4"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GAUNTLET4",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38294,7 +38294,7 @@
         "models": [
             "hellion"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HELLION",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38354,7 +38354,7 @@
         "models": [
             "issi7"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ISSI7",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38415,7 +38415,7 @@
         "models": [
             "jugular"
         ],
-        "data": {
+        "handling": {
             "handlingName": "JUGULAR",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38476,7 +38476,7 @@
         "models": [
             "krieger"
         ],
-        "data": {
+        "handling": {
             "handlingName": "KRIEGER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38537,7 +38537,7 @@
         "models": [
             "locust"
         ],
-        "data": {
+        "handling": {
             "handlingName": "LOCUST",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38598,7 +38598,7 @@
         "models": [
             "nebula"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NEBULA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38662,7 +38662,7 @@
         "models": [
             "neo"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NEO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38722,7 +38722,7 @@
         "models": [
             "Novak"
         ],
-        "data": {
+        "handling": {
             "handlingName": "NOVAK",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38782,7 +38782,7 @@
         "models": [
             "paragon"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PARAGON",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38842,7 +38842,7 @@
         "models": [
             "paragon2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PARAGON2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38902,7 +38902,7 @@
         "models": [
             "peyote2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PEYOTE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -38962,7 +38962,7 @@
         "models": [
             "rrocket"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RROCKET",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39022,7 +39022,7 @@
         "models": [
             "s80"
         ],
-        "data": {
+        "handling": {
             "handlingName": "S80",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39083,7 +39083,7 @@
         "models": [
             "thrax"
         ],
-        "data": {
+        "handling": {
             "handlingName": "THRAX",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39144,7 +39144,7 @@
         "models": [
             "zion3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ZION3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39204,7 +39204,7 @@
         "models": [
             "zorrusso"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ZORRUSSO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39265,7 +39265,7 @@
         "models": [
             "tampa"
         ],
-        "data": {
+        "handling": {
             "handlingName": "TAMPA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39325,7 +39325,7 @@
         "models": [
             "bifta"
         ],
-        "data": {
+        "handling": {
             "handlingName": "bifta",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39385,7 +39385,7 @@
         "models": [
             "kalahari"
         ],
-        "data": {
+        "handling": {
             "handlingName": "kalahari",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39445,7 +39445,7 @@
         "models": [
             "paradise"
         ],
-        "data": {
+        "handling": {
             "handlingName": "paradise",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39505,7 +39505,7 @@
         "models": [
             "alpha"
         ],
-        "data": {
+        "handling": {
             "handlingName": "alpha",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39565,7 +39565,7 @@
         "models": [
             "jester"
         ],
-        "data": {
+        "handling": {
             "handlingName": "jester",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39625,7 +39625,7 @@
         "models": [
             "turismor"
         ],
-        "data": {
+        "handling": {
             "handlingName": "turismor",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39685,7 +39685,7 @@
         "models": [
             "vestra"
         ],
-        "data": {
+        "handling": {
             "handlingName": "vestra",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39745,7 +39745,7 @@
         "models": [
             "huntley"
         ],
-        "data": {
+        "handling": {
             "handlingName": "huntley",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39805,7 +39805,7 @@
         "models": [
             "massacro"
         ],
-        "data": {
+        "handling": {
             "handlingName": "massacro",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39865,7 +39865,7 @@
         "models": [
             "zentorno"
         ],
-        "data": {
+        "handling": {
             "handlingName": "zentorno",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39925,7 +39925,7 @@
         "models": [
             "thrust"
         ],
-        "data": {
+        "handling": {
             "handlingName": "THRUST",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -39985,7 +39985,7 @@
         "models": [
             "blade"
         ],
-        "data": {
+        "handling": {
             "handlingName": "blade",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40045,7 +40045,7 @@
         "models": [
             "rhapsody"
         ],
-        "data": {
+        "handling": {
             "handlingName": "RHAPSODY1",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40105,7 +40105,7 @@
         "models": [
             "warrener"
         ],
-        "data": {
+        "handling": {
             "handlingName": "warrener",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40165,7 +40165,7 @@
         "models": [
             "glendale"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GLENDALE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40225,7 +40225,7 @@
         "models": [
             "dubsta3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DUBSTA3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40285,7 +40285,7 @@
         "models": [
             "panto"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PANTO",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40345,7 +40345,7 @@
         "models": [
             "pigalle"
         ],
-        "data": {
+        "handling": {
             "handlingName": "PIGALLE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40405,7 +40405,7 @@
         "models": [
             "monster"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MONSTER",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40465,7 +40465,7 @@
         "models": [
             "furoregt"
         ],
-        "data": {
+        "handling": {
             "handlingName": "FUROREGT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40525,7 +40525,7 @@
         "models": [
             "hakuchou"
         ],
-        "data": {
+        "handling": {
             "handlingName": "HAKUCHOU",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40585,7 +40585,7 @@
         "models": [
             "miljet"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MILJET",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40645,7 +40645,7 @@
         "models": [
             "coquette2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "COQUETTE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40705,7 +40705,7 @@
         "models": [
             "besra"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BESRA",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40765,7 +40765,7 @@
         "models": [
             "swift"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SWIFT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40825,7 +40825,7 @@
         "models": [
             "btype"
         ],
-        "data": {
+        "handling": {
             "handlingName": "ROOSEVELT",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40885,7 +40885,7 @@
         "models": [
             "dodo"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SEAPLANE",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -40945,7 +40945,7 @@
         "models": [
             "submersible2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "SUBMERSIBLE2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -41005,7 +41005,7 @@
         "models": [
             "dukes"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DUKES",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -41065,7 +41065,7 @@
         "models": [
             "dukes2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DUKES2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -41125,7 +41125,7 @@
         "models": [
             "dominator2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "DOMINATOR2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -41185,7 +41185,7 @@
         "models": [
             "buffalo3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BUFFALO3",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -41245,7 +41245,7 @@
         "models": [
             "gauntlet2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "GAUNTLET2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -41305,7 +41305,7 @@
         "models": [
             "blimp2"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BLIMP2",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -41365,7 +41365,7 @@
         "models": [
             "marshall"
         ],
-        "data": {
+        "handling": {
             "handlingName": "MARSHALL",
             "fMass": null,
             "fInitialDragCoeff": null,
@@ -41426,7 +41426,7 @@
             "blista2",
             "blista3"
         ],
-        "data": {
+        "handling": {
             "handlingName": "BLISTA2",
             "fMass": null,
             "fInitialDragCoeff": null,

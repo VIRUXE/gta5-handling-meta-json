@@ -119,7 +119,7 @@ for file in os.listdir('handlingmeta'):
                 handling_meta[handling_name] = {
                     "models": handling_models[handling_name],
                     # ! This needs some more work since the values are not parsed correctly
-                    "data": item_to_dict(item) # Convert entire 'item' element and all its children to a dict
+                    "handling": item_to_dict(item) # Convert entire 'item' element and all its children to a dict
                 }
                 # Print a green message if the handling ID is present in the 'handling_models' dict
                 print(f"\033[92m[{file}] Added vehicle '{handling_name}' to 'handling_meta'\033[0m")
